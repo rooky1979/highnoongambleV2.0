@@ -12,7 +12,7 @@ xmlns:layout="sap.ui.layout">
                         <ImageContent src="webapp/images/mindout.jpg" />
                     </TileContent>
                 </GenericTile>
-                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>chapter3Title}" subheader="{i18n>chapter3Tagline}" press=".pressTile" url="https://www.sap.com/" type="Navigation">
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>chapter3Title}" subheader="{i18n>chapter3Tagline}" press=".pressTile" url="https://www.sap.com/" >
                     <TileContent>
                         <ImageContent src="webapp/images/mindout.jpg" />
                     </TileContent>

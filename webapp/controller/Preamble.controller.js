@@ -11,11 +11,14 @@ sap.ui.define([
         return Controller.extend("HNGv2.highnoongamble.controller.Preamble", {
             onInit: function () {
                 
-                var path = jQuery.sap.getModulePath("HNGv2.highnoongamble", "webapp/model/preamble.json");
+                /* var path = jQuery.sap.getModulePath("HNGv2.highnoongamble", "webapp/model/preamble.json");
 
                 var model = new JSONModel(path);
 
-                this.getView().setModel(model, "preamble"); 
+                this.getView().setModel(model, "preamble");  */
+                /*this below code for get the JSON Model form Manifest.json file*/
+			var dataModel = this.getOwnerComponent().getModel("preamble");
+			this.getView().setModel(dataModel, "preamble");
 
             },
             pressTile: function (oEvent) {
