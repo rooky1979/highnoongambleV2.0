@@ -1,0 +1,22 @@
+<mvc:View
+controllerName="HNGv2.highnoongamble.controller.Format"
+xmlns="sap.m"
+xmlns:mvc="sap.ui.core.mvc"
+displayBlock="true"
+xmlns:layout="sap.ui.layout">
+        <layout:VerticalLayout class="sapUiResponsiveMargin">
+            <Title titleStyle="H2" text="{i18n>formatGroupTitle}" class="sapUiTinyMarginBegin" />
+            <layout:HorizontalLayout allowWrapping="true">
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>scriptTitle}"  press=".press" url="https://www.sap.com/">
+                    <TileContent>
+                        <ImageContent src="webapp/images/mindout.jpg" />
+                    </TileContent>
+                </GenericTile>
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>postInChatTitle}"  press=".press" url="https://www.sap.com/">
+                    <TileContent>
+                        <ImageContent src="webapp/images/mindout.jpg" />
+                    </TileContent>
+                </GenericTile>
+            </layout:HorizontalLayout>
+        </layout:VerticalLayout>
+</mvc:View>

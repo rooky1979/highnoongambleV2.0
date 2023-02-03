@@ -1,0 +1,37 @@
+<mvc:View
+controllerName="HNGv2.highnoongamble.controller.Tools"
+xmlns="sap.m"
+xmlns:mvc="sap.ui.core.mvc"
+displayBlock="true"
+xmlns:layout="sap.ui.layout">
+        <layout:VerticalLayout class="sapUiResponsiveMargin">
+            <Title titleStyle="H2" text="{i18n>toolsGroupTitle}" class="sapUiTinyMarginBegin" />
+            <layout:HorizontalLayout allowWrapping="true">
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>myMindTitle}" subheader="{i18n>myMindTagline}" press=".press" url="https://www.sap.com/">
+                    <TileContent>
+                        <ImageContent src="webapp/images/mindout.jpg" />
+                    </TileContent>
+                </GenericTile>
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>commonClichesTitle}" subheader="{i18n>commonClichesTagline}" press=".press" url="https://www.sap.com/">
+                    <TileContent>
+                        <ImageContent src="webapp/images/mindout.jpg" />
+                    </TileContent>
+                </GenericTile>
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>additionalClichesTitle}" subheader="{i18n>additionalClichesTagline}" press=".press" url="https://www.sap.com/">
+                    <TileContent>
+                        <ImageContent src="webapp/images/mindout.jpg" />
+                    </TileContent>
+                </GenericTile>
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>soberCardsTitle}" subheader="{i18n>soberCardsTagline}" press=".press" url="https://www.sap.com/">
+                    <TileContent>
+                        <ImageContent src="webapp/images/mindout.jpg" />
+                    </TileContent>
+                </GenericTile>
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>bigbookCardsTitle}" subheader="{i18n>bigbookCardsTagline}" press=".press" url="https://www.sap.com/">
+                    <TileContent>
+                        <ImageContent src="webapp/images/mindout.jpg" />
+                    </TileContent>
+                </GenericTile>
+            </layout:HorizontalLayout>
+        </layout:VerticalLayout>
+</mvc:View>

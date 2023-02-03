@@ -1,0 +1,37 @@
+<mvc:View
+controllerName="HNGv2.highnoongamble.controller.Readings"
+xmlns="sap.m"
+xmlns:mvc="sap.ui.core.mvc"
+displayBlock="true"
+xmlns:layout="sap.ui.layout">
+        <layout:VerticalLayout class="sapUiResponsiveMargin">
+            <Title titleStyle="H2" text="{i18n>readingsGroupTitle}" class="sapUiTinyMarginBegin" />
+            <layout:HorizontalLayout allowWrapping="true">
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>preambleTitle}"  press=".pressTile" url="https://www.sap.com/">
+                    <TileContent>
+                        <ImageContent src="webapp/images/mindout.jpg" />
+                    </TileContent>
+                </GenericTile>
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>chapter3Title}" subheader="{i18n>chapter3Tagline}" press=".pressTile" url="https://www.sap.com/" type="Navigation">
+                    <TileContent>
+                        <ImageContent src="webapp/images/mindout.jpg" />
+                    </TileContent>
+                </GenericTile>
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>chapter5Title}" subheader="{i18n>chapter5Tagline}" press=".pressTile" url="https://www.sap.com/">
+                    <TileContent>
+                        <ImageContent src="webapp/images/mindout.jpg" />
+                    </TileContent>
+                </GenericTile>
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>12TradsTitle}" press=".pressTile" url="https://www.sap.com/">
+                    <TileContent>
+                        <ImageContent src="webapp/images/mindout.jpg" />
+                    </TileContent>
+                </GenericTile>
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>responsibleTitle}" press=".pressTile" url="https://www.sap.com/">
+                    <TileContent>
+                        <ImageContent src="webapp/images/mindout.jpg" />
+                    </TileContent>
+                </GenericTile>
+            </layout:HorizontalLayout>
+        </layout:VerticalLayout>
+</mvc:View>
