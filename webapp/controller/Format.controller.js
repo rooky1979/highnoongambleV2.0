@@ -11,8 +11,15 @@ sap.ui.define([
             onInit: function () {
 
             },
-            press: function () {
-                alert("No shit it works");
+            onNavToScript: function() {
+                this.getRouter().navTo("script");
+            },
+    
+            onNavToPostInChat: function() {
+                this.getRouter().navTo("chat");
+            },
+            getRouter: function() {
+                return this.getOwnerComponent().getRouter();
             }
         });
     });

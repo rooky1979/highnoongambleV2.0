@@ -11,9 +11,25 @@ sap.ui.define([
             onInit: function () {
 
             },
-            pressTile: function (oEvent) {
-                var oRouter = sap.ui.core.UIComponent.getRouterFor(this);
-                oRouter.navTo("preamble");
+            onNavToPreamble: function() {
+                this.getRouter().navTo("preamble");
+            },
+    
+            onNavToChapter3: function() {
+                this.getRouter().navTo("chapter3");
+            },
+            onNavToChapter5: function() {    
+                this.getRouter().navTo("chapter5");
+            },
+            onNavToTraditions: function() {    
+                this.getRouter().navTo("traditions");
+            },
+            onNavToResponsibility: function() {    
+                this.getRouter().navTo("responsibility");
+            },
+        
+            getRouter: function() {
+                return this.getOwnerComponent().getRouter();
             }
         });
     });

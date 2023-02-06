@@ -7,27 +7,27 @@ xmlns:layout="sap.ui.layout">
         <layout:VerticalLayout class="sapUiResponsiveMargin">
             <Title titleStyle="H2" text="{i18n>readingsGroupTitle}" class="sapUiTinyMarginBegin" />
             <layout:HorizontalLayout allowWrapping="true">
-                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>preambleTitle}"  press=".pressTile" url="https://www.sap.com/">
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>preambleTitle}"  press=".onNavToPreamble" url="https://www.sap.com/">
                     <TileContent>
                         <ImageContent src="webapp/images/mindout.jpg" />
                     </TileContent>
                 </GenericTile>
-                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>chapter3Title}" subheader="{i18n>chapter3Tagline}" press=".pressTile" url="https://www.sap.com/" >
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>chapter3Title}" subheader="{i18n>chapter3Tagline}" press=".onNavToChapter3" url="https://www.sap.com/" >
                     <TileContent>
                         <ImageContent src="webapp/images/mindout.jpg" />
                     </TileContent>
                 </GenericTile>
-                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>chapter5Title}" subheader="{i18n>chapter5Tagline}" press=".pressTile" url="https://www.sap.com/">
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>chapter5Title}" subheader="{i18n>chapter5Tagline}" press=".onNavToChapter5" url="https://www.sap.com/">
                     <TileContent>
                         <ImageContent src="webapp/images/mindout.jpg" />
                     </TileContent>
                 </GenericTile>
-                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>12TradsTitle}" press=".pressTile" url="https://www.sap.com/">
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>12TradsTitle}" press=".onNavToTraditions" url="https://www.sap.com/">
                     <TileContent>
                         <ImageContent src="webapp/images/mindout.jpg" />
                     </TileContent>
                 </GenericTile>
-                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>responsibleTitle}" press=".pressTile" url="https://www.sap.com/">
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>responsibleTitle}" press=".onNavToResponsibility" url="https://www.sap.com/">
                     <TileContent>
                         <ImageContent src="webapp/images/mindout.jpg" />
                     </TileContent>

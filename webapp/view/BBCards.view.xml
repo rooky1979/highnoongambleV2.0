@@ -1,0 +1,9 @@
+<mvc:View
+controllerName="HNGv2.highnoongamble.controller.Tools"
+xmlns="sap.m"
+xmlns:mvc="sap.ui.core.mvc"
+displayBlock="true"
+xmlns:layout="sap.ui.layout">
+            <Title titleStyle="H2" text="{i18n>bigbookCardsTitle}" class="sapUiTinyMarginBegin" />
+           
+</mvc:View>

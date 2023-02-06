@@ -95,10 +95,87 @@
           ]
         },
         {
+          "name": "myMind",
+          "pattern": "myMind",
+          "target": [
+            "myMind"
+          ]
+        },
+        {
+          "name": "commonCliches",
+          "pattern": "commonCliches",
+          "target": [
+            "commonCliches"
+          ]
+        },
+        {
+          "name": "soberCards",
+          "pattern": "soberCards",
+          "target": [
+            "soberCards"
+          ]
+        },
+        {
+          "name": "bbCards",
+          "pattern": "bbCards",
+          "target": [
+            "bbCards"
+          ]
+        },
+        {
+          "name": "additionalCliches",
+          "pattern": "additionalCliches",
+          "target": [
+            "additionalCliches"
+          ]
+        },
+        {
           "name": "preamble",
           "pattern": "preamble",
           "target": [
             "preamble"
+          ]
+        },
+        {
+          "name": "chapter3",
+          "pattern": "chapter3",
+          "target": [
+            "chapter3"
+          ]
+        },
+        {
+          "name": "chapter5",
+          "pattern": "chapter5",
+          "target": [
+            "chapter5"
+          ]
+        },
+        {
+          "name": "traditions",
+          "pattern": "traditions",
+          "target": [
+            "traditions"
+          ]
+        },
+        {
+          "name": "responsibility",
+          "pattern": "responsibility",
+          "target": [
+            "responsibility"
+          ]
+        },
+        {
+          "name": "script",
+          "pattern": "script",
+          "target": [
+            "script"
+          ]
+        },
+        {
+          "name": "chat",
+          "pattern": "chat",
+          "target": [
+            "chat"
           ]
         }
       ],
@@ -110,9 +187,53 @@
           "viewId": "start",
           "viewName": "start"
         },
+        "myMind": {
+          "viewId": "MyMind",
+          "viewName": "MyMind"
+        },
+        "commonCliches": {
+          "viewId": "CommonCliches",
+          "viewName": "CommonCliches"
+        },
+        "soberCards": {
+          "viewId": "SoberCards",
+          "viewName": "SoberCards"
+        },
+        "additionalCliches": {
+          "viewId": "AdditionalCliches",
+          "viewName": "AdditionalCliches"
+        },
+        "bbCards": {
+          "viewId": "BBCards",
+          "viewName": "BBCards"
+        },
         "preamble": {
-          "viewId": "preamble",
+          "viewId": "Preamble",
           "viewName": "Preamble"
+        },
+        "chapter3": {
+          "viewId": "Chapter3",
+          "viewName": "Chapter3"
+        },
+        "chapter5": {
+          "viewId": "Chapter5",
+          "viewName": "Chapter5"
+        },
+        "traditions": {
+          "viewId": "Traditions",
+          "viewName": "Traditions"
+        },
+        "responsibility": {
+          "viewId": "Responsibility",
+          "viewName": "Responsibility"
+        },
+        "script": {
+          "viewId": "Script",
+          "viewName": "Script"
+        },
+        "chat": {
+          "viewId": "Chat",
+          "viewName": "Chat"
         }
       }
     },
