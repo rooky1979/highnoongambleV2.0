@@ -1,7 +1,7 @@
 <mvc:View controllerName="HNGv2.highnoongamble.controller.Preamble" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:layout="sap.ui.layout">
     <Page id="page" title="{i18n>preambleTitle}">
         <content>
-            <Text text="{preamble>/preamble/text1}" />
+            <Text text="{preamble>/preamble/text1}" /><!--manifestName/JSONobjname/item-->
         </content>
     </Page>
 </mvc:View>
