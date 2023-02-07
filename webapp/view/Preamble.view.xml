@@ -1,10 +1,8 @@
-<mvc:View 
-controllerName="HNGv2.highnoongamble.controller.Preamble" xmlns="sap.m" 
-xmlns:mvc="sap.ui.core.mvc" 
-displayBlock="true" 
-xmlns:layout="sap.ui.layout">
-    <Title titleStyle="H2" text="{i18n>preambleTitle}" class="sapUiTinyMarginBegin" />
-    <Text text="{preamble>text1}"/>
+<mvc:View controllerName="HNGv2.highnoongamble.controller.Preamble" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:layout="sap.ui.layout">
+    <Page id="page" title="{i18n>preambleTitle}">
+        <content>
+            <Text text="{preamble>/preamble/text1}" />
+        </content>
+    </Page>
 </mvc:View>
-
 <!--ADD A BUTTON TO GO BACK-->
