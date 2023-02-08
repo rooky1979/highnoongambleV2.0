@@ -19,6 +19,10 @@
       "preamble":{
         "uri": "model/preamble.json",
         "type": "JSON"
+      },
+      "chapter3":{
+        "uri": "model/chapter3.json",
+        "type": "JSON"
       }
     }
   },
@@ -67,6 +71,10 @@
       "preamble": {
         "type": "sap.ui.model.json.JSONModel",
         "dataSource": "preamble"
+      },
+      "chapter3": {
+        "type": "sap.ui.model.json.JSONModel",
+        "dataSource": "chapter3"
       }
     },
     "resources": {

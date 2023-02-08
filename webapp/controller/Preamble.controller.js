@@ -12,6 +12,10 @@ sap.ui.define(
           "model/preamble.json"
         );
         this.getView().setModel(preamble, "preamble");
+        var cardManifests = new JSONModel();
+
+			/* cardManifests.loadData(sap.ui.require.toUrl("model/cardsManifest.json"));
+			this.getView().setModel(cardManifests, "manifests"); */
       },
     });
   }

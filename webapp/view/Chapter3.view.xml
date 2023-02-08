@@ -4,7 +4,12 @@ xmlns:mvc="sap.ui.core.mvc"
 displayBlock="true" 
 xmlns:layout="sap.ui.layout">
     <Title titleStyle="H2" text="{i18n>chapter3Title}" class="sapUiTinyMarginBegin" />
-    <Text text="{preamble>text1}"/>
+    <Text text="{chapter3>/chapter3/text1}"/>
+    <Text text="{chapter3>/chapter3/text2}"/>
+    <Text text="{chapter3>/chapter3/text3}"/>
+    <Text text="{chapter3>/chapter3/text4}"/>
+    <Text text="{chapter3>/chapter3/text5}"/>
+    <Text text="{chapter3>/chapter3/text6}"/>
 </mvc:View>
 
 <!--ADD A BUTTON TO GO BACK-->
