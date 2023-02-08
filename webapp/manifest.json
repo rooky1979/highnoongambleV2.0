@@ -23,6 +23,10 @@
       "chapter3":{
         "uri": "model/chapter3.json",
         "type": "JSON"
+      },
+      "bbcards":{
+        "uri": "model/bbcards.json",
+        "type": "JSON"
       }
     }
   },
@@ -75,6 +79,10 @@
       "chapter3": {
         "type": "sap.ui.model.json.JSONModel",
         "dataSource": "chapter3"
+      },
+      "bbcards": {
+        "type": "sap.ui.model.json.JSONModel",
+        "dataSource": "bbcards"
       }
     },
     "resources": {

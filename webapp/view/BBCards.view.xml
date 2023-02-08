@@ -4,6 +4,21 @@ xmlns="sap.m"
 xmlns:mvc="sap.ui.core.mvc"
 displayBlock="true"
 xmlns:layout="sap.ui.layout">
-            <Title titleStyle="H2" text="{i18n>bigbookCardsTitle}" class="sapUiTinyMarginBegin" />
+                <Shell>
+        <Page id="page" title="{i18n>bigbookCardsTitle}" >
+            <content>
+                <Panel class="sapUiResponsiveMargin" width="auto">
+                    <content>
+                        <GenericTile  >
+                    <TileContent>
+                        <!-- <ImageContent src="webapp/images/mindout.jpg" /> --><Text text="{chapter3>/chapter3/text1}"/>
+                    </TileContent>
+                </GenericTile>
+                    </content>
+                </Panel>
+            </content>
+        </Page>
+    </Shell>
            
 </mvc:View>
+<!-- header="{i18n>myMindTitle}" subheader="{i18n>myMindTagline}" press=".onNavToMyMind" url="https://www.sap.com/" -->

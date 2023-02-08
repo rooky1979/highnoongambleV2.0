@@ -6,12 +6,12 @@ sap.ui.define(
     function (Controller, JSONModel) {
       "use strict";
   
-      return Controller.extend("HNGv2.highnoongamble.controller.Chapter3", {
+      return Controller.extend("HNGv2.highnoongamble.controller.BBCards", {
         onInit: function () {
-          var chapter3 = new sap.ui.model.json.JSONModel(
-            "model/chapter3.json"
+          var bbcards = new sap.ui.model.json.JSONModel(
+            "model/bbcards.json"
           );
-          this.getView().setModel(chapter3, "chapter3");
+          this.getView().setModel(bbcards, "bbcards");
         },
       });
     }
