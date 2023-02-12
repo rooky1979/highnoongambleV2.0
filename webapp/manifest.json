@@ -27,6 +27,14 @@
       "bbcards":{
         "uri": "model/bbcards.json",
         "type": "JSON"
+      },
+      "sobercards":{
+        "uri": "model/sobercards.json",
+        "type": "JSON"
+      },
+      "commoncliches":{
+        "uri": "model/commoncliches.json",
+        "type": "JSON"
       }
     }
   },
@@ -83,6 +91,14 @@
       "bbcards": {
         "type": "sap.ui.model.json.JSONModel",
         "dataSource": "bbcards"
+      },
+      "sobercards": {
+        "type": "sap.ui.model.json.JSONModel",
+        "dataSource": "sobercards"
+      },
+      "commoncliches": {
+        "type": "sap.ui.model.json.JSONModel",
+        "dataSource": "commoncliches"
       }
     },
     "resources": {

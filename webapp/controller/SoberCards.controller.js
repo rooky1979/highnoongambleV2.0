@@ -6,12 +6,12 @@ sap.ui.define(
     function (Controller, Filter, FilterOperator) {
       "use strict";
   
-      return Controller.extend("HNGv2.highnoongamble.controller.BBCards", {
+      return Controller.extend("HNGv2.highnoongamble.controller.SoberCards", {
         onInit: function () {
-          var bbcardTable = this.getView().byId("bbcards")
-          var bbcardsModel = new sap.ui.model.json.JSONModel();
-          bbcardsModel.loadData("model/bbcards.json")
-          bbcardTable.setModel(bbcardsModel);
+          var sobercardsTable = this.getView().byId("sobercards")
+          var sobercardsModel = new sap.ui.model.json.JSONModel();
+          sobercardsModel.loadData("model/sobercards.json")
+          sobercardsTable.setModel(sobercardsModel);
           //this.getView().setModel(bbcards, "bbcards");
         },
         onSearch: function(oEvent) {
@@ -22,11 +22,10 @@ sap.ui.define(
 			}
 
 			// filter binding
-			var oList = this.byId("bbcards");
+			var oList = this.byId("sobercards");
 			var oBinding = oList.getBinding("items");
 			oBinding.filter(aFilter);
         },
       });
     }
   );
-  //GO BACK BUTTON

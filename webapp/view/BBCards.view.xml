@@ -1,47 +1,22 @@
-<mvc:View controllerName="HNGv2.highnoongamble.controller.Tools" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:layout="sap.ui.layout">
+<mvc:View controllerName="HNGv2.highnoongamble.controller.BBCards" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:layout="sap.ui.layout">
     <Shell>
         <Page id="page" title="{i18n>bigbookCardsTitle}">
-        <Toolbar>
-            <!-- <ToolbarSpacer/> -->
-            <SearchField placeholder="Enter card number" search=".onSearch" width="40%"/>
-        </Toolbar>
-            <content>
-                <Table id="bbcards" items="{path: 'bbcards>/bbcards'}">
-                <columns>
-                <Column width="0.5rem">
-                    <Label text="Card No."/>
-                </Column>
-                <Column width="11rem">
-                    <Label text="Reading"/>
-                </Column>
-                </columns>
-                <ColumnListItem>
-                    <Text text="{bbcards>id}"/>
-                    <Text text="{bbcards>quote}"/>
-                </ColumnListItem>
-                </Table>
-                <Panel class="sapUiResponsiveMargin" width="auto">
-                    <content>
-                        <GenericTile>
-                            <TileContent>
-                                <!-- <ImageContent src="webapp/images/mindout.jpg" /> -->
-                                <Text text="{chapter3>/chapter3/text1}" />
-                            </TileContent>
-                        </GenericTile>
-                    </content>
-                </Panel>
-            </content>
+        <List
+		id="bbcards"
+		class="sapUiResponsiveMargin"
+		width="auto"
+		items="{bbcards>/bbcards}">
+		<headerToolbar>
+			<Toolbar>
+				<SearchField placeholder="Enter Big Book card number" width="50%" search=".onSearch"/>
+			</Toolbar>
+		</headerToolbar>
+		<items>
+			<ObjectListItem
+				title="{bbcards>id}: {bbcards>quote}">				
+			</ObjectListItem>
+		</items>
+	</List>
         </Page>
     </Shell>
 </mvc:View>
-<!-- header="{i18n>myMindTitle}" subheader="{i18n>myMindTagline}" press=".onNavToMyMind" url="https://www.sap.com/" -->
-<!--  <layout:HorizontalLayout allowWrapping="true">
-                <Panel class="sapUiResponsiveMargin" width="auto">
-                <Text class="sapUiResponsiveMargin" text="Enter a card number"/>
-                    <Input class="sapUiResponsiveMargin" width="50%"/>
-                    <content>
-                        <ImageContent src="webapp/images/mindout.jpg" /> <Text text="{bbcards>/bbcards/book}"/>
-
-                    </content>
-                </Panel>
-                </layout:HorizontalLayout> -->

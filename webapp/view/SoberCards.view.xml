@@ -1,9 +1,22 @@
-<mvc:View
-controllerName="HNGv2.highnoongamble.controller.Tools"
-xmlns="sap.m"
-xmlns:mvc="sap.ui.core.mvc"
-displayBlock="true"
-xmlns:layout="sap.ui.layout">
-            <Title titleStyle="H2" text="{i18n>soberCardsTitle}" class="sapUiTinyMarginBegin" />
-           
+<mvc:View controllerName="HNGv2.highnoongamble.controller.SoberCards" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:layout="sap.ui.layout">
+    <Shell>
+        <Page id="page" title="{i18n>soberCardsTitleTitle}">
+        <List
+		id="sobercards"
+		class="sapUiResponsiveMargin"
+		width="auto"
+		items="{sobercards>/sobercards}">
+		<headerToolbar>
+			<Toolbar>
+				<SearchField placeholder="Enter a suit and number" width="50%" search=".onSearch"/>
+			</Toolbar>
+		</headerToolbar>
+		<items>
+			<ObjectListItem
+				title="{sobercards>id}: {sobercards>quote}">				
+			</ObjectListItem>
+		</items>
+	</List>
+        </Page>
+    </Shell>
 </mvc:View>
