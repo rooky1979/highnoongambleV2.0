@@ -5,10 +5,12 @@
 		id="commoncliches"
 		class="sapUiResponsiveMargin"
 		width="auto"
-		items="{commoncliches>/commoncliches}">
+		items="{commoncliches>/commoncliches}"
+		growing="true">
 		<headerToolbar>
 			<Toolbar>
 				<SearchField placeholder="Enter a number" width="50%" search=".onSearch"/>
+				<Button type="Emphasized" text="God Shot" press=".godShot" />
 			</Toolbar>
 		</headerToolbar>
 		<items>

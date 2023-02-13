@@ -2,215 +2,267 @@
 "sobercards": [
     {
       "id": "AH",
-      "quote": "Live and let live."  
+      "quote": "Live and let live.", 
+      "card": "1" 
     },
     {
       "id": "2H",
-      "quote": "Keep recovery first to make it your last."
+      "quote": "Keep recovery first to make it your last.", 
+      "card": "2" 
     },
     {
       "id": "3H",
-      "quote": "Don't let people rent space in your head."    
+      "quote": "Don't let people rent space in your head.", 
+      "card": "3"     
     },
     {
       "id": "4H",
-      "quote": "Nothing changes if nothing changes."  
+      "quote": "Nothing changes if nothing changes.", 
+      "card": "4"   
     },
     {
       "id": "5H",
       "quote":
-        "We either make ourselves miserable or make ourselves stronger, the amount of work is the same."      
+        "We either make ourselves miserable or make ourselves stronger, the amount of work is the same.", 
+        "card": "5"       
     },
     {
       "id": "6H",
-      "quote": "Faith without works is dead."
+      "quote": "Faith without works is dead.", 
+      "card": "6" 
     },
     {
       "id": "7H",
-      "quote": "KISS: Keep It Simple Stupid."
+      "quote": "KISS: Keep It Simple Stupid.", 
+      "card": "7" 
       
     },
     {
       "id": "8H",
-      "quote": "To thine own self be true."   
+      "quote": "To thine own self be true.", 
+      "card": "8"    
     },
     {
       "id": "9H",
-      "quote": "Before you say I can't, say I'll try."
+      "quote": "Before you say I can't, say I'll try.", 
+      "card": "9" 
     },
     {
       "id": "10H",
-      "quote": "Trying to pray is praying."    
+      "quote": "Trying to pray is praying.", 
+      "card": "10"     
     },
     {
       "id": "JH",
-      "quote": "Some things are true whether you believe them or not"    
+      "quote": "Some things are true whether you believe them or not", 
+      "card": "11"     
     },
     {
       "id": "QH",
-      "quote": "One hour at a time, one day at a time, one step at a time."
+      "quote": "One hour at a time, one day at a time, one step at a time.", 
+      "card": "12" 
     },
     {
       "id": "KH",
-      "quote": "It gets real, it gets different, it gets real different."  
+      "quote": "It gets real, it gets different, it gets real different.", 
+      "card": "13"   
     },
     {
       "id": "AC",
-      "quote": "One day at a time." 
+      "quote": "One day at a time.", 
+      "card": "14"  
     },
     {
       "id": "2C",
-      "quote": "Keep coming back. It works if you work it." 
+      "quote": "Keep coming back. It works if you work it.", 
+      "card": "15"  
     },
     {
       "id": "3C",
-      "quote": "Don't quit before the miracle happens."
+      "quote": "Don't quit before the miracle happens.", 
+      "card": "16" 
     },
     {
       "id": "4C",
-      "quote": "We are only as sick as our secrets." 
+      "quote": "We are only as sick as our secrets.", 
+      "card": "17"  
     },
     {
       "id": "5C",
-      "quote": "Willingness is the key."
+      "quote": "Willingness is the key.", 
+      "card": "18" 
     },
     {
       "id": "6C",
       "quote":
-        "Serenity isn't freedom from the storm. It's peace within the storm."
+        "Serenity isn't freedom from the storm. It's peace within the storm.", 
+        "card": "19" 
     },
     {
       "id": "7C",
-      "quote": "Love and tolerance is our code."
+      "quote": "Love and tolerance is our code.", 
+      "card": "20" 
     },
     {
       "id": "8C",
-      "quote": "Easy does it."   
+      "quote": "Easy does it.", 
+      "card": "21"    
     },
     {
       "id": "9C",
-      "quote": "Don't be bitter, be better."
+      "quote": "Don't be bitter, be better.", 
+      "card": "22" 
     },
     {
       "id": "10C",
-      "quote": "Remember, it's progress not perfection."  
+      "quote": "Remember, it's progress not perfection.", 
+      "card": "23"   
     },
     {
       "id": "JC",
-      "quote": "One drink is too many and a thousand is not enough."
+      "quote": "One drink is too many and a thousand is not enough.", 
+      "card": "24" 
     },
     {
       "id": "QC",
-      "quote": "Stick with the winners."    
+      "quote": "Stick with the winners.", 
+      "card": "25"     
     },
     {
       "id": "KC",
-      "quote": "If I could drink like other people I would drink all the time."   
+      "quote": "If I could drink like other people I would drink all the time.", 
+      "card": "26"    
     },
     {
       "id": "AD",
-      "quote": "idle hands are the devil's playground."
+      "quote": "idle hands are the devil's playground.", 
+      "card": "27" 
     },
     {
       "id": "2D",
-      "quote": "First things first."    
+      "quote": "First things first.", 
+      "card": "28"     
     },
     {
       "id": "3D",
-      "quote": "More will be revealed."     
+      "quote": "More will be revealed.", 
+      "card": "29"      
     },
     {
       "id": "4D",
-      "quote": "This too shall pass."     
+      "quote": "This too shall pass.", 
+      "card": "30"      
     },
     {
       "id": "5D",
-      "quote": "Do the next right thing."   
+      "quote": "Do the next right thing.", 
+      "card": "31"    
     },
     {
       "id": "6D",
-      "quote": "Peace and serenity through surrender."   
+      "quote": "Peace and serenity through surrender.", 
+      "card": "32"    
     },
     {
       "id": "7D",
-      "quote": "Don't borrow trouble from tomorrow."     
+      "quote": "Don't borrow trouble from tomorrow.", 
+      "card": "33"      
     },
     {
       "id": "8D",
-      "quote": "Don't take everything so personally." 
+      "quote": "Don't take everything so personally.", 
+      "card": "34"  
     },
     {
       "id": "9D",
-      "quote": "Play the tape out."    
+      "quote": "Play the tape out.", 
+      "card": "35"     
     },
     {
       "id": "10D",
-      "quote": "Instead of saying I have to; say, 'I get to.'"
+      "quote": "Instead of saying I have to; say, 'I get to.'", 
+      "card": "36" 
     },
     {
       "id": "JD",
-      "quote": "Rule#62: Don't take yourself too damn seriously."    
+      "quote": "Rule#62: Don't take yourself too damn seriously.", 
+      "card": "37"     
     },
     {
       "id": "QD",
-      "quote": "Sometimes quickly, sometimes slowly."
+      "quote": "Sometimes quickly, sometimes slowly.", 
+      "card": "38" 
     },
     {
       "id": "KD",
       "quote":
-        "What is the loving and giving action I can do, right here and now in this situation."
+        "What is the loving and giving action I can do, right here and now in this situation.", 
+        "card": "39" 
     },
     {
       "id": "AS",
-      "quote": "Just don't drink."
+      "quote": "Just don't drink.", 
+      "card": "40" 
     },
     {
       "id": "2S",
-      "quote": "When one door closes, another one opens."
+      "quote": "When one door closes, another one opens.", 
+      "card": "41" 
     },
     {
       "id": "3S",
-      "quote": "God is never late."
+      "quote": "God is never late.", 
+      "card": "42" 
     },
     {
       "id": "4S",
-      "quote": "Thy will not mine, be done."
+      "quote": "Thy will not mine, be done.", 
+      "card": "43" 
     },
     {
       "id": "5S",
-      "quote": "Stay sober for yourself."
+      "quote": "Stay sober for yourself.", 
+      "card": "44" 
     },
     {
       "id": "6S",
-      "quote": "Resting on our laurels, we are in trouble if we do."
+      "quote": "Resting on our laurels, we are in trouble if we do.", 
+      "card": "45" 
     },
     {
       "id": "7S",
-      "quote": "If you're feeling guilty, you probably are."   
+      "quote": "If you're feeling guilty, you probably are.", 
+      "card": "46"    
     },
     {
       "id": "8S",
-      "quote": "Start missing meetings and you start missing drinks."     
+      "quote": "Start missing meetings and you start missing drinks.", 
+      "card": "47"      
     },
     {
       "id": "9S",
-      "quote": "Character is how we act when no one is watching."   
+      "quote": "Character is how we act when no one is watching.", 
+      "card": "48"    
     },
     {
       "id": "10S",
-      "quote": "Sobriety is a journey, not a destination."   
+      "quote": "Sobriety is a journey, not a destination.", 
+      "card": "49"    
     },
     {
       "id": "JS",
-      "quote": "Be part of the solution, not the problem." 
+      "quote": "Be part of the solution, not the problem.", 
+      "card": "50"  
     },
     {
       "id": "QS",
-      "quote": "Let go and let God."
+      "quote": "Let go and let God.", 
+      "card": "51" 
     },
     {
       "id": "KS",
-      "quote": "Live in the now, look for the now, accept the good."
+      "quote": "Live in the now, look for the now, accept the good.", 
+      "card": "52" 
     }
   ]
 }

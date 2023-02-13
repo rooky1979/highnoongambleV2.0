@@ -2,13 +2,15 @@
     <Shell>
         <Page id="page" title="{i18n>additionalClichesTitle}">
         <List
-		id="additonalcliches"
+		id="additionalcliches"
 		class="sapUiResponsiveMargin"
 		width="auto"
-		items="{additionalcliches>/additionalcliches}">
+		items="{additionalcliches>/additionalcliches}"
+		growing="true">
 		<headerToolbar>
 			<Toolbar>
 				<SearchField placeholder="{i18n>additionalClichesPlaceholder}" width="50%" search=".onSearch"/>
+				<Button type="Emphasized" text="God Shot" press=".godShot" />
 			</Toolbar>
 		</headerToolbar>
 		<items>

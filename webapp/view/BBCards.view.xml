@@ -9,6 +9,7 @@
 		<headerToolbar>
 			<Toolbar>
 				<SearchField placeholder="{i18n>bbcardsPlaceholder}" width="50%" search=".onSearch"/>
+				<Button type="Emphasized" text="God Shot" press=".godShot"/>
 			</Toolbar>
 		</headerToolbar>
 		<items>

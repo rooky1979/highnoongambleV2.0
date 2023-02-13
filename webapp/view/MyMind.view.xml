@@ -1,23 +1,17 @@
 <mvc:View controllerName="HNGv2.highnoongamble.controller.MyMind" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:layout="sap.ui.layout">
     <Shell>
         <Page id="page" title="{i18n>myMindTitle}">
-        <List
-		id="mymind"
-		class="sapUiResponsiveMargin"
-		width="auto"
-		items="{mymind>/mymind}"
-        growing="true">
-		<headerToolbar>
-			<Toolbar>
-				<SearchField placeholder="{i18n>mymindPlaceholder}" width="50%" search=".onSearch"/>
-			</Toolbar>
-		</headerToolbar>
-		<items>
-			<ObjectListItem
-				title="{mymind>id}: {mymind>quote}">				
-			</ObjectListItem>
-		</items>
-	</List>
+            <List id="mymind" class="sapUiResponsiveMargin" width="auto" items="{mymind>/mymind}" growing="true">
+                <headerToolbar>
+                    <Toolbar>
+                        <SearchField placeholder="{i18n>mymindPlaceholder}" width="50%" search=".onSearch" />
+                        <Button type="Emphasized" text="God Shot" press=".godShot" />
+                    </Toolbar>
+                </headerToolbar>
+                <items>
+                    <ObjectListItem title="{mymind>id}: {mymind>quote}" />
+                </items>
+            </List>
         </Page>
     </Shell>
 </mvc:View>
