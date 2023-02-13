@@ -35,6 +35,34 @@
       "commoncliches":{
         "uri": "model/commoncliches.json",
         "type": "JSON"
+      },
+      "additionalcliches":{
+        "uri": "model/additionalcliches.json",
+        "type": "JSON"
+      },
+      "mymind":{
+        "uri": "model/mymind.json",
+        "type": "JSON"
+      },
+      "chapter5":{
+        "uri": "model/chapter5.json",
+        "type": "JSON"
+      },
+      "traditions":{
+        "uri": "model/traditions.json",
+        "type": "JSON"
+      },
+      "responsibility":{
+        "uri": "model/responsibility.json",
+        "type": "JSON"
+      },
+      "script":{
+        "uri": "model/script.json",
+        "type": "JSON"
+      },
+      "chat":{
+        "uri": "model/chat.json",
+        "type": "JSON"
       }
     }
   },
@@ -99,6 +127,34 @@
       "commoncliches": {
         "type": "sap.ui.model.json.JSONModel",
         "dataSource": "commoncliches"
+      },
+      "additionalcliches": {
+        "type": "sap.ui.model.json.JSONModel",
+        "dataSource": "additionalcliches"
+      },
+      "mymind": {
+        "type": "sap.ui.model.json.JSONModel",
+        "dataSource": "mymind"
+      },
+      "chapter5": {
+        "type": "sap.ui.model.json.JSONModel",
+        "dataSource": "chapter5"
+      },
+      "traditions": {
+        "type": "sap.ui.model.json.JSONModel",
+        "dataSource": "traditions"
+      },
+      "responsibility": {
+        "type": "sap.ui.model.json.JSONModel",
+        "dataSource": "responsibility"
+      },
+      "script": {
+        "type": "sap.ui.model.json.JSONModel",
+        "dataSource": "script"
+      },
+      "chat": {
+        "type": "sap.ui.model.json.JSONModel",
+        "dataSource": "chat"
       }
     },
     "resources": {

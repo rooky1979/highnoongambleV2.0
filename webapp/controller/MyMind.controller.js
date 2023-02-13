@@ -6,10 +6,10 @@ sap.ui.define(
     function (Controller, Filter, FilterOperator) {
       "use strict";
   
-      return Controller.extend("HNGv2.highnoongamble.controller.CommonCliches", {
+      return Controller.extend("HNGv2.highnoongamble.controller.MyMind", {
         onInit: function () {
-          var commonclichesModel = new sap.ui.model.json.JSONModel();
-          commonclichesModel.loadData("model/commoncliches.json")
+          var myMindModel = new sap.ui.model.json.JSONModel();
+          myMindModel.loadData("model/mymind.json")
         },
         onSearch: function(oEvent) {
           var aFilter = [];
@@ -19,7 +19,7 @@ sap.ui.define(
 			}
 
 			// filter binding
-			var oList = this.byId("commoncliches");
+			var oList = this.byId("mymind");
 			var oBinding = oList.getBinding("items");
 			oBinding.filter(aFilter);
         },

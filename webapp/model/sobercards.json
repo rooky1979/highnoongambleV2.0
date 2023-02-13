@@ -1,215 +1,215 @@
 {
 "sobercards": [
     {
-      "id": "A Hearts",
+      "id": "AH",
       "quote": "Live and let live."  
     },
     {
-      "id": "2 Hearts",
+      "id": "2H",
       "quote": "Keep recovery first to make it your last."
     },
     {
-      "id": "3 Hearts",
-      "quote": "Don/'t let people rent space in your head."    
+      "id": "3H",
+      "quote": "Don't let people rent space in your head."    
     },
     {
-      "id": "4 Hearts",
+      "id": "4H",
       "quote": "Nothing changes if nothing changes."  
     },
     {
-      "id": "5 Hearts",
+      "id": "5H",
       "quote":
         "We either make ourselves miserable or make ourselves stronger, the amount of work is the same."      
     },
     {
-      "id": "6 Hearts",
+      "id": "6H",
       "quote": "Faith without works is dead."
     },
     {
-      "id": "7 Hearts",
+      "id": "7H",
       "quote": "KISS: Keep It Simple Stupid."
       
     },
     {
-      "id": "8 Hearts",
+      "id": "8H",
       "quote": "To thine own self be true."   
     },
     {
-      "id": "9 Hearts",
-      "quote": "Before you say I can/'t, say I/'ll try."
+      "id": "9H",
+      "quote": "Before you say I can't, say I'll try."
     },
     {
-      "id": "10 Hearts",
+      "id": "10H",
       "quote": "Trying to pray is praying."    
     },
     {
-      "id": "Jack Hearts",
+      "id": "JH",
       "quote": "Some things are true whether you believe them or not"    
     },
     {
-      "id": "Queen Hearts",
+      "id": "QH",
       "quote": "One hour at a time, one day at a time, one step at a time."
     },
     {
-      "id": "King Hearts",
+      "id": "KH",
       "quote": "It gets real, it gets different, it gets real different."  
     },
     {
-      "id": "A Clubs",
+      "id": "AC",
       "quote": "One day at a time." 
     },
     {
-      "id": "2 Clubs",
+      "id": "2C",
       "quote": "Keep coming back. It works if you work it." 
     },
     {
-      "id": "3 Clubs",
-      "quote": "Don/'t quit before the miracle happens."
+      "id": "3C",
+      "quote": "Don't quit before the miracle happens."
     },
     {
-      "id": "4 Clubs",
+      "id": "4C",
       "quote": "We are only as sick as our secrets." 
     },
     {
-      "id": "5 Clubs",
+      "id": "5C",
       "quote": "Willingness is the key."
     },
     {
-      "id": "6 Clubs",
+      "id": "6C",
       "quote":
-        "Serenity isn/'t freedom from the storm. It/'s peace within the storm."
+        "Serenity isn't freedom from the storm. It's peace within the storm."
     },
     {
-      "id": "7 Clubs",
+      "id": "7C",
       "quote": "Love and tolerance is our code."
     },
     {
-      "id": "8 Clubs",
+      "id": "8C",
       "quote": "Easy does it."   
     },
     {
-      "id": "9 Clubs",
-      "quote": "Don/'t be bitter, be better."
+      "id": "9C",
+      "quote": "Don't be bitter, be better."
     },
     {
-      "id": "10 Clubs",
-      "quote": "Remember, it/'s progress not perfection."  
+      "id": "10C",
+      "quote": "Remember, it's progress not perfection."  
     },
     {
-      "id": "Jack Clubs",
+      "id": "JC",
       "quote": "One drink is too many and a thousand is not enough."
     },
     {
-      "id": "Queen Clubs",
+      "id": "QC",
       "quote": "Stick with the winners."    
     },
     {
-      "id": "King Clubs",
+      "id": "KC",
       "quote": "If I could drink like other people I would drink all the time."   
     },
     {
-      "id": "A Diamonds",
-      "quote": "idle hands are the devil/'s playground."
+      "id": "AD",
+      "quote": "idle hands are the devil's playground."
     },
     {
-      "id": "2 Diamonds",
+      "id": "2D",
       "quote": "First things first."    
     },
     {
-      "id": "3 Diamonds",
+      "id": "3D",
       "quote": "More will be revealed."     
     },
     {
-      "id": "4 Diamonds",
+      "id": "4D",
       "quote": "This too shall pass."     
     },
     {
-      "id": "5 Diamonds",
+      "id": "5D",
       "quote": "Do the next right thing."   
     },
     {
-      "id": "6 Diamonds",
+      "id": "6D",
       "quote": "Peace and serenity through surrender."   
     },
     {
-      "id": "7 Diamonds",
-      "quote": "Don/'t borrow trouble from tomorrow."     
+      "id": "7D",
+      "quote": "Don't borrow trouble from tomorrow."     
     },
     {
-      "id": "8 Diamonds",
-      "quote": "Don/'t take everything so personally." 
+      "id": "8D",
+      "quote": "Don't take everything so personally." 
     },
     {
-      "id": "9 Diamonds",
+      "id": "9D",
       "quote": "Play the tape out."    
     },
     {
-      "id": "10 Diamonds",
-      "quote": "Instead of saying I have to; say, /'I get to./'"
+      "id": "10D",
+      "quote": "Instead of saying I have to; say, 'I get to.'"
     },
     {
-      "id": "Jack Diamonds",
-      "quote": "Rule#62: Don/'t take yourself too damn seriously."    
+      "id": "JD",
+      "quote": "Rule#62: Don't take yourself too damn seriously."    
     },
     {
-      "id": "Queen Diamonds",
+      "id": "QD",
       "quote": "Sometimes quickly, sometimes slowly."
     },
     {
-      "id": "King Diamonds",
+      "id": "KD",
       "quote":
         "What is the loving and giving action I can do, right here and now in this situation."
     },
     {
-      "id": "A Spades",
-      "quote": "Just don/'t drink."
+      "id": "AS",
+      "quote": "Just don't drink."
     },
     {
-      "id": "2 Spades",
+      "id": "2S",
       "quote": "When one door closes, another one opens."
     },
     {
-      "id": "3 Spades",
+      "id": "3S",
       "quote": "God is never late."
     },
     {
-      "id": "4 Spades",
+      "id": "4S",
       "quote": "Thy will not mine, be done."
     },
     {
-      "id": "5 Spades",
+      "id": "5S",
       "quote": "Stay sober for yourself."
     },
     {
-      "id": "6 Spades",
+      "id": "6S",
       "quote": "Resting on our laurels, we are in trouble if we do."
     },
     {
-      "id": "7 Spades",
-      "quote": "If you/'re feeling guilty, you probably are."   
+      "id": "7S",
+      "quote": "If you're feeling guilty, you probably are."   
     },
     {
-      "id": "8 Spades",
+      "id": "8S",
       "quote": "Start missing meetings and you start missing drinks."     
     },
     {
-      "id": "9 Spades",
+      "id": "9S",
       "quote": "Character is how we act when no one is watching."   
     },
     {
-      "id": "10 Spades",
+      "id": "10S",
       "quote": "Sobriety is a journey, not a destination."   
     },
     {
-      "id": "Jack Spades",
+      "id": "JS",
       "quote": "Be part of the solution, not the problem." 
     },
     {
-      "id": "Queen Spades",
+      "id": "QS",
       "quote": "Let go and let God."
     },
     {
-      "id": "King Spades",
+      "id": "KS",
       "quote": "Live in the now, look for the now, accept the good."
     }
   ]

@@ -1,9 +1,22 @@
-<mvc:View
-controllerName="HNGv2.highnoongamble.controller.Tools"
-xmlns="sap.m"
-xmlns:mvc="sap.ui.core.mvc"
-displayBlock="true"
-xmlns:layout="sap.ui.layout">
-            <Title titleStyle="H2" text="{i18n>additionalClichesTitle}" class="sapUiTinyMarginBegin" />
-           
+<mvc:View controllerName="HNGv2.highnoongamble.controller.AdditionalCliches" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:layout="sap.ui.layout">
+    <Shell>
+        <Page id="page" title="{i18n>additionalClichesTitle}">
+        <List
+		id="additonalcliches"
+		class="sapUiResponsiveMargin"
+		width="auto"
+		items="{additionalcliches>/additionalcliches}">
+		<headerToolbar>
+			<Toolbar>
+				<SearchField placeholder="{i18n>additionalClichesPlaceholder}" width="50%" search=".onSearch"/>
+			</Toolbar>
+		</headerToolbar>
+		<items>
+			<ObjectListItem
+				title="{additionalcliches>id}: {additionalcliches>quote}">				
+			</ObjectListItem>
+		</items>
+	</List>
+        </Page>
+    </Shell>
 </mvc:View>

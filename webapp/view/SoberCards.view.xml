@@ -1,6 +1,6 @@
 <mvc:View controllerName="HNGv2.highnoongamble.controller.SoberCards" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:layout="sap.ui.layout">
     <Shell>
-        <Page id="page" title="{i18n>soberCardsTitleTitle}">
+        <Page id="page" title="{i18n>soberCardsTitle}">
         <List
 		id="sobercards"
 		class="sapUiResponsiveMargin"
@@ -8,7 +8,7 @@
 		items="{sobercards>/sobercards}">
 		<headerToolbar>
 			<Toolbar>
-				<SearchField placeholder="Enter a suit and number" width="50%" search=".onSearch"/>
+				<SearchField placeholder="{i18n>sobercardsPlaceholder}" width="50%" search=".onSearch"/>
 			</Toolbar>
 		</headerToolbar>
 		<items>

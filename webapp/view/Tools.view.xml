@@ -7,27 +7,26 @@ xmlns:layout="sap.ui.layout">
         <layout:VerticalLayout class="sapUiResponsiveMargin">
             <Title titleStyle="H2" text="{i18n>toolsGroupTitle}" class="sapUiTinyMarginBegin" />
             <layout:HorizontalLayout allowWrapping="true">
-                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>myMindTitle}" subheader="{i18n>myMindTagline}" press=".onNavToMyMind" url="https://www.sap.com/">
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>myMindTitle}" subheader="{i18n>myMindTagline}" press=".onNavToMyMind">
                     <TileContent>
-                        <!-- <ImageContent src="webapp/images/mindout.jpg" /> -->
                     </TileContent>
                 </GenericTile>
-                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>commonClichesTitle}" subheader="{i18n>commonClichesTagline}" press=".onNavToCommonCliches" url="https://www.sap.com/">
-                    <TileContent>
-                        <ImageContent src="webapp/images/mindout.jpg" />
-                    </TileContent>
-                </GenericTile>
-                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>additionalClichesTitle}" subheader="{i18n>additionalClichesTagline}" press=".onNavToAdditionalCliches" url="https://www.sap.com/">
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>commonClichesTitle}" subheader="{i18n>commonClichesTagline}" press=".onNavToCommonCliches">
                     <TileContent>
                         <ImageContent src="webapp/images/mindout.jpg" />
                     </TileContent>
                 </GenericTile>
-                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>soberCardsTitle}" subheader="{i18n>soberCardsTagline}" press=".onNavToSoberCards" url="https://www.sap.com/">
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>additionalClichesTitle}" subheader="{i18n>additionalClichesTagline}" press=".onNavToAdditionalCliches">
                     <TileContent>
                         <ImageContent src="webapp/images/mindout.jpg" />
                     </TileContent>
                 </GenericTile>
-                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>bigbookCardsTitle}" subheader="{i18n>bigbookCardsTagline}" press=".onNavToBBCards" url="https://www.sap.com/">
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>soberCardsTitle}" subheader="{i18n>soberCardsTagline}" press=".onNavToSoberCards">
+                    <TileContent>
+                        <ImageContent src="webapp/images/mindout.jpg" />
+                    </TileContent>
+                </GenericTile>
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>bigbookCardsTitle}" subheader="{i18n>bigbookCardsTagline}" press=".onNavToBBCards">
                     <TileContent>
                         <ImageContent src="webapp/images/mindout.jpg" />
                     </TileContent>

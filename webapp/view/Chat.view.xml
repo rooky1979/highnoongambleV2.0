@@ -1,10 +1,13 @@
-<mvc:View 
-controllerName="HNGv2.highnoongamble.controller.Preamble" xmlns="sap.m" 
-xmlns:mvc="sap.ui.core.mvc" 
-displayBlock="true" 
-xmlns:layout="sap.ui.layout">
-    <Title titleStyle="H2" text="{i18n>postInChatTitle}" class="sapUiTinyMarginBegin" />
-    <Text text="{preamble>text1}"/>
+<mvc:View controllerName="HNGv2.highnoongamble.controller.Chat" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:layout="sap.ui.layout" xmlns:f="sap.f" xmlns:w="sap.ui.integration.widgets">
+    <Shell>
+        <Page id="page" title="{i18n>postInChatTitle}" >
+            <content>
+                <Panel class="sapUiResponsiveMargin" width="auto" growing="true">
+                    <content>
+                        <Text text="{chat>/chat/text}"/>
+                    </content>
+                </Panel>
+            </content>
+        </Page>
+    </Shell>
 </mvc:View>
-
-<!--ADD A BUTTON TO GO BACK-->

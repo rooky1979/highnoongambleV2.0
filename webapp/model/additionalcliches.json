@@ -1,0 +1,638 @@
+{
+"additionalcliches": [
+    {
+      "id": "1",
+
+      "quote":
+        "AA didn't open the Gates of Heaven and let me in, it opened up the Gates of Hell and let me out."
+
+    },
+    {
+      "id": "2",
+
+      "quote": "AA is the easier softer way."
+
+    },
+    {
+      "id": "3",
+
+      "quote": "A drug is a drug is a drug."
+
+    },
+    {
+      "id": "4",
+
+      "quote": "A moment of clarity."
+
+    },
+    {
+      "id": "5",
+
+      "quote": "Act as if."
+
+    },
+    {
+      "id": "6",
+
+      "quote": "Addicts and Alcohilics don't have relationships, we take hostages."
+
+    },
+    {
+      "id": "7",
+
+      "quote": "Alcoholism is incurable, progressive, and fatal."
+
+    },
+    {
+      "id": "8",
+
+      "quote":
+        "All you need to start your own AA meeting is a resentment and a coffee pot."
+
+    },
+    {
+      "id": "9",
+
+      "quote": "Anger is one letter away from danger."
+
+    },
+    {
+      "id": "10",
+
+      "quote": "Be nice to the newcomers, someday one may be your sponsor."
+
+    },
+    {
+      "id": "11",
+
+      "quote": "Before I came to AA, I was dying for a drink."
+
+    },
+    {
+      "id": "12",
+
+      "quote":
+        "Being humble isn't that we think less of ourselves, it's that we think of ourselves less."
+
+    },
+    {
+      "id": "13",
+
+      "quote": "Bring the body and the mind will follow."
+
+    },
+    {
+      "id": "14",
+
+      "quote": "Coincendences are God's way of staying Anonymous."
+
+    },
+    {
+      "id": "15",
+
+      "quote": "Don't be surprised if you relapse, be surprised if you don't."
+
+    },
+    {
+      "id": "16",
+
+      "quote": "Don't you know who I think I am."
+
+    },
+    {
+      "id": "17",
+
+      "quote": "E.G.O. - Edging God Out."
+
+    },
+    {
+      "id": "18",
+
+      "quote":
+        "Expectations are resentments just waiting to happen or the road to resentments is paved with expectations."
+
+    },
+    {
+      "id": "19",
+
+      "quote": "Faith without works is dead."
+
+    },
+    {
+      "id": "20",
+
+      "quote": "Fear without works is dead."
+
+    },
+    {
+      "id": "21",
+
+      "quote":
+        "Geographical cures don't work, because wherever you go you're still there."
+
+    },
+    {
+      "id": "22",
+
+      "quote": "Gift of desperation."
+
+    },
+    {
+      "id": "23",
+
+      "quote":
+        "God does not move mountains, but you have to bring the shovel to help."
+
+    },
+    {
+      "id": "24",
+
+      "quote": "God doesn't have any grand kids."
+
+    },
+    {
+      "id": "25",
+
+      "quote": "God is never late."
+
+    },
+    {
+      "id": "26",
+
+      "quote":
+        "God wants us to go to meetings, so He can give us our daily messages."
+
+    },
+    {
+      "id": "27",
+
+      "quote": "God will never give you more than you can handle."
+
+    },
+    {
+      "id": "28",
+
+      "quote": "Guiness Heart: Black and Bitter."
+
+    },
+    {
+      "id": "29",
+
+      "quote": "H.A.L.T - Be careful when you're Hungry, Angry, Lonely, or Tired."
+
+    },
+    {
+      "id": "30",
+
+      "quote": "Happy Horse Shit."
+
+    },
+    {
+      "id": "31",
+
+      "quote":
+        "Having resentments is like taking poison and hoping the other person dies."
+
+    },
+    {
+      "id": "32",
+
+      "quote": "I ain't much, but I'm all I think about."
+
+    },
+    {
+      "id": "33",
+
+      "quote": "I am powerless, not helpless."
+
+    },
+    {
+      "id": "34",
+
+      "quote":
+        "I am the black sheep of the family and when I came to AA, I found the rest of my herd."
+
+    },
+    {
+      "id": "35",
+
+      "quote":
+        "I came to AA to get the monkey off my back. Now, the circus is still in town, but I am no longer the ringmaster, I'm just one of the clowns."
+
+    },
+    {
+      "id": "36",
+
+      "quote": "I didn't get sober to be miserable."
+
+    },
+    {
+      "id": "37",
+
+      "quote":
+        "I didn't just experiment with drugs and alcohol; I was into advanced research and development."
+
+    },
+    {
+      "id": "38",
+
+      "quote":
+        "I do not always know what God's will is for me, but I usually know what it's not."
+
+    },
+    {
+      "id": "39",
+
+      "quote":
+        "I have to stop telling my God how big my problems are and start telling my problems how big my God is."
+
+    },
+    {
+      "id": "40",
+
+      "quote": "I know two things about God: There is one and I ain't him."
+
+    },
+    {
+      "id": "41",
+
+      "quote":
+        "I may not be where I want to be, but thank God I'm not where I was."
+
+    },
+    {
+      "id": "42",
+
+      "quote": "I need to treat you, today, like I want God to treat me, tomorrow."
+
+    },
+    {
+      "id": "43",
+
+      "quote": "I want, what I want, when I want it."
+
+    },
+    {
+      "id": "44",
+
+      "quote": "I was getting worse faster than I could lower my standards."
+
+    },
+    {
+      "id": "45",
+
+      "quote":
+        "I will always have another drunk in me, but I am not sure there is another recovery."
+
+    },
+    {
+      "id": "46",
+
+      "quote":
+        "I'd rather live sober in AA wondering if I'm an alcoholic, than die drunk trying to prove I'm not."
+
+    },
+    {
+      "id": "47",
+
+      "quote": "If all else fails - follow directions."
+
+    },
+    {
+      "id": "48",
+
+      "quote": "If God brings you to it, He will bring you through it."
+
+    },
+    {
+      "id": "49",
+
+      "quote": "If God is your co-pilot, you're sitting in the wrong seat."
+
+    },
+    {
+      "id": "50",
+
+      "quote": "If I don't continually change, my sobriety date will."
+
+    },
+    {
+      "id": "51",
+
+      "quote": "If I wasn't in here, I'd be out there."
+
+    },
+    {
+      "id": "52",
+
+      "quote": "If it doesn't apply, let it fly."
+
+    },
+    {
+      "id": "53",
+
+      "quote":
+        "If you ask an alcoholic what time it is, he'll try to build you a clock."
+
+    },
+    {
+      "id": "54",
+
+      "quote":
+        "If you find a path with no obstacles, it probably doesn't lead anywhere."
+
+    },
+    {
+      "id": "55",
+
+      "quote": "If you keep doing what you did you'll keep getting what you got."
+
+    },
+    {
+      "id": "56",
+
+      "quote":
+        "If you put as much effort into AA as you did in your drinking, you'll do well."
+
+    },
+    {
+      "id": "57",
+
+      "quote":
+        "If you're in hell, there's hope, because much of heaven is only 12 steps away."
+
+    },
+    {
+      "id": "58",
+
+      "quote": "I'm an alcoholic, I can fuck up a sandwich."
+
+    },
+    {
+      "id": "59",
+
+      "quote": "Is that odd? Or is that God?"
+
+    },
+    {
+      "id": "60",
+
+      "quote": "It gets better."
+
+    },
+    {
+      "id": "61",
+
+      "quote": "It is when you act as if you have faith that you begin to have it."
+
+    },
+    {
+      "id": "62",
+
+      "quote": "It's not what I know that keeps me sober, it's what I do."
+
+    },
+    {
+      "id": "63",
+
+      "quote": "I've been sober a few 24 hours."
+
+    },
+    {
+      "id": "64",
+
+      "quote": "Meetings: it's a lot of entertainment for a buck."
+
+    },
+    {
+      "id": "65",
+
+      "quote": "More will be revealed."
+
+    },
+    {
+      "id": "66",
+
+      "quote": "My best friend became my worst enemy."
+
+    },
+    {
+      "id": "67",
+
+      "quote": "My drinking went from Park Avenue to park bench."
+
+    },
+    {
+      "id": "68",
+
+      "quote": "My serenity is indirectly proportional to my expectations."
+
+    },
+    {
+      "id": "69",
+
+      "quote": "My sobriety has a shelf life of about 24 hours."
+
+    },
+    {
+      "id": "70",
+
+      "quote": "Nothing happens in God's world by mistake."
+
+    },
+    {
+      "id": "71",
+
+      "quote": "Nothing is so bad that a drink won't make it worse."
+
+    },
+    {
+      "id": "72",
+
+      "quote": "N.U.T.S. - Not Using The Steps."
+
+    },
+    {
+      "id": "73",
+
+      "quote": "Pray for willingness."
+
+    },
+    {
+      "id": "74",
+
+      "quote": "Principles before personalities."
+
+    },
+    {
+      "id": "75",
+
+      "quote":
+        "Religion is for people who do not want to go to hell; Spirituality is for people who have already been there."
+
+    },
+    {
+      "id": "76",
+
+      "quote": "Remember, it's okay to look back, just don't stare."
+
+    },
+    {
+      "id": "77",
+
+      "quote": "Seven days without a meeting makes one weak."
+
+    },
+    {
+      "id": "78",
+
+      "quote":
+        "Sobriety and working the steps gives us what alcohol promised, but failed to deliver."
+
+    },
+    {
+      "id": "79",
+
+      "quote":
+        "Some of us are so successful, once we sober up, we turn out to be almost as good as we used to think we were when we were drinking."
+
+    },
+    {
+      "id": "80",
+
+      "quote": "Sorrow looks back; Worry looks ahead; Faith looks up."
+
+    },
+    {
+      "id": "81",
+
+      "quote":
+        "S.P.O.N.S.O.R. - Sober Person Offering Newcomers Suggestions On Recovery."
+
+    },
+    {
+      "id": "82",
+
+      "quote": "Take what you can use and leave the rest."
+
+    },
+    {
+      "id": "83",
+
+      "quote": "The road to a 4th Step is paved with resentments."
+
+    },
+    {
+      "id": "84",
+
+      "quote": "There is no chemical solution to a spiritual problem."
+
+    },
+    {
+      "id": "85",
+
+      "quote": "There is no such thing as a bad meeting."
+
+    },
+    {
+      "id": "86",
+
+      "quote": "There is still a monkey on my back, he's just sleeping."
+
+    },
+    {
+      "id": "87",
+
+      "quote": "Those who anger us the most are our greatest teachers."
+
+    },
+    {
+      "id": "88",
+
+      "quote": "TIME = Things I Must Earn."
+
+    },
+    {
+      "id": "89",
+
+      "quote": "We are egomaniacs with low self-esteem."
+
+    },
+    {
+      "id": "90",
+
+      "quote":
+        "We are not human beings having a spiritual experience; we are spiritual beings having a human experience."
+
+    },
+    {
+      "id": "91",
+
+      "quote": "We don't get sober in pairs."
+
+    },
+    {
+      "id": "92",
+
+      "quote": "Aka Under Every Dress there's a slip."
+
+    },
+    {
+      "id": "93",
+
+      "quote": "We grow through attraction not promotion."
+
+    },
+    {
+      "id": "94",
+
+      "quote":
+        "We here at AA have good news for you and bad news. The good news is you never have to drink again. The bad news is that we're your new friends."
+
+    },
+    {
+      "id": "95",
+
+      "quote":
+        "What we learn in AA meetings is bread for daily life, not cake for special occasions."
+
+    },
+    {
+      "id": "96",
+
+      "quote": "When the student is ready, the teacher will appear."
+
+    },
+    {
+      "id": "97",
+
+      "quote": "You are either moving away from a drink or towards one."
+
+    },
+    {
+      "id": "98",
+
+      "quote": "You are exactly where you are supposed to be."
+
+    },
+    {
+      "id": "99",
+
+      "quote": "You're only as sick as your secrets."
+
+    },
+    {
+      "id": "100",
+
+      "quote": "You can't take this program cafeteria style."
+
+    },
+    {
+      "id": "101",
+
+      "quote": "You must have the courage to change."
+
+    }
+  ]
+}
+  

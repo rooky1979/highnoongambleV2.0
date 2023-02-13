@@ -1,0 +1,3326 @@
+{
+"mymind": [
+    {
+      "id": "1",
+
+      "quote": "One day at a time."
+
+    },
+    {
+      "id": "2",
+
+      "quote": "You've got to give time, time."
+
+    },
+    {
+      "id": "3",
+
+      "quote":
+        "Insanity: Doing exactly the same thing over and over, expecting different results."
+
+    },
+    {
+      "id": "4",
+
+      "quote":
+        "It's a good meeting if no one gets drunk in the room during the meeting."
+
+    },
+    {
+      "id": "5",
+
+      "quote": "H.A.L.T. - Hungry, Angry, Lonely, Tired."
+
+    },
+    {
+      "id": "6",
+
+      "quote":
+        "The length of time away from a drink is not equal to the distance from a drink."
+
+    },
+    {
+      "id": "7",
+
+      "quote":
+        "You have to be able to live with yourself before you can live with another person."
+
+    },
+    {
+      "id": "8",
+
+      "quote": "It's not what happens to you but how you perceive it."
+
+    },
+    {
+      "id": "9",
+
+      "quote":
+        "Fourth Step: Fears, resentments, self-pities, guilts, hatreds, and whys"
+
+    },
+    {
+      "id": "10",
+
+      "quote": "This too shall pass"
+
+    },
+    {
+      "id": "11",
+
+      "quote": "Happiness is an inside job"
+
+    },
+    {
+      "id": "12",
+
+      "quote": "Desparation, inspiration, perspiration"
+
+    },
+    {
+      "id": "13",
+
+      "quote": "Keep it simple"
+
+    },
+    {
+      "id": "14",
+
+      "quote": "Turn your will and your life over to God"
+
+    },
+    {
+      "id": "15",
+
+      "quote":
+        "Don't drink even if your rear falls off; put it in a bag and bring it to the meeting"
+
+    },
+    {
+      "id": "16",
+
+      "quote": "First things first"
+
+    },
+    {
+      "id": "17",
+
+      "quote": "God never closes a door without also opening a window"
+
+    },
+    {
+      "id": "18",
+
+      "quote": "Let go and let God"
+
+    },
+    {
+      "id": "19",
+
+      "quote": "How important is it?"
+
+    },
+    {
+      "id": "20",
+
+      "quote":
+        "Coincedence: God performs a little miracle and wishes to remain anonymous"
+
+    },
+    {
+      "id": "21",
+
+      "quote": "Utilise, Don't analyse"
+
+    },
+    {
+      "id": "22",
+
+      "quote": "An AA member is just a drunk with a conscience"
+
+    },
+    {
+      "id": "23",
+
+      "quote": "Platitudes can help with your attitudes"
+
+    },
+    {
+      "id": "24",
+
+      "quote": "Ninety meetings in ninety days"
+
+    },
+    {
+      "id": "25",
+
+      "quote":
+        "There's nothing wrong with pursuing happiness, just Don't get angry if it eludes you"
+
+    },
+    {
+      "id": "26",
+
+      "quote": "Do the rowing and let God do the steering"
+
+    },
+    {
+      "id": "27",
+
+      "quote": "Alcohol tried to murder my soul"
+
+    },
+    {
+      "id": "28",
+
+      "quote": "Treat your mind like a bad neighbourhood -- Don't go there alone"
+
+    },
+    {
+      "id": "29",
+
+      "quote": "Ten out of ten people die, so Don't take life so seriously"
+
+    },
+    {
+      "id": "30",
+
+      "quote":
+        "Only three things happen to alcoholics who Don't stop drinking: They get screwed up, locked up, or covered up"
+
+    },
+    {
+      "id": "31",
+
+      "quote": "You have to love yourself before you can love yourself"
+
+    },
+    {
+      "id": "32",
+
+      "quote":
+        "When I have a dollar more than what I need, I'm rich. Before I quit drinking, I was always a dollar short"
+
+    },
+    {
+      "id": "33",
+
+      "quote": "You Don't die when you get ready, you die when God gets ready"
+
+    },
+    {
+      "id": "34",
+
+      "quote": "Stand for something or you'll fall for anything"
+
+    },
+    {
+      "id": "35",
+
+      "quote": "Your actions are so loud I can't hear what you're saying"
+
+    },
+    {
+      "id": "36",
+
+      "quote":
+        "Yesterday is so far in the past I can't see it; tomorrow is too distant in the future to be seen. So I'll take a good look at what I can see - today"
+
+    },
+    {
+      "id": "37",
+
+      "quote": "Keep coming back"
+
+    },
+    {
+      "id": "38",
+
+      "quote": "Live like this is the last day of your life"
+
+    },
+    {
+      "id": "39",
+
+      "quote": "S.L.I.P. - Sobriety Loses Its Priority"
+
+    },
+    {
+      "id": "40",
+
+      "quote":
+        "The best fringe benefit of being in AA is that you never have to be alone again"
+
+    },
+    {
+      "id": "41",
+
+      "quote": "Wear the world as a loose garment"
+
+    },
+    {
+      "id": "42",
+
+      "quote": "Give yourself a little success every day"
+
+    },
+    {
+      "id": "43",
+
+      "quote": "Only one in ten alcoholics die sober. Beat the odds"
+
+    },
+    {
+      "id": "44",
+
+      "quote": "I am responsible"
+
+    },
+    {
+      "id": "45",
+
+      "quote": "But for the grace of God.."
+
+    },
+    {
+      "id": "46",
+
+      "quote": "Be profound, funny, or quiet"
+
+    },
+    {
+      "id": "47",
+
+      "quote": "Trust God, clean house, and help others"
+
+    },
+    {
+      "id": "48",
+
+      "quote": "God doesn't make mistakes"
+
+    },
+    {
+      "id": "49",
+
+      "quote": "Any excuse for a drink is as good as any excuse for a drink"
+
+    },
+    {
+      "id": "50",
+
+      "quote": "When tragic things begin to seem funny, health has begun"
+
+    },
+    {
+      "id": "51",
+
+      "quote": "Easy does it"
+
+    },
+    {
+      "id": "52",
+
+      "quote": "After you talk in a meeting, listen to hear if you said anything"
+
+    },
+    {
+      "id": "53",
+
+      "quote": "We're all doing the best we can"
+
+    },
+    {
+      "id": "54",
+
+      "quote": "Easy does it, but do it"
+
+    },
+    {
+      "id": "55",
+
+      "quote": "I may have a drink tomorrow, but not today"
+
+    },
+    {
+      "id": "56",
+
+      "quote": "Fake it till you make it"
+
+    },
+    {
+      "id": "57",
+
+      "quote":
+        "Put your desire chip under your tongue; when it melts, you can have a drink"
+
+    },
+    {
+      "id": "58",
+
+      "quote":
+        "For an alcoholic, one drink is one too many - one thousand is not enough"
+
+    },
+    {
+      "id": "59",
+
+      "quote": "Never underestimate the power of prayer or the passage of time"
+
+    },
+    {
+      "id": "60",
+
+      "quote": "Meeting makers make it"
+
+    },
+    {
+      "id": "61",
+
+      "quote": "No one can make you take a drink, and no one can make you stop"
+
+    },
+    {
+      "id": "62",
+
+      "quote": "Why drink today when you can put it off until tomorrow?"
+
+    },
+    {
+      "id": "63",
+
+      "quote": "You have to be willing to participate in your own recovery"
+
+    },
+    {
+      "id": "64",
+
+      "quote": "A lot of people have died wanting to get sober"
+
+    },
+    {
+      "id": "65",
+
+      "quote":
+        "The great paradox of spirituality is that you've got to give it away to keep it"
+
+    },
+    {
+      "id": "66",
+
+      "quote":
+        "This program is a marriage of hope and action, and it has to be both"
+
+    },
+    {
+      "id": "67",
+
+      "quote": "I Don't need your help today. Love, God"
+
+    },
+    {
+      "id": "68",
+
+      "quote":
+        "In the first year of sobriety, Don't change anything except your playmates, playthings, and playgrounds"
+
+    },
+    {
+      "id": "69",
+
+      "quote": "Stinkin' thinkin' leads to drinkin'"
+
+    },
+    {
+      "id": "70",
+
+      "quote": "Drinkin' leads to stinkin' thinkin'"
+
+    },
+    {
+      "id": "71",
+
+      "quote": "Slippery people and slippery places lead to slips"
+
+    },
+    {
+      "id": "72",
+
+      "quote": "It works if you work it"
+
+    },
+    {
+      "id": "73",
+
+      "quote": "Today is the yesterday you'll worry about tomorrow"
+
+    },
+    {
+      "id": "74",
+
+      "quote": "AA is a simple program for complicated people"
+
+    },
+    {
+      "id": "75",
+
+      "quote": "AA is not where you wind up, It's where you start over"
+
+    },
+    {
+      "id": "76",
+
+      "quote": "Our sickness is between our ears"
+
+    },
+    {
+      "id": "77",
+
+      "quote": "It takes time"
+
+    },
+    {
+      "id": "78",
+
+      "quote": "You aren't going to get it by Thursday"
+
+    },
+    {
+      "id": "79",
+
+      "quote": "An empty can makes the most noise"
+
+    },
+    {
+      "id": "80",
+
+      "quote": "Every AA meeting is a payment on your sobriety"
+
+    },
+    {
+      "id": "81",
+
+      "quote": "Alcoholics have three choices: die, go nuts, or get sober"
+
+    },
+    {
+      "id": "82",
+
+      "quote":
+        "God can't hand you anything new until you let go of what you're holding"
+
+    },
+    {
+      "id": "83",
+
+      "quote":
+        "Carry your strength, hope, and experience to those people you find attractive and, especially, to those you Don't"
+
+    },
+    {
+      "id": "84",
+
+      "quote": "When I think I'm out of control, I'm most out of control"
+
+    },
+    {
+      "id": "85",
+
+      "quote":
+        "There are many ways to cross the river - what matters is that you cross sober"
+
+    },
+    {
+      "id": "86",
+
+      "quote":
+        "I learning to be sober doesn't feel awkward, you're not making progress"
+
+    },
+    {
+      "id": "87",
+
+      "quote":
+        "If you Don't change, you Don't grow. And if you Don't grow, you Don't go"
+
+    },
+    {
+      "id": "88",
+
+      "quote":
+        "Alcoholics are self-adoring egotists who can't stand their own image"
+
+    },
+    {
+      "id": "89",
+
+      "quote":
+        "To stay sober, you must make the abnormal normal, and the normal abnormal"
+
+    },
+    {
+      "id": "90",
+
+      "quote": "If you keep bringing your body, your mind will follow"
+
+    },
+    {
+      "id": "91",
+
+      "quote": "Alcoholism is the high cost of low living"
+
+    },
+    {
+      "id": "92",
+
+      "quote": "When confronted with a dilemma, ask yourself, What would God do?"
+
+    },
+    {
+      "id": "93",
+
+      "quote": "If you think you have humility, you Don't"
+
+    },
+    {
+      "id": "94",
+
+      "quote":
+        "If others did the things to us that we as alcoholics do to ourselves, we'd kill them"
+
+    },
+    {
+      "id": "95",
+
+      "quote":
+        "AA is not a place to go to save your soul but if you have an open mind, you may save your skin"
+
+    },
+    {
+      "id": "96",
+
+      "quote": "I got drunk alone. In AA we get sober together"
+
+    },
+    {
+      "id": "97",
+
+      "quote": "In God's sight, all human beings are important"
+
+    },
+    {
+      "id": "98",
+
+      "quote": "Walk your talk"
+
+    },
+    {
+      "id": "99",
+
+      "quote": "Once you give love, you receive love"
+
+    },
+    {
+      "id": "100",
+
+      "quote": "You get back what you give out"
+
+    },
+    {
+      "id": "101",
+
+      "quote": "You aren't responsible for anyone's happiness but your own"
+
+    },
+    {
+      "id": "102",
+
+      "quote": "You attract what you were"
+
+    },
+    {
+      "id": "103",
+
+      "quote": "There are no mistakes, just learning experiences"
+
+    },
+    {
+      "id": "104",
+
+      "quote": "Want to hear God laugh? Tell him your plans"
+
+    },
+    {
+      "id": "105",
+
+      "quote":
+        "Humility is not thinking less of yourself, it is thinking of yourself less often"
+
+    },
+    {
+      "id": "106",
+
+      "quote": "Alcoholics all drink for the same reason - any reason"
+
+    },
+    {
+      "id": "107",
+
+      "quote": "Some days are diamonds, others just rough stones"
+
+    },
+    {
+      "id": "108",
+
+      "quote": "Get out of the problem and into a solution"
+
+    },
+    {
+      "id": "109",
+
+      "quote": "Live life on life's terms"
+
+    },
+    {
+      "id": "110",
+
+      "quote":
+        "Don't expect to learn about people from books; a person can't fit in a bookcase"
+
+    },
+    {
+      "id": "111",
+
+      "quote": "When I react to someone, that person becomes my Higher Power"
+
+    },
+    {
+      "id": "112",
+
+      "quote":
+        "When you need something in your life to replace alcohol, work a step"
+
+    },
+    {
+      "id": "113",
+
+      "quote": "My recovery is a process, not an event"
+
+    },
+    {
+      "id": "114",
+
+      "quote": "HOW? Honesty, Open-mindedness, Willingness"
+
+    },
+    {
+      "id": "115",
+
+      "quote": "Do good, be good, and God will be with you"
+
+    },
+    {
+      "id": "116",
+
+      "quote":
+        "At meetings, leave your credentials and your intellect at the door"
+
+    },
+    {
+      "id": "117",
+
+      "quote":
+        "If you make a twelfth step call and you Don't drink, It's successful"
+
+    },
+    {
+      "id": "118",
+
+      "quote":
+        "Twelfth Step: If they're ready, you can't say anything wrong. If they're not, you can't say anything right"
+
+    },
+    {
+      "id": "119",
+
+      "quote": "Alcohol is patient; your disease will wait for you forever"
+
+    },
+    {
+      "id": "120",
+
+      "quote": "Life is slippery when wet"
+
+    },
+    {
+      "id": "121",
+
+      "quote": "Let it begin with me"
+
+    },
+    {
+      "id": "122",
+
+      "quote": "We've each got our own self-improvement kit"
+
+    },
+    {
+      "id": "123",
+
+      "quote": "Learn to listen so that you can listen to learn"
+
+    },
+    {
+      "id": "124",
+
+      "quote": "You never know what you're addicted to until you stop"
+
+    },
+    {
+      "id": "125",
+
+      "quote": "It's alright to plan; just Don't plan the results"
+
+    },
+    {
+      "id": "126",
+
+      "quote": "Fear is the absence of faith"
+
+    },
+    {
+      "id": "127",
+
+      "quote":
+        "The bad news: Nobody is coming to rescue you. The good news: You can save yourself"
+
+    },
+    {
+      "id": "128",
+
+      "quote": "I Don't ever want to have to stop drinking again"
+
+    },
+    {
+      "id": "129",
+
+      "quote": "I can never help another alcoholic without helping myself"
+
+    },
+    {
+      "id": "130",
+
+      "quote": "I am where I am because that's where I am supposed to be"
+
+    },
+    {
+      "id": "131",
+
+      "quote": "The long journey to sobriety begins where you are"
+
+    },
+    {
+      "id": "132",
+
+      "quote": "Tranquilisers are nothing more than solid alcohol"
+
+    },
+    {
+      "id": "133",
+
+      "quote": "Pass it on"
+
+    },
+    {
+      "id": "134",
+
+      "quote": "I have a choice"
+
+    },
+    {
+      "id": "135",
+
+      "quote": "The Twelve Steps are God's gift to the twentieth century"
+
+    },
+    {
+      "id": "136",
+
+      "quote":
+        "Before I came to AA, I never realised how bad my life was or how good it could be"
+
+    },
+    {
+      "id": "137",
+
+      "quote": "Alcohol: Ignorant oil"
+
+    },
+    {
+      "id": "138",
+
+      "quote": "I'm here because I Don't want to live like I used to live"
+
+    },
+    {
+      "id": "139",
+
+      "quote":
+        "There is little you can count on in life except feeling bad after that first drink"
+
+    },
+    {
+      "id": "140",
+
+      "quote": "Long sobriety does not mean greater immunity from drinking again"
+
+    },
+    {
+      "id": "141",
+
+      "quote": "Poor me, poor me, pour me another drink"
+
+    },
+    {
+      "id": "142",
+
+      "quote":
+        "Go to meetings, when you want to, when you need to and at eight o'clock"
+
+    },
+    {
+      "id": "143",
+
+      "quote":
+        "Now I can wake up and say \"Good morning, God!\" rather than \"Good God, it's morning!\""
+
+    },
+    {
+      "id": "144",
+
+      "quote":
+        "Many doctors believe alcoholics suffer from a tranquiliser deficiency"
+
+    },
+    {
+      "id": "145",
+
+      "quote": "AA ruined my drinking"
+
+    },
+    {
+      "id": "146",
+
+      "quote": "If you Don't remember your last drunk, you haven't had it yet"
+
+    },
+    {
+      "id": "147",
+
+      "quote": "When I go to extremes, I'm sure to find misery close by"
+
+    },
+    {
+      "id": "148",
+
+      "quote": "Learn humility or you will be humiliated"
+
+    },
+    {
+      "id": "149",
+
+      "quote": "People Don't come into AA because they're having a wonderful life"
+
+    },
+    {
+      "id": "150",
+
+      "quote": "How has my family suffered because I quit drinking?"
+
+    },
+    {
+      "id": "151",
+
+      "quote": "God gives us what We're going to need"
+
+    },
+    {
+      "id": "152",
+
+      "quote": "Think! Think! Think!"
+
+    },
+    {
+      "id": "153",
+
+      "quote": "As long as you can stay sober, God can talk to you"
+
+    },
+    {
+      "id": "154",
+
+      "quote":
+        "When I turned myself over to God, I took my like out of the hands of an idiot"
+
+    },
+    {
+      "id": "155",
+
+      "quote": "AA makes us into the people we were supposed to have been"
+
+    },
+    {
+      "id": "156",
+
+      "quote": "When you Don't know what to do, Don't drink and go to meetings"
+
+    },
+    {
+      "id": "157",
+
+      "quote": "About AA - I didn't like it, I didn't believe it, and it worked"
+
+    },
+    {
+      "id": "158",
+
+      "quote": "Alcoholism: Physical allergy and mental obsession"
+
+    },
+    {
+      "id": "159",
+
+      "quote":
+        "Once you have been in AA a while, you can be honest and truthful, because you've stopped doing things you are ashamed of"
+
+    },
+    {
+      "id": "160",
+
+      "quote": "When you go to a meeting, you're working the Twelfth Step"
+
+    },
+    {
+      "id": "161",
+
+      "quote":
+        "If I had waited to be happy until I was well, I would still be sick"
+
+    },
+    {
+      "id": "162",
+
+      "quote": "F.E.A.R: False, Evidence, Appearing Real"
+
+    },
+    {
+      "id": "163",
+
+      "quote": "Things aren't different anywhere you go"
+
+    },
+    {
+      "id": "164",
+
+      "quote": "AA is a million-dollar program purchased five cents at a time"
+
+    },
+    {
+      "id": "165",
+
+      "quote": "Today I lead a life I approve of"
+
+    },
+    {
+      "id": "166",
+
+      "quote":
+        "When you're afraid, pick up the five-hundred-pound telephone and call someone"
+
+    },
+    {
+      "id": "167",
+
+      "quote":
+        "There is nothing wrong with your life that the removal of alcohol can't help but make better"
+
+    },
+    {
+      "id": "168",
+
+      "quote": "When tempted, Don't drink, say a prayer, and go to a meeting"
+
+    },
+    {
+      "id": "169",
+
+      "quote": "God, please help me"
+
+    },
+    {
+      "id": "170",
+
+      "quote": "I came. I came to. I came to believe"
+
+    },
+    {
+      "id": "171",
+
+      "quote": "Please God first, yourself second, and everyone else third"
+
+    },
+    {
+      "id": "172",
+
+      "quote": "It's not my luck that needs changing, it is I"
+
+    },
+    {
+      "id": "173",
+
+      "quote":
+        "When you join AA you become a member of the \"Society of the Second Chance\""
+
+    },
+    {
+      "id": "174",
+
+      "quote":
+        "When you hold on to the past with one hand and grab at the future with the other, you have nothing with which you can hold on to today"
+
+    },
+    {
+      "id": "175",
+
+      "quote": "You cannot get ahead until you learn to be here"
+
+    },
+    {
+      "id": "176",
+
+      "quote": "If you want to get ahead until you learn to be here"
+
+    },
+    {
+      "id": "177",
+
+      "quote": "Even the hereafter begins with here"
+
+    },
+    {
+      "id": "178",
+
+      "quote": "Keep an open heart"
+
+    },
+    {
+      "id": "179",
+
+      "quote": "You can change only yourself, not the rest of the world"
+
+    },
+    {
+      "id": "180",
+
+      "quote": "Take a year off from worrying"
+
+    },
+    {
+      "id": "181",
+
+      "quote": "I am not the center of the universe"
+
+    },
+    {
+      "id": "182",
+
+      "quote":
+        "Each day of sobriety is a testimonial to my attempt to be a human being"
+
+    },
+    {
+      "id": "183",
+
+      "quote":
+        "When the world comes to an end, it will do so without my permission"
+
+    },
+    {
+      "id": "184",
+
+      "quote": "If I can keep my feet on the ground, God can come down to me"
+
+    },
+    {
+      "id": "185",
+
+      "quote": "To climb a ladder, It's necessary to go up the steps"
+
+    },
+    {
+      "id": "186",
+
+      "quote": "What I have to do is simple; It's just not very easy"
+
+    },
+    {
+      "id": "187",
+
+      "quote":
+        "I thought AA would teach me how to drink, but I already knew how to drink. AA taught me how to live"
+
+    },
+    {
+      "id": "188",
+
+      "quote": "If you Don't do anything to make it better, it will get worse"
+
+    },
+    {
+      "id": "189",
+
+      "quote":
+        "I may be mad at someone, but I'm not going to get drunk at that person"
+
+    },
+    {
+      "id": "190",
+
+      "quote": "What can I learn from this?"
+
+    },
+    {
+      "id": "191",
+
+      "quote":
+        "Most of the things that irritate me today won't be important enough to remember tomorrow"
+
+    },
+    {
+      "id": "192",
+
+      "quote": "Stop looking for the bad news after the good news"
+
+    },
+    {
+      "id": "193",
+
+      "quote": "Sometime you just have to wait"
+
+    },
+    {
+      "id": "194",
+
+      "quote": "I lived to get drunk and got drunk to live"
+
+    },
+    {
+      "id": "195",
+
+      "quote":
+        "What can you do to take the place of drinking? Anything in the world except drink"
+
+    },
+    {
+      "id": "196",
+
+      "quote":
+        "It hasn't been a bad day just because a few things haven't gone my way"
+
+    },
+    {
+      "id": "197",
+
+      "quote": "I only drank when I wanted to; I just wanted to all the time"
+
+    },
+    {
+      "id": "198",
+
+      "quote": "One drink: one drunk"
+
+    },
+    {
+      "id": "199",
+
+      "quote": "How do you resign from AA? Take a drink"
+
+    },
+    {
+      "id": "200",
+
+      "quote":
+        "When you can't decide if you made the right choice, you probably you probably didn't make either the best or worst choice"
+
+    },
+    {
+      "id": "201",
+
+      "quote": "There are no accidents"
+
+    },
+    {
+      "id": "202",
+
+      "quote": "I can't do this by myself"
+
+    },
+    {
+      "id": "203",
+
+      "quote":
+        "Come to meetings to see those you want to be like as well as those you Don't"
+
+    },
+    {
+      "id": "204",
+
+      "quote": "If you have a slip, you lose a lot more than just sober time"
+
+    },
+    {
+      "id": "205",
+
+      "quote": "If you pray for a Cadillac and God sends a jackass, ride it"
+
+    },
+    {
+      "id": "206",
+
+      "quote": "Think of what you have rather than what you lack"
+
+    },
+    {
+      "id": "207",
+
+      "quote":
+        "When I was drinking I had my own little world, and it was getting smaller all the time"
+
+    },
+    {
+      "id": "208",
+
+      "quote": "I have everything I need"
+
+    },
+    {
+      "id": "209",
+
+      "quote":
+        "If you still feel you have to be number one in what you do, then be the most human human being"
+
+    },
+    {
+      "id": "210",
+
+      "quote": "Everything you do is a step toward recovery or toward relapse"
+
+    },
+    {
+      "id": "211",
+
+      "quote":
+        "The program of recovery is taking your old set of values and replacing it with a new one"
+
+    },
+    {
+      "id": "212",
+
+      "quote": "I'm not supposed to be drunk"
+
+    },
+    {
+      "id": "213",
+
+      "quote": "I drank to kill the pain I couldn't explain"
+
+    },
+    {
+      "id": "214",
+
+      "quote":
+        "After you get rid of alcohol, you have to deal with the other isms"
+
+    },
+    {
+      "id": "215",
+
+      "quote":
+        "The worst AA meeting I ever attended was better than my best drunk"
+
+    },
+    {
+      "id": "216",
+
+      "quote": "Think about your thinking"
+
+    },
+    {
+      "id": "217",
+
+      "quote":
+        "You can lead a horse to water, but you can't get it to buy the drinks"
+
+    },
+    {
+      "id": "218",
+
+      "quote": "If you let them do it for you, they will do it for you"
+
+    },
+    {
+      "id": "219",
+
+      "quote": "Miracles can happen if no one cares who gets the credit"
+
+    },
+    {
+      "id": "220",
+
+      "quote":
+        "How can you see life as it really is if you view it only through the bottom of a jigger"
+
+    },
+    {
+      "id": "221",
+
+      "quote":
+        "You only have to do two things: (1) Die, and (2) live until you die. You make up the rest"
+
+    },
+    {
+      "id": "222",
+
+      "quote": "We talked ourselves to insanity, and we can talk ourselves back"
+
+    },
+    {
+      "id": "223",
+
+      "quote": "What you think you are, you are not; but what you think, you are"
+
+    },
+    {
+      "id": "224",
+
+      "quote": "What you think about is what you become"
+
+    },
+    {
+      "id": "225",
+
+      "quote": "It doesn't take much to get people on your side"
+
+    },
+    {
+      "id": "226",
+
+      "quote": "God wasn't lost. I was"
+
+    },
+    {
+      "id": "227",
+
+      "quote": "When I'm useful, I feel good"
+
+    },
+    {
+      "id": "228",
+
+      "quote": "You can't get drunk if you Don't take that first drink"
+
+    },
+    {
+      "id": "229",
+
+      "quote": "God gives us only what we can handle"
+
+    },
+    {
+      "id": "230",
+
+      "quote": "I couldn't; God could"
+
+    },
+    {
+      "id": "231",
+
+      "quote": "Growth: Staying green. A plant that has no green is dead"
+
+    },
+    {
+      "id": "232",
+
+      "quote": "God can't hand you a new life until you let go of the shot glass"
+
+    },
+    {
+      "id": "233",
+
+      "quote": "It's not okay for me to tell you I'm okay when I'm not okay, okay?"
+
+    },
+    {
+      "id": "234",
+
+      "quote": "Happy, joyous, and free"
+
+    },
+    {
+      "id": "235",
+
+      "quote": "A Higher Power? Every alcoholic had the same one: booze"
+
+    },
+    {
+      "id": "236",
+
+      "quote": "Take the program seriously, not yourself"
+
+    },
+    {
+      "id": "237",
+
+      "quote":
+        "It's okay not to be okay. People Don't come to AA because they're okay"
+
+    },
+    {
+      "id": "238",
+
+      "quote": "Angry? Remember that not everyone has a program"
+
+    },
+    {
+      "id": "239",
+
+      "quote": "I am my own problem"
+
+    },
+    {
+      "id": "240",
+
+      "quote": "It's possible to be addicted to sadness"
+
+    },
+    {
+      "id": "241",
+
+      "quote":
+        "When what you're doing isn't working, try something else - anything else, but drinking"
+
+    },
+    {
+      "id": "242",
+
+      "quote": "Suicide is a permanent solution to a temporary problem"
+
+    },
+    {
+      "id": "243",
+
+      "quote": "The door to AA swings both ways"
+
+    },
+    {
+      "id": "244",
+
+      "quote": "A whisky glass made a horse's ass out of me"
+
+    },
+    {
+      "id": "245",
+
+      "quote": "Remember your last drunk before you pick up your next drink"
+
+    },
+    {
+      "id": "246",
+
+      "quote": "I'm only an arm's length away from my next drink"
+
+    },
+    {
+      "id": "247",
+
+      "quote": "Meetings: The faces are different, the problems the same"
+
+    },
+    {
+      "id": "248",
+
+      "quote": "There are enough boozers out there - they won't miss me"
+
+    },
+    {
+      "id": "249",
+
+      "quote": "Alcohol was my stength; then I learned it was my weakness"
+
+    },
+    {
+      "id": "250",
+
+      "quote": "Sobriety is the greatest gift I have ever received"
+
+    },
+    {
+      "id": "251",
+
+      "quote": "I didn't grow up planning to be an alcoholic"
+
+    },
+    {
+      "id": "252",
+
+      "quote":
+        "AA is not a pretty dress you put on in the morning; It's a way of life"
+
+    },
+    {
+      "id": "253",
+
+      "quote":
+        "There's no one too dumb for this program, but It's possible to be too smart"
+
+    },
+    {
+      "id": "254",
+
+      "quote": "you're ready for AA when you're not drinking for fun anymore"
+
+    },
+    {
+      "id": "255",
+
+      "quote":
+        "When I was drinking, I always wanted to be somebody else, someplace else"
+
+    },
+    {
+      "id": "256",
+
+      "quote": "It's not what you want to do that matters; It's what you do"
+
+    },
+    {
+      "id": "257",
+
+      "quote":
+        "The race is often won not by the swiftest, but by the person who manages to keep running"
+
+    },
+    {
+      "id": "258",
+
+      "quote": "It's none of my business what you think of me"
+
+    },
+    {
+      "id": "259",
+
+      "quote": "Staying sober is my most important business today"
+
+    },
+    {
+      "id": "260",
+
+      "quote":
+        "Alcoholism is the only disease that will tell you you Don't have it"
+
+    },
+    {
+      "id": "261",
+
+      "quote": "My alcoholism: I was the last one to know"
+
+    },
+    {
+      "id": "262",
+
+      "quote": "We plan our slips"
+
+    },
+    {
+      "id": "263",
+
+      "quote": "When all else fails, read the directions - the Twelve Steps"
+
+    },
+    {
+      "id": "264",
+
+      "quote":
+        "I have an incurable, fatal disease which can be arrested one day at a time"
+
+    },
+    {
+      "id": "265",
+
+      "quote":
+        "I remember the lessons learned the hard way; the easy ones I forget"
+
+    },
+    {
+      "id": "266",
+
+      "quote": "All I wanted was to control you, myself, and everything else"
+
+    },
+    {
+      "id": "267",
+
+      "quote": "All is well, even when it ain't"
+
+    },
+    {
+      "id": "268",
+
+      "quote": "In AA the only mistake you can make is not coming back"
+
+    },
+    {
+      "id": "269",
+
+      "quote":
+        "My disease is an elephant. As long as I remember It's there, I won't get stepped on"
+
+    },
+    {
+      "id": "270",
+
+      "quote": "Alcoholic: A person with both feet planted firmly in thin air"
+
+    },
+    {
+      "id": "271",
+
+      "quote": "Gratitude is the streetcar to a better attitude"
+
+    },
+    {
+      "id": "272",
+
+      "quote": "I came to AA because I was sick and tired of being sick and tired"
+
+    },
+    {
+      "id": "273",
+
+      "quote": "Let what is given be enough"
+
+    },
+    {
+      "id": "274",
+
+      "quote": "You must be, before you can do"
+
+    },
+    {
+      "id": "275",
+
+      "quote": "If I Don't drink today, more will be revealed"
+
+    },
+    {
+      "id": "276",
+
+      "quote":
+        "There is nothing wrong with motivation - the key is in what motivates you"
+
+    },
+    {
+      "id": "277",
+
+      "quote": "Life does not have to be a daily struggle"
+
+    },
+    {
+      "id": "278",
+
+      "quote":
+        "I accept that I cannot drink, but that does not mean that I will not drink again"
+
+    },
+    {
+      "id": "279",
+
+      "quote": "In AA you've got to surrender to win"
+
+    },
+    {
+      "id": "280",
+
+      "quote": "The good is the enemy of the best"
+
+    },
+    {
+      "id": "281",
+
+      "quote": "Ask God in the morning, thank him at night"
+
+    },
+    {
+      "id": "282",
+
+      "quote": "God, grant me the serenity to accept the things I cannot change.."
+
+    },
+    {
+      "id": "283",
+
+      "quote": "When I joined AA, I realised I could run toward my problems"
+
+    },
+    {
+      "id": "284",
+
+      "quote": "Things won't get better because you joined AA, but you will"
+
+    },
+    {
+      "id": "285",
+
+      "quote": "Since I came to AA, I can take a trip without taking a trip"
+
+    },
+    {
+      "id": "286",
+
+      "quote": "There is dignity in sobriety"
+
+    },
+    {
+      "id": "287",
+
+      "quote":
+        "God will remove only the character defects that stand in your way of helping others"
+
+    },
+    {
+      "id": "288",
+
+      "quote": "In AA you can be a part, not apart"
+
+    },
+    {
+      "id": "289",
+
+      "quote": "Pain is inevitable, suffering is optional"
+
+    },
+    {
+      "id": "290",
+
+      "quote":
+        "The further I'm away from my last drunk, the closer I am to my next drink"
+
+    },
+    {
+      "id": "291",
+
+      "quote":
+        "The bad news: When the suffering of the present exceeds the suffering of the past, you will drink again. The good news: You Don't have to suffer anymore"
+
+    },
+    {
+      "id": "292",
+
+      "quote": "My alcoholism is simple: When I was drunk, I felt okay"
+
+    },
+    {
+      "id": "293",
+
+      "quote": "you've got to be willing to be willing"
+
+    },
+    {
+      "id": "294",
+
+      "quote": "Don't compare"
+
+    },
+    {
+      "id": "295",
+
+      "quote": "You are not alone"
+
+    },
+    {
+      "id": "296",
+
+      "quote":
+        "Before you drink, throw your desire chip in the gutter and know that soon you will follow"
+
+    },
+    {
+      "id": "297",
+
+      "quote": "I must change me, not the geography"
+
+    },
+    {
+      "id": "299",
+
+      "quote": "The musts, oughts, and shoulds in your life can drive you crazy"
+
+    },
+    {
+      "id": "300",
+
+      "quote":
+        "Try praying. Nothing pleases God more than to hear a strange voice"
+
+    },
+    {
+      "id": "301",
+
+      "quote": "How to stop drinking: Bend your knees instead of your elbows"
+
+    },
+    {
+      "id": "302",
+
+      "quote": "No matter what, things can only get worse if you drink at them"
+
+    },
+    {
+      "id": "303",
+
+      "quote": "The urge is going to pass whether you drink or not"
+
+    },
+    {
+      "id": "304",
+
+      "quote":
+        "Before I joined AA, I was either thinking about drinking, or getting over drinking"
+
+    },
+    {
+      "id": "305",
+
+      "quote": "There was never enough in the bottle to satisfy me"
+
+    },
+    {
+      "id": "306",
+
+      "quote": "When I joined AA, I lost my innocence about my drinking"
+
+    },
+    {
+      "id": "307",
+
+      "quote": "Reality can be hell when you're only visiting"
+
+    },
+    {
+      "id": "308",
+
+      "quote":
+        "Constructive criticism: I tell you what is wrong with you. Destructive criticism: You tell me what is wrong with me"
+
+    },
+    {
+      "id": "309",
+
+      "quote": "God, save me from myself"
+
+    },
+    {
+      "id": "310",
+
+      "quote":
+        "Anything you would be ashamed of doing and have not done yet, you will do if you pick up another drink"
+
+    },
+    {
+      "id": "311",
+
+      "quote": "We're all here because We're not all here"
+
+    },
+    {
+      "id": "312",
+
+      "quote":
+        "Come to meetings to see what happens to people who Don't come to meetings"
+
+    },
+    {
+      "id": "313",
+
+      "quote": "Sick, sorry, then sober"
+
+    },
+    {
+      "id": "314",
+
+      "quote":
+        "God, when I speak, please fill my mouth with good stuff and give me a nudge when I've said enough"
+
+    },
+    {
+      "id": "315",
+
+      "quote":
+        "Since I joined AA,I've never needed and wanted a drink at the same time"
+
+    },
+    {
+      "id": "316",
+
+      "quote": "Plan for tomorrow, but live just for today"
+
+    },
+    {
+      "id": "317",
+
+      "quote":
+        "Please everybody and no one is pleased; please yourself and at least you're pleased"
+
+    },
+    {
+      "id": "318",
+
+      "quote":
+        "Happiness doesn't come from getting what we want, but from enjoying what we have"
+
+    },
+    {
+      "id": "319",
+
+      "quote": "When I help, I am helped"
+
+    },
+    {
+      "id": "320",
+
+      "quote": "To recover, you need something to do and someone to love"
+
+    },
+    {
+      "id": "321",
+
+      "quote": "Nothing changes until it becomes real"
+
+    },
+    {
+      "id": "322",
+
+      "quote": "There is enough time to accomplish all that is necessary"
+
+    },
+    {
+      "id": "323",
+
+      "quote": "You can't expect to live a trashy lifestyle and belong to AA"
+
+    },
+    {
+      "id": "324",
+
+      "quote": "My mind is out to get me"
+
+    },
+    {
+      "id": "325",
+
+      "quote": "When I joined AA, I quit selling myself cheap"
+
+    },
+    {
+      "id": "326",
+
+      "quote": "With this program I can be a decent person"
+
+    },
+    {
+      "id": "327",
+
+      "quote":
+        "The elevator of alcoholism goes only down, but you can get off where you'd like"
+
+    },
+    {
+      "id": "328",
+
+      "quote":
+        "The longer I stay sober, the more I remember I'd forgotten when I was drinking"
+
+    },
+    {
+      "id": "329",
+
+      "quote": "Alcoholics are all from the same nut tree"
+
+    },
+    {
+      "id": "330",
+
+      "quote":
+        "Before AA I had this equation: Self-worth = my performance + the opionions of others. I could never get it to balance"
+
+    },
+    {
+      "id": "331",
+
+      "quote": "My problems are self-made"
+
+    },
+    {
+      "id": "332",
+
+      "quote": "Sober life can be distresstin, but not dangerous"
+
+    },
+    {
+      "id": "333",
+
+      "quote": "My worst day sober is not nearly as bad as my worst day drinking"
+
+    },
+    {
+      "id": "334",
+
+      "quote": "Alcohol endowed me with the delusion of adequacy"
+
+    },
+    {
+      "id": "335",
+
+      "quote": "Alcoholic: An egomaniac with an inferority complex"
+
+    },
+    {
+      "id": "336",
+
+      "quote":
+        "If you hang around long enough, someone will do the slipping for you"
+
+    },
+    {
+      "id": "337",
+
+      "quote":
+        "The load of tomorrow, added to that of yesterday, carried today makes the strongest falter"
+
+    },
+    {
+      "id": "338",
+
+      "quote": "If I could do any better, I would"
+
+    },
+    {
+      "id": "339",
+
+      "quote": "I need to get the cotton out of my ears and put it in my mouth"
+
+    },
+    {
+      "id": "341",
+
+      "quote": "When the student is ready, the teacher appears"
+
+    },
+    {
+      "id": "342",
+
+      "quote": "As a sponsor, remember you can carry the word, but not the person"
+
+    },
+    {
+      "id": "343",
+
+      "quote":
+        "When alcoholics are ready, you can't keep the program from them; when they're not, you can't give the program away"
+
+    },
+    {
+      "id": "344",
+
+      "quote": "I didn't get what I wanted from AA; I got what I needed"
+
+    },
+    {
+      "id": "345",
+
+      "quote":
+        "I never attended a meeting in which I didn't get something, even if just angry"
+
+    },
+    {
+      "id": "346",
+
+      "quote": "When I was drinking, I was deathly afraid of living"
+
+    },
+    {
+      "id": "347",
+
+      "quote": "AA works very well without me, but I work a lot better with AA"
+
+    },
+    {
+      "id": "348",
+
+      "quote": "I'm harder on myself than anybody else"
+
+    },
+    {
+      "id": "349",
+
+      "quote":
+        "It doesn't matter how you got here or why you got here, just that you're here"
+
+    },
+    {
+      "id": "350",
+
+      "quote":
+        "People, places, and things exist whether I choose to accept them or not. The only choice I have about acceptance is to be either grateful or miserable"
+
+    },
+    {
+      "id": "351",
+
+      "quote": "Spiritual growth comes from being in AA, not just around it"
+
+    },
+    {
+      "id": "352",
+
+      "quote":
+        "We didn't all arrive on the same ship, but We're all in the same boat"
+
+    },
+    {
+      "id": "353",
+
+      "quote": "Not drinking is easy. It's living and not drinking that's hard"
+
+    },
+    {
+      "id": "354",
+
+      "quote":
+        "Come to ninety meetings in ninety days. If you're not satisfied, we'll refund your misery"
+
+    },
+    {
+      "id": "355",
+
+      "quote":
+        "Two realisations have contributed to my spiritual growth: (1) There is a God. (2) I ain't God"
+
+    },
+    {
+      "id": "356",
+
+      "quote":
+        "All I ever wanted when I was drinking was a little more than I ever had"
+
+    },
+    {
+      "id": "357",
+
+      "quote": "Prayers Don't change God. They change me"
+
+    },
+    {
+      "id": "358",
+
+      "quote":
+        "Things I turn over to God most easily are those things already fixed"
+
+    },
+    {
+      "id": "359",
+
+      "quote":
+        "I've failed, but I'm not a failure. I've made mistakes, but I'm not a mistake"
+
+    },
+    {
+      "id": "360",
+
+      "quote": "No one ever arrives at AA too late"
+
+    },
+    {
+      "id": "361",
+
+      "quote": "You can't. God can. Let him"
+
+    },
+    {
+      "id": "362",
+
+      "quote":
+        "When I first got to AA, both my drinker and my thinker were broken"
+
+    },
+    {
+      "id": "363",
+
+      "quote": "Keep your mind and your body in the same place"
+
+    },
+    {
+      "id": "364",
+
+      "quote": "To get along with people, keep skid chains on your tongue"
+
+    },
+    {
+      "id": "365",
+
+      "quote":
+        "Your greatest fear is exactly where your alcoholism was taking you"
+
+    },
+    {
+      "id": "366",
+
+      "quote":
+        "The Serenity Prayer is the handrail to grab until you can work the steps"
+
+    },
+    {
+      "id": "367",
+
+      "quote": "Be careful of what you do or you will get away from what works"
+
+    },
+    {
+      "id": "368",
+
+      "quote": "Alcoholics are noted for their mind-reading ability"
+
+    },
+    {
+      "id": "369",
+
+      "quote": "Cease panic and start prayer"
+
+    },
+    {
+      "id": "370",
+
+      "quote": "If you can't fight and you can't flee, then flow"
+
+    },
+    {
+      "id": "371",
+
+      "quote": "Don't sweat the small stuff, and remember, It's all small stuff"
+
+    },
+    {
+      "id": "372",
+
+      "quote": "Drinking didn't cause my problems, living did"
+
+    },
+    {
+      "id": "373",
+
+      "quote": "What comes from the heart goes to the heart"
+
+    },
+    {
+      "id": "374",
+
+      "quote": "It's a lot easier to stay sober than to get sober"
+
+    },
+    {
+      "id": "375",
+
+      "quote": "Other people's drinking never bothered me until I quit drinking"
+
+    },
+    {
+      "id": "376",
+
+      "quote": "Misery loves miserable company"
+
+    },
+    {
+      "id": "377",
+
+      "quote":
+        "There's nothing more disgusting than being sober in a room full of drunks"
+
+    },
+    {
+      "id": "378",
+
+      "quote":
+        "It takes several years to read the black part of the Big Book - that's the part that's not between the lines"
+
+    },
+    {
+      "id": "379",
+
+      "quote": "You Don't fall off a building when you're standing in the middle. "
+
+    },
+    {
+      "id": "380",
+
+      "quote": "I'm trying to be as honest as I can"
+
+    },
+    {
+      "id": "381",
+
+      "quote": "AA: Absolute Abstinence"
+
+    },
+    {
+      "id": "382",
+
+      "quote":
+        "The catch-22 to recovery: you've got to change your thinking to change your drinking. But to change your thinking, you've got to change your drinking"
+
+    },
+    {
+      "id": "383",
+
+      "quote":
+        "I began to get better when I knew I could choose between being right and getting well"
+
+    },
+    {
+      "id": "384",
+
+      "quote": "The world is not my enemy"
+
+    },
+    {
+      "id": "385",
+
+      "quote":
+        "The practicing alcoholic is the only person in the world who can lie in the gutter and still look down on others"
+
+    },
+    {
+      "id": "386",
+
+      "quote":
+        "If you claim to like everyone you've met in AA, you haven't been to enough meetings"
+
+    },
+    {
+      "id": "387",
+
+      "quote":
+        "Is your mind racing? Try reading the Big Book out loud. Your mind can only do one thing at a time"
+
+    },
+    {
+      "id": "388",
+
+      "quote":
+        "AA meetings are the jumper cables God uses to get love flowing from one alcoholic to another"
+
+    },
+    {
+      "id": "389",
+
+      "quote":
+        "When your time in meetings equals your time in bars, you have a chance to recover"
+
+    },
+    {
+      "id": "390",
+
+      "quote": "An alcoholic who is alone is in bad company"
+
+    },
+    {
+      "id": "391",
+
+      "quote":
+        "If it works, Don't do anything to fix it. If it doesn't work, do anything to fix it"
+
+    },
+    {
+      "id": "392",
+
+      "quote": "Alcoholics Don't have relationships - they take hostages"
+
+    },
+    {
+      "id": "393",
+
+      "quote": "You can't be fired for on-the-job sobriety"
+
+    },
+    {
+      "id": "394",
+
+      "quote": "It's a good day if I haven't harmed myself or anyone else"
+
+    },
+    {
+      "id": "395",
+
+      "quote": "I have to get out of myself to find myself"
+
+    },
+    {
+      "id": "396",
+
+      "quote": "Don't pray for healing and then tell God what to do"
+
+    },
+    {
+      "id": "397",
+
+      "quote": "The only defense you have when you're wrong is to attack"
+
+    },
+    {
+      "id": "398",
+
+      "quote":
+        "you're ready for this program when you've drunk so much you can get neither drunk nor sober"
+
+    },
+    {
+      "id": "399",
+
+      "quote": "Don't become emotionally involved with reality"
+
+    },
+    {
+      "id": "400",
+
+      "quote": "Before I came to AA, I was a human doing, not a human being"
+
+    },
+    {
+      "id": "401",
+
+      "quote": "EGO: Easing God Out"
+
+    },
+    {
+      "id": "402",
+
+      "quote": "We can't see the growth in ourselves, but we can see it in others"
+
+    },
+    {
+      "id": "403",
+
+      "quote":
+        "By going to meetings and working the Steps, I may be able to make compost out of my pile of garbage"
+
+    },
+    {
+      "id": "404",
+
+      "quote": "You can't do it for anyone else"
+
+    },
+    {
+      "id": "405",
+
+      "quote": "You alone can do it, but you can't do it alone"
+
+    },
+    {
+      "id": "406",
+
+      "quote":
+        "We can't take responsibility for the sobriety of others unless We're also willing to take responsibility for their slips"
+
+    },
+    {
+      "id": "407",
+
+      "quote": "If I'm not grateful, I'm hateful"
+
+    },
+    {
+      "id": "408",
+
+      "quote":
+        "It is not God who needs to be thanked, but I who need to be grateful"
+
+    },
+    {
+      "id": "409",
+
+      "quote": "AA is a God-centered program for self-centered people"
+
+    },
+    {
+      "id": "410",
+
+      "quote":
+        "The most miserable person imaginable is the one with a belly full of booze and a head full of AA"
+
+    },
+    {
+      "id": "411",
+
+      "quote": "Alcoholism is not an infectious disease, but it can be contagious"
+
+    },
+    {
+      "id": "412",
+
+      "quote":
+        "God has never been a problem in my life, but I have been a problem to God all my life"
+
+    },
+    {
+      "id": "413",
+
+      "quote":
+        "It is more important to do what must be done than to do all you can do"
+
+    },
+    {
+      "id": "414",
+
+      "quote":
+        "It's not so important how you started your life, but how you finish it"
+
+    },
+    {
+      "id": "415",
+
+      "quote": "When I die, I want to ride in that long black hearse dead sober"
+
+    },
+    {
+      "id": "416",
+
+      "quote": "Live and let live"
+
+    },
+    {
+      "id": "417",
+
+      "quote":
+        "When you come to AA and decide you want what we have, you have to do what we do"
+
+    },
+    {
+      "id": "418",
+
+      "quote":
+        "I know that I'm not yet the person I can be, but I thank God I'm not the person I used to be"
+
+    },
+    {
+      "id": "419",
+
+      "quote":
+        "Liquor used to do things for me and then it began to do things to me"
+
+    },
+    {
+      "id": "420",
+
+      "quote":
+        "Practising alcoholics are the only people who get to choose the disease they die from"
+
+    },
+    {
+      "id": "421",
+
+      "quote":
+        "If you're an alcoholic and you drink, your life can only go downhill"
+
+    },
+    {
+      "id": "422",
+
+      "quote":
+        "I've never met anyone who came back after a slip and said he or she had a good time"
+
+    },
+    {
+      "id": "423",
+
+      "quote":
+        "I drank for just two reasons: to be what I was not and not to be what I was"
+
+    },
+    {
+      "id": "424",
+
+      "quote":
+        "Yesterday is a cancelled cheque, tomorrow is a promissory not, today is cash-on-hand"
+
+    },
+    {
+      "id": "425",
+
+      "quote":
+        "AA won't keep you from going to hell, nor is it a ticket to heaven. But it will keep you sober long enough for you to decide where you want to go"
+
+    },
+    {
+      "id": "426",
+
+      "quote":
+        "If we can only be judged by our enemies, then, as alcoholics, we ourselves are the best judges"
+
+    },
+    {
+      "id": "427",
+
+      "quote": "Before AA I looked at the world through dung-coloured glasses"
+
+    },
+    {
+      "id": "428",
+
+      "quote": "Alcoholism is the attitude disease"
+
+    },
+    {
+      "id": "429",
+
+      "quote":
+        "If you think you're happy, you are. If you think you're wise, you are not"
+
+    },
+    {
+      "id": "430",
+
+      "quote":
+        "When I was drinking, I never beat myself up; I always beat myself down"
+
+    },
+    {
+      "id": "431",
+
+      "quote":
+        "Alcoholic: Someone no one likes and who wouldn't have it any other way"
+
+    },
+    {
+      "id": "432",
+
+      "quote":
+        "It's not what you drink, nor when you drink, nor where you drink, nor with whom you drink, nor how often you drink; It's what that first drink does to you"
+
+    },
+    {
+      "id": "433",
+
+      "quote":
+        "The only alcoholics who aren't guilty of driving when drunk are those who have never driven"
+
+    },
+    {
+      "id": "434",
+
+      "quote":
+        "When I Don't have expectations of others, anything positive they do is a pleasant surprise"
+
+    },
+    {
+      "id": "435",
+
+      "quote":
+        "When I was drinking, I used to try to feel good by buying things I didn't need, with money I didn't have, to impress people I didn't like"
+
+    },
+    {
+      "id": "436",
+
+      "quote": "I must not compare the outside of you with the inside of me"
+
+    },
+    {
+      "id": "437",
+
+      "quote":
+        "It's my attitude toward what happens to me that makes it a \"blessin\" or a lesson"
+
+    },
+    {
+      "id": "438",
+
+      "quote":
+        "If I reached for enough drinks, my problems wouldn't go away, but I would"
+
+    },
+    {
+      "id": "439",
+
+      "quote":
+        "Since coming to AA, I've become inoculated against the disease of not wanting to live"
+
+    },
+    {
+      "id": "440",
+
+      "quote": "No one was ever as bad to me as I have been to myself"
+
+    },
+    {
+      "id": "441",
+
+      "quote":
+        "Alcohol is the great solvent: It dissolves marriages, finances, careers, and health"
+
+    },
+    {
+      "id": "442",
+
+      "quote":
+        "AA is a fellowship of men and women who know that other people just Don't act right"
+
+    },
+    {
+      "id": "443",
+
+      "quote": "AA is a fellowship of men and women who say \"no\""
+
+    },
+    {
+      "id": "444",
+
+      "quote":
+        "The only time alcoholics will say they're not sure is when they're positive they're right"
+
+    },
+    {
+      "id": "445",
+
+      "quote": "AA will do until a cure comes along"
+
+    },
+    {
+      "id": "446",
+
+      "quote":
+        "When you come to AA, you have to learn to be the doctor as well as the patient"
+
+    },
+    {
+      "id": "447",
+
+      "quote": "You will have problems whether or not you stay sober"
+
+    },
+    {
+      "id": "448",
+
+      "quote":
+        "I was willing to go anywhere to get a drink, so I should be willing to go to meetings to recover"
+
+    },
+    {
+      "id": "449",
+
+      "quote": "God's delay in answering our prayers isn't God's denial"
+
+    },
+    {
+      "id": "450",
+
+      "quote": "Faith is the foundation of freedom from fear"
+
+    },
+    {
+      "id": "451",
+
+      "quote": "No pain, no change"
+
+    },
+    {
+      "id": "452",
+
+      "quote":
+        "When I was drinking, there was no middle: I believed I was absolutely perfect or perfectly worthless"
+
+    },
+    {
+      "id": "453",
+
+      "quote": "Acceptance is about what is, not what is not"
+
+    },
+    {
+      "id": "454",
+
+      "quote": "God is my friend now instead of my enemy"
+
+    },
+    {
+      "id": "455",
+
+      "quote": "Tired work is never efficient"
+
+    },
+    {
+      "id": "456",
+
+      "quote":
+        "Taking that first drink is like getting hit with a freight train - It's not the caboose that does the damage"
+
+    },
+    {
+      "id": "457",
+
+      "quote": "You may not need a meeting, but I need you to have a meeting"
+
+    },
+    {
+      "id": "458",
+
+      "quote": "No matter how I lived in the past, I can live right today"
+
+    },
+    {
+      "id": "459",
+
+      "quote":
+        "When I point my finger at you, there are always three fingers pointing back at me"
+
+    },
+    {
+      "id": "460",
+
+      "quote":
+        "If you believe AA members gossip about you, Don't worry. AA members are so self-centered they will be back talking about themselves very soon"
+
+    },
+    {
+      "id": "461",
+
+      "quote":
+        "God doesn't punish us for our alcoholism, we punish ourselves with our alcoholism"
+
+    },
+    {
+      "id": "462",
+
+      "quote": "SLIP: Slight Lapse In Progress"
+
+    },
+    {
+      "id": "463",
+
+      "quote": "Mean what you say, say what you mean"
+
+    },
+    {
+      "id": "464",
+
+      "quote": "I didn't take a drink today, so anything is possible"
+
+    },
+    {
+      "id": "465",
+
+      "quote":
+        "The AA member with the longest sobriety is the one who got up earliest this morning"
+
+    },
+    {
+      "id": "466",
+
+      "quote": "Alcoholics are people who pole-vault over mouse turds"
+
+    },
+    {
+      "id": "467",
+
+      "quote": "Loneliness is curable"
+
+    },
+    {
+      "id": "468",
+
+      "quote": "I can borroe trouble only at high interest rates"
+
+    },
+    {
+      "id": "469",
+
+      "quote":
+        "Alcohol used to cause me to break out in strange spots - London, Paris, Miami Beach"
+
+    },
+    {
+      "id": "470",
+
+      "quote": "I came to AA to save my hide and discovered my soul was attached"
+
+    },
+    {
+      "id": "471",
+
+      "quote":
+        "I worked the Steps not because I saw the light, but because I felt the heat"
+
+    },
+    {
+      "id": "472",
+
+      "quote": "If you free others to be who they are, you'll set yourself free"
+
+    },
+    {
+      "id": "473",
+
+      "quote":
+        "Just because life has been painful so far doesn't mean it has to keep hurting"
+
+    },
+    {
+      "id": "474",
+
+      "quote":
+        "Go for all of it and Don't worry. If you're not supposed to have it, you won't"
+
+    },
+    {
+      "id": "475",
+
+      "quote":
+        "Were we less self-centered, we'd see that blessings and sorrows visit us in equal amounts"
+
+    },
+    {
+      "id": "476",
+
+      "quote":
+        "Life is like the turn of a wagon wheel - sometimes I'm in the sunshine, and sometimes down in the mud"
+
+    },
+    {
+      "id": "477",
+
+      "quote": "In the AA pasture there are lots of chips"
+
+    },
+    {
+      "id": "478",
+
+      "quote": "If you pray, why worry? If you worry after you pray, why pray?"
+
+    },
+    {
+      "id": "479",
+
+      "quote":
+        "Having trouble turning it over to your Higher Power? Remember that your best thinking got you drunk"
+
+    },
+    {
+      "id": "480",
+
+      "quote":
+        "If you made it this far drunk, God won't let you down when you're sober"
+
+    },
+    {
+      "id": "481",
+
+      "quote": "Hang tough!"
+
+    },
+    {
+      "id": "482",
+
+      "quote": "Call your sponsor before, not after, you take that first drink"
+
+    },
+    {
+      "id": "483",
+
+      "quote": "Strive to understand, rather than to be understood"
+
+    },
+    {
+      "id": "484",
+
+      "quote": "To make it work, you have to buy the whole package"
+
+    },
+    {
+      "id": "485",
+
+      "quote": "The evil I dimly perceive in myself I try to stamp out in others"
+
+    },
+    {
+      "id": "486",
+
+      "quote":
+        "Remember, whatever position you find yourself in, you put yourself there"
+
+    },
+    {
+      "id": "487",
+
+      "quote": "We mock the things we are to be"
+
+    },
+    {
+      "id": "488",
+
+      "quote": "What goes around comes around, if you stick around"
+
+    },
+    {
+      "id": "489",
+
+      "quote": "Act as if"
+
+    },
+    {
+      "id": "490",
+
+      "quote": "Change is a process, not an event"
+
+    },
+    {
+      "id": "491",
+
+      "quote": "Don't drink even if your rear is on fire"
+
+    },
+    {
+      "id": "492",
+
+      "quote":
+        "You can't get mugged in a dark alley if you Don't walk in dark alleys"
+
+    },
+    {
+      "id": "493",
+
+      "quote": "Wherever you go, there you are"
+
+    },
+    {
+      "id": "494",
+
+      "quote":
+        "If you truly understand someone, you will have no need to forgive that person"
+
+    },
+    {
+      "id": "495",
+
+      "quote": "I'm not impatient - I just want everything to change right away"
+
+    },
+    {
+      "id": "496",
+
+      "quote": "It took every drink I took to get here"
+
+    },
+    {
+      "id": "497",
+
+      "quote": "It's amazing how this program works when I get out of the way"
+
+    },
+    {
+      "id": "498",
+
+      "quote": "Happiness is a by-product of doing the right thing"
+
+    },
+    {
+      "id": "499",
+
+      "quote":
+        "Perhaps the only purpose of my sobriety is to stop hurting myself and others"
+
+    },
+    {
+      "id": "500",
+
+      "quote": "Ego: The sum total of false ideas about myself"
+
+    },
+    {
+      "id": "501",
+
+      "quote": "Check your motives"
+
+    },
+    {
+      "id": "502",
+
+      "quote": "My favourite prayer has only one word: Help"
+
+    },
+    {
+      "id": "503",
+
+      "quote": "Courage is fear that has said its prayers"
+
+    },
+    {
+      "id": "504",
+
+      "quote": "My mind is not a good place to be"
+
+    },
+    {
+      "id": "505",
+
+      "quote": "Do not criticise, condemn, or complain"
+
+    },
+    {
+      "id": "506",
+
+      "quote":
+        "Don't criticise others; they are just doing what we would be doing under similar circumstances"
+
+    },
+    {
+      "id": "507",
+
+      "quote":
+        "Why are you not happy with where you are? Is it not exactly where you placed yourself?"
+
+    },
+    {
+      "id": "508",
+
+      "quote": "I'm not where I want to be, but thank God I'm not where I was"
+
+    },
+    {
+      "id": "509",
+
+      "quote":
+        "Doing things the way I thought they should be done is what got me here"
+
+    },
+    {
+      "id": "510",
+
+      "quote":
+        "In order to stay sober, I've got to be willing to be part of my own life"
+
+    },
+    {
+      "id": "511",
+
+      "quote": "There are no victims, just volunteers"
+
+    },
+    {
+      "id": "512",
+
+      "quote": "I didn't want to stop drinking, just to stop hurting"
+
+    },
+    {
+      "id": "513",
+
+      "quote":
+        "Sometimes It's tough to know God's will for me; It's not posted on billboards"
+
+    },
+    {
+      "id": "514",
+
+      "quote":
+        "When I was drinking, individual responsibility was not my strong suit"
+
+    },
+    {
+      "id": "515",
+
+      "quote": "When you pray, just talk to God; when you meditate, just listen"
+
+    },
+    {
+      "id": "516",
+
+      "quote":
+        "When I first came to the program, members said, \"Let us love you until you can love yourself.\""
+
+    },
+    {
+      "id": "517",
+
+      "quote":
+        "When I first came, they said, \"It will get better.\" I discovered the \"it\" was me"
+
+    },
+    {
+      "id": "518",
+
+      "quote":
+        "God is spelled G-O-D, not D-O-G, so Don't get confused and tell him to fetch"
+
+    },
+    {
+      "id": "519",
+
+      "quote": "I came to AA because things began to add up, and not add up"
+
+    },
+    {
+      "id": "520",
+
+      "quote": "Meetings are really boring when I Don't go"
+
+    },
+    {
+      "id": "521",
+
+      "quote": "No one ever went to jail for drinking too much coffee"
+
+    },
+    {
+      "id": "522",
+
+      "quote": "You get home on the ocean of your own tears"
+
+    },
+    {
+      "id": "523",
+
+      "quote":
+        "I didn't know I wanted to quit drinking until I tried to quit drinking"
+
+    },
+    {
+      "id": "524",
+
+      "quote":
+        "I drank for just two reasons: to feel good when I felt bad and to feel better when I felt good"
+
+    },
+    {
+      "id": "525",
+
+      "quote": "Anybody can stop drinking - just hit a cop"
+
+    },
+    {
+      "id": "526",
+
+      "quote": "I didn't come to AA, because I was afraid it would work"
+
+    }
+  ]
+}
+  

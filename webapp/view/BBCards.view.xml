@@ -8,7 +8,7 @@
 		items="{bbcards>/bbcards}">
 		<headerToolbar>
 			<Toolbar>
-				<SearchField placeholder="Enter Big Book card number" width="50%" search=".onSearch"/>
+				<SearchField placeholder="{i18n>bbcardsPlaceholder}" width="50%" search=".onSearch"/>
 			</Toolbar>
 		</headerToolbar>
 		<items>

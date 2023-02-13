@@ -8,11 +8,8 @@ sap.ui.define(
   
       return Controller.extend("HNGv2.highnoongamble.controller.BBCards", {
         onInit: function () {
-          var bbcardTable = this.getView().byId("bbcards")
           var bbcardsModel = new sap.ui.model.json.JSONModel();
           bbcardsModel.loadData("model/bbcards.json")
-          bbcardTable.setModel(bbcardsModel);
-          //this.getView().setModel(bbcards, "bbcards");
         },
         onSearch: function(oEvent) {
           var aFilter = [];

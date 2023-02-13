@@ -1,9 +1,23 @@
-<mvc:View
-controllerName="HNGv2.highnoongamble.controller.Tools"
-xmlns="sap.m"
-xmlns:mvc="sap.ui.core.mvc"
-displayBlock="true"
-xmlns:layout="sap.ui.layout">
-            <Title titleStyle="H2" text="{i18n>myMindTitle}" class="sapUiTinyMarginBegin" />
-           
+<mvc:View controllerName="HNGv2.highnoongamble.controller.MyMind" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:layout="sap.ui.layout">
+    <Shell>
+        <Page id="page" title="{i18n>myMindTitle}">
+        <List
+		id="mymind"
+		class="sapUiResponsiveMargin"
+		width="auto"
+		items="{mymind>/mymind}"
+        growing="true">
+		<headerToolbar>
+			<Toolbar>
+				<SearchField placeholder="{i18n>mymindPlaceholder}" width="50%" search=".onSearch"/>
+			</Toolbar>
+		</headerToolbar>
+		<items>
+			<ObjectListItem
+				title="{mymind>id}: {mymind>quote}">				
+			</ObjectListItem>
+		</items>
+	</List>
+        </Page>
+    </Shell>
 </mvc:View>
