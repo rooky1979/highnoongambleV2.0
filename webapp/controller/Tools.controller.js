@@ -27,6 +27,9 @@ sap.ui.define([
             onNavToBBCards: function() {    
                 this.getRouter().navTo("bbCards");
             },
+            onNavToGodShot: function() {    
+                this.getRouter().navTo("godShot");
+            },
         
             getRouter: function() {
                 return this.getOwnerComponent().getRouter();

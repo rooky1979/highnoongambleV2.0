@@ -31,6 +31,11 @@ xmlns:layout="sap.ui.layout">
                         <ImageContent src="webapp/images/mindout.jpg" />
                     </TileContent>
                 </GenericTile>
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>godShotTitle}" subheader="{i18n>godShotText}" press=".onNavToGodShot">
+                    <TileContent>
+                        <ImageContent src="webapp/images/mindout.jpg" />
+                    </TileContent>
+                </GenericTile>
             </layout:HorizontalLayout>
         </layout:VerticalLayout>
 </mvc:View>

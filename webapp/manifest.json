@@ -63,6 +63,10 @@
       "chat":{
         "uri": "model/chat.json",
         "type": "JSON"
+      },
+      "godshot":{
+        "uri": "model/godshot.json",
+        "type": "JSON"
       }
     }
   },
@@ -155,6 +159,10 @@
       "chat": {
         "type": "sap.ui.model.json.JSONModel",
         "dataSource": "chat"
+      },
+      "godshot": {
+        "type": "sap.ui.model.json.JSONModel",
+        "dataSource": "godshot"
       }
     },
     "resources": {
@@ -265,6 +273,13 @@
           "target": [
             "chat"
           ]
+        },
+        {
+          "name": "godShot",
+          "pattern": "godShot",
+          "target": [
+            "godShot"
+          ]
         }
       ],
       "targets": {
@@ -322,6 +337,10 @@
         "chat": {
           "viewId": "Chat",
           "viewName": "Chat"
+        },
+        "godShot": {
+          "viewId": "GodShot",
+          "viewName": "GodShot"
         }
       }
     },
