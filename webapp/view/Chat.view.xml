@@ -1,8 +1,8 @@
 <mvc:View controllerName="HNGv2.highnoongamble.controller.Chat" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:layout="sap.ui.layout" xmlns:f="sap.f" xmlns:w="sap.ui.integration.widgets">
     <Shell>
-        <Page id="page" title="{i18n>postInChatTitle}" >
+        <Page id="page" class="chatbkg" title="{i18n>postInChatTitle}" >
             <content>
-                <Panel class="sapUiResponsiveMargin" width="auto" growing="true">
+                <Panel class="sapUiResponsiveMargin panelColor" width="auto" growing="true">
                     <content>
                         <Text text="{chat>/chat/text}"/>
                     </content>

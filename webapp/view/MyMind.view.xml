@@ -1,6 +1,6 @@
 <mvc:View controllerName="HNGv2.highnoongamble.controller.MyMind" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:layout="sap.ui.layout">
     <Shell>
-        <Page id="page" title="{i18n>myMindTitle}">
+        <Page id="page" title="{i18n>myMindTitle}" showNavButton="true" navButtonPress=".onNavBack">
             <List id="mymind" class="sapUiResponsiveMargin" width="auto" items="{mymind>/mymind}" growing="true">
                 <headerToolbar>
                     <Toolbar>

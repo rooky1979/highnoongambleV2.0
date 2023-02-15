@@ -5,33 +5,33 @@ xmlns:mvc="sap.ui.core.mvc"
 displayBlock="true"
 xmlns:layout="sap.ui.layout">
         <layout:VerticalLayout class="sapUiResponsiveMargin">
-            <Title titleStyle="H2" text="{i18n>toolsGroupTitle}" class="sapUiTinyMarginBegin" />
+            <Title titleStyle="H2" text="{i18n>toolsGroupTitle}" class="sapUiTinyMarginBegin, titleText" />
             <layout:HorizontalLayout allowWrapping="true">
-                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>myMindTitle}" subheader="{i18n>myMindTagline}" press=".onNavToMyMind">
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout mymindTile"  press=".onNavToMyMind">
                     <TileContent>
                     </TileContent>
                 </GenericTile>
-                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>commonClichesTitle}" subheader="{i18n>commonClichesTagline}" press=".onNavToCommonCliches">
-                    <TileContent>
-                        <ImageContent src="webapp/images/mindout.jpg" />
-                    </TileContent>
-                </GenericTile>
-                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>additionalClichesTitle}" subheader="{i18n>additionalClichesTagline}" press=".onNavToAdditionalCliches">
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout commonClichesTile"  press=".onNavToCommonCliches">
                     <TileContent>
                         <ImageContent src="webapp/images/mindout.jpg" />
                     </TileContent>
                 </GenericTile>
-                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>soberCardsTitle}" subheader="{i18n>soberCardsTagline}" press=".onNavToSoberCards">
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout additionalClichesTile" press=".onNavToAdditionalCliches">
                     <TileContent>
                         <ImageContent src="webapp/images/mindout.jpg" />
                     </TileContent>
                 </GenericTile>
-                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>bigbookCardsTitle}" subheader="{i18n>bigbookCardsTagline}" press=".onNavToBBCards">
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout soberCardsTile"  press=".onNavToSoberCards">
                     <TileContent>
                         <ImageContent src="webapp/images/mindout.jpg" />
                     </TileContent>
                 </GenericTile>
-                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>godShotTitle}" subheader="{i18n>godShotText}" press=".onNavToGodShot">
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout bbCardsTile"  press=".onNavToBBCards">
+                    <TileContent>
+                        <ImageContent src="webapp/images/mindout.jpg" />
+                    </TileContent>
+                </GenericTile>
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout godShotTile" press=".onNavToGodShot">
                     <TileContent>
                         <ImageContent src="webapp/images/mindout.jpg" />
                     </TileContent>

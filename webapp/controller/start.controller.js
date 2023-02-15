@@ -11,8 +11,5 @@ sap.ui.define([
             onInit: function () {
 
             },
-            press: function () {
-                alert("No shit it works");
-            }
         });
     });

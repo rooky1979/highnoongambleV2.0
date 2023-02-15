@@ -1,1 +1,124 @@
 /* Enter your custom styles here */
+.bkgImg {
+    background-image: url('../img/roulette.jpg');
+    background-size: 100% 100%;
+    opacity: 1.0;
+  }
+
+.titleText {
+    color: white;
+}
+.mymindTile {
+    background-image: url('../img/mindout.jpg');
+    background-size: 100% 100%;
+    opacity: 1.0;
+}
+.commonClichesTile {
+    background-image: url('../img/common.jpg');
+    background-size: 100% 100%;
+    opacity: 1.0;
+}
+.additionalClichesTile {
+    background-image: url('../img/additional.jpeg');
+    background-size: 100% 100%;
+    opacity: 1.0;
+}
+.soberCardsTile {
+    background-image: url('../img/sobercards.png');
+    background-size: 100% 100%;
+    opacity: 1.0;
+    background-color: antiquewhite;
+}
+.bbCardsTile {
+    background-image: url('../img/bbcards.png');
+    background-size: 100% 100%;
+    opacity: 1.0;
+    background-color: antiquewhite;
+}
+.godShotTile {
+    background-image: url('../img/godshot.png');
+    background-size: 100% 100%;
+    opacity: 1.0;
+    background-color: antiquewhite;
+}
+.preambleTile {
+    background-image: url('../img/preamble.png');
+    background-size: 100% 100%;
+    opacity: 1.0;
+    background-color: antiquewhite;
+}
+.chapter3Tile {
+    background-image: url('../img/chapter3.png');
+    background-size: 100% 100%;
+    opacity: 1.0;
+    background-color: antiquewhite;
+}
+.chapter5Tile {
+    background-image: url('../img/chapter5.png');
+    background-size: 100% 100%;
+    opacity: 1.0;
+    background-color: antiquewhite;
+}
+.traditionsTile {
+    background-image: url('../img/traditions.png');
+    background-size: 100% 100%;
+    opacity: 1.0;
+    background-color: antiquewhite;
+}
+.responsibilityTile {
+    background-image: url('../img/responsibility.png');
+    background-size: 100% 100%;
+    opacity: 1.0;
+    background-color: antiquewhite;
+}
+.scriptTile {
+    background-image: url('../img/script.png');
+    background-size: 100% 100%;
+    opacity: 1.0;
+    background-color: antiquewhite;
+}
+.chatTile {
+    background-image: url('../img/chat.png');
+    background-size: 100% 100%;
+    opacity: 1.0;
+    background-color: antiquewhite;
+}
+.chapter3bkg {
+    background-image: url('../img/casino2.jpeg');
+    background-size: 100% 100%;
+    opacity: 1.0;
+  }
+.preamblebkg {
+    background-image: url('../img/casino3.png');
+    background-size: 100% 100%;
+    opacity: 1.0;
+  }
+.chapter5bkg {
+    background-image: url('../img/casino4.jpeg');
+    background-size: 100% 100%;
+    opacity: 1.0;
+  }
+.traditionsbkg {
+    background-image: url('../img/casino5.jpeg');
+    background-size: 100% 100%;
+    opacity: 1.0;
+  }
+.responsibilitybkg {
+    background-image: url('../img/casino6.png');
+    background-size: 100% 100%;
+    opacity: 1.0;
+  }
+.scriptbkg {
+    background-image: url('../img/casino.jpg');
+    background-size: 100% 100%;
+    opacity: 1.0;
+  }
+.chatbkg {
+    background-image: url('../img/casino7.jpeg');
+    background-size: 100% 100%;
+    opacity: 1.0;
+  }
+
+.panelColor {
+    background-color: white;
+  }

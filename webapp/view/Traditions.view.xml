@@ -1,8 +1,8 @@
 <mvc:View controllerName="HNGv2.highnoongamble.controller.Traditions" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:layout="sap.ui.layout" xmlns:f="sap.f" xmlns:w="sap.ui.integration.widgets">
     <Shell>
-        <Page id="page" title="{i18n>12TradsTitle}" >
+        <Page id="page" class="traditionsbkg" title="{i18n>12TradsTitle}" showNavButton="true" navButtonPress=".onNavBack">
             <content>
-                <Panel class="sapUiResponsiveMargin" width="auto" growing="true">
+                <Panel class="sapUiResponsiveMargin panelColor" width="auto" growing="true">
                     <content>
                         <Text text="{traditions>/traditions/text}"/>
                     </content>

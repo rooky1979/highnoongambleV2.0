@@ -1,6 +1,6 @@
 <mvc:View controllerName="HNGv2.highnoongamble.controller.CommonCliches" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:layout="sap.ui.layout">
     <Shell>
-        <Page id="page" title="{i18n>commonClichesTitle}">
+        <Page id="page" title="{i18n>commonClichesTitle}" showNavButton="true" navButtonPress=".onNavBack">
         <List
 		id="commoncliches"
 		class="sapUiResponsiveMargin"

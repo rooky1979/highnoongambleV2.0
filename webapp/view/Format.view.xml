@@ -5,14 +5,14 @@ xmlns:mvc="sap.ui.core.mvc"
 displayBlock="true"
 xmlns:layout="sap.ui.layout">
         <layout:VerticalLayout class="sapUiResponsiveMargin">
-            <Title titleStyle="H2" text="{i18n>formatGroupTitle}" class="sapUiTinyMarginBegin" />
+            <Title titleStyle="H2" text="{i18n>formatGroupTitle}" class="sapUiTinyMarginBegin, titleText" />
             <layout:HorizontalLayout allowWrapping="true">
-                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>scriptTitle}"  press=".onNavToScript" url="https://www.sap.com/">
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout scriptTile"   press=".onNavToScript" url="https://www.sap.com/">
                     <TileContent>
                         <ImageContent src="webapp/images/mindout.jpg" />
                     </TileContent>
                 </GenericTile>
-                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="{i18n>postInChatTitle}"  press=".onNavToPostInChat" url="https://www.sap.com/">
+                <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout chatTile"   press=".onNavToPostInChat" url="https://www.sap.com/">
                     <TileContent>
                         <ImageContent src="webapp/images/mindout.jpg" />
                     </TileContent>

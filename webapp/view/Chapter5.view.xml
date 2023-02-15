@@ -1,8 +1,8 @@
 <mvc:View controllerName="HNGv2.highnoongamble.controller.Chapter5" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:layout="sap.ui.layout" xmlns:f="sap.f" xmlns:w="sap.ui.integration.widgets">
     <Shell>
-        <Page id="page" title="{i18n>chapter5Title}" >
+        <Page id="page" class=" chapter5bkg" title="{i18n>chapter5Title}" showNavButton="true" navButtonPress=".onNavBack" >
             <content>
-                <Panel class="sapUiResponsiveMargin" width="auto" growing="true">
+                <Panel class="sapUiResponsiveMargin panelColor" width="auto" growing="true">
                     <content>
                         <Text text="{chapter5>/chapter5/text1}"/>
                         <Text text="{chapter5>/chapter5/text2}"/>

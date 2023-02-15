@@ -3,11 +3,12 @@ sap.ui.define(
     "sap/ui/core/mvc/Controller",
     "sap/ui/model/Filter",
     "sap/ui/model/FilterOperator",
+    "sap/ui/core/routing/History"
   ],
   /**
    * @param {typeof sap.ui.core.mvc.Controller} Controller
    */
-  function (Controller, Filter, FilterOperator) {
+  function (Controller, Filter, FilterOperator, History) {
     "use strict";
 
     return Controller.extend(
@@ -38,6 +39,17 @@ sap.ui.define(
           var oList = this.byId("additionalcliches");
           var oBinding = oList.getBinding("items");
           oBinding.filter(aFilter);
+        },
+        onNavBack: function () {
+          var oHistory = History.getInstance();
+        var sPreviousHash = oHistory.getPreviousHash();
+  
+        if (sPreviousHash !== undefined) {
+          window.history.go(-1);
+        } else {
+          var oRouter = sap.ui.core.UIComponent.getRouterFor(this);
+          oRouter.navTo("start", {}, true);
+        }
         },
       }
     );

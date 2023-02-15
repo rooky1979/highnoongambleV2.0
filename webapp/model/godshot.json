@@ -1,114 +1,114 @@
 {
     "godshot": [
         {
-            "bookid": "62",
+            "bookid": "1",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "Why drink today when you can put it off until tomorrow?"
           },
           {
-            "bookid": "63",
+            "bookid": "2",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "You have to be willing to participate in your own recovery"
           },
           {
-            "bookid": "64",
+            "bookid": "3",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "A lot of people have died wanting to get sober"
           },
           {
-            "bookid": "65",
+            "bookid": "4",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "The great paradox of spirituality is that you've got to give it away to keep it"
           },
           {
-            "bookid": "66",
+            "bookid": "5",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "This program is a marriage of hope and action, and it has to be both"
           },
           {
-            "bookid": "67",
+            "bookid": "6",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "I Don't need your help today. Love, God"
           },
           {
-            "bookid": "68",
+            "bookid": "7",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "In the first year of sobriety, Don't change anything except your playmates, playthings, and playgrounds"
           },
           {
-            "bookid": "69",
+            "bookid": "8",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "Stinkin' thinkin' leads to drinkin'"
           },
           {
-            "bookid": "70",
+            "bookid": "9",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "Drinkin' leads to stinkin' thinkin'"
           },
           {
-            "bookid": "71",
+            "bookid": "10",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "Slippery people and slippery places lead to slips"
           }, {
-            "bookid": "527",
+            "bookid": "11",
             "book": "101 Common Cliches",
       
             "quote": "A problem shared is a problem cut in half."
           },
           {
-            "bookid": "528",
+            "bookid": "12",
             "book": "101 Common Cliches",
       
             "quote": "Ask for help."
           },
           {
-            "bookid": "529",
+            "bookid": "13",
             "book": "101 Common Cliches",
       
             "quote": "Better them than me."
           },
           {
-            "bookid": "530",
+            "bookid": "14",
             "book": "101 Common Cliches",
       
             "quote": "Changing addictions is like switching seats on the Titanic."
           },
           {
-            "bookid": "531",
+            "bookid": "15",
             "book": "101 Common Cliches",
       
             "quote": "Do the footwork."
           },
           {
-            "bookid": "532",
+            "bookid": "16",
             "book": "101 Common Cliches",
       
             "quote": "Do the next right thing."
           },
           {
-            "bookid": "533",
+            "bookid": "17",
             "book": "101 Common Cliches",
       
             "quote": "Doing the deal."
           },
           {
-            "bookid": "534",
+            "bookid": "18",
             "book": "101 Common Cliches",
       
             "quote": "Don't call me after you drink; call me before you drink."
           },
           {
-            "bookid": "535",
+            "bookid": "19",
             "book": "101 Common Cliches",
       
             "quote": "Don't leave before the miracle happens."
@@ -116,379 +116,379 @@
             "card": "3S",
             "quote": "God is never late.",
             "book": "Sober Cards",
-            "bookid": "669"
+            "bookid": "20"
           },
           {
             "card": "4S",
             "quote": "Thy will not mine, be done.",
             "book": "Sober Cards",
-            "bookid": "670"
+            "bookid": "21"
           },
           {
             "card": "5S",
             "quote": "Stay sober for yourself.",
             "book": "Sober Cards",
-            "bookid": "671"
+            "bookid": "22"
           },
           {
             "card": "6S",
             "quote": "Resting on our laurels, we are in trouble if we do.",
             "book": "Sober Cards",
-            "bookid": "672"
+            "bookid": "23"
           },
           {
             "card": "7S",
             "quote": "If you're feeling guilty, you probably are.",
             "book": "Sober Cards",
-            "bookid": "673"
+            "bookid": "24"
           },
           {
             "card": "8S",
             "quote": "Start missing meetings and you start missing drinks.",
             "book": "Sober Cards",
-            "bookid": "674"
+            "bookid": "25"
           },
           {
             "card": "9S",
             "quote": "Character is how we act when no one is watching.",
             "book": "Sober Cards",
-            "bookid": "675"
+            "bookid": "26"
           },
           {
             "card": "10S",
             "quote": "Sobriety is a journey, not a destination.",
             "book": "Sober Cards",
-            "bookid": "676"
+            "bookid": "27"
           },
           {
             "card": "JS",
             "quote": "Be part of the solution, not the problem.",
             "book": "Sober Cards",
-            "bookid": "677"
+            "bookid": "28"
           },
           {
             "card": "QS",
             "quote": "Let go and let God.",
             "book": "Sober Cards",
-            "bookid": "678"
+            "bookid": "29"
           },
           {
             "card": "KS",
             "quote": "Live in the now, look for the now, accept the good.",
             "book": "Sober Cards",
-            "bookid": "679"
+            "bookid": "30"
           },      {
             "holder": "42",
             "book": "Big Book Cards",
             "quote":
               "\"When the spiritual malady is overcome, we straighten out mentally and physically.\" - Page 64",
-            "bookid": "802"
+            "bookid": "31"
           },
           {
             "holder": "43",
             "book": "Big Book Cards",
             "quote": "\"If we were to live, we had to be free of anger.\" - Page 66",
-            "bookid": "803"
+            "bookid": "32"
           },
           {
             "holder": "44",
             "book": "Big Book Cards",
             "quote":
               "\"People of faith have a logical idea of what life is all about.\" - Page 49",
-            "bookid": "804"
+            "bookid": "33"
           },
           {
             "holder": "45",
             "book": "Big Book Cards",
             "quote":
               "\"The first requirement is that we be convinced that any life run on self-will can hardly be a success.\" - Page 60",
-            "bookid": "805"
+            "bookid": "34"
           },
           {
             "holder": "46",
             "book": "Big Book Cards",
             "quote":
               "\"Physicians who are familiar with alcoholism agree there is no such thing as making a normal drinker out of an alcoholic.\" - Page 31",
-            "bookid": "806"
+            "bookid": "35"
           },
           {
-            "bookid": "188",
+            "bookid": "36",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "If you Don't do anything to make it better, it will get worse"
           },
           {
-            "bookid": "189",
+            "bookid": "37",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "I may be mad at someone, but I'm not going to get drunk at that person"
           },
           {
-            "bookid": "190",
+            "bookid": "38",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "What can I learn from this?"
           },
           {
-            "bookid": "191",
+            "bookid": "39",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "Most of the things that irritate me today won't be important enough to remember tomorrow"
           },
           {
-            "bookid": "192",
+            "bookid": "40",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "Stop looking for the bad news after the good news"
           },
           {
-            "bookid": "193",
+            "bookid": "41",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "Sometime you just have to wait"
           },
           {
-            "bookid": "194",
+            "bookid": "42",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "I lived to get drunk and got drunk to live"
           },
           {
-            "bookid": "195",
+            "bookid": "43",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "What can you do to take the place of drinking? Anything in the world except drink"
           },
           {
-            "bookid": "196",
+            "bookid": "44",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "It hasn't been a bad day just because a few things haven't gone my way"
           },{
-            "bookid": "607",
+            "bookid": "45",
             "book": "101 Common Cliches",
       
             "quote": "Trust the process."
           },
           {
-            "bookid": "608",
+            "bookid": "46",
             "book": "101 Common Cliches",
       
             "quote": "Turn it over."
           },
           {
-            "bookid": "609",
+            "bookid": "47",
             "book": "101 Common Cliches",
       
             "quote": "Wait a year."
           },
           {
-            "bookid": "610",
+            "bookid": "48",
             "book": "101 Common Cliches",
       
             "quote": "We are not bad people trying to get good, we are sick people trying to get well."
           },
           {
-            "bookid": "611",
+            "bookid": "49",
             "book": "101 Common Cliches",
       
             "quote": "We don't trip over mountains; we trip over molehills."
           },
           {
-            "bookid": "612",
+            "bookid": "50",
             "book": "101 Common Cliches",
       
             "quote": "We get sick by ourselves; we get well together."
           },
           {
-            "bookid": "613",
+            "bookid": "51",
             "book": "101 Common Cliches",
       
             "quote": "We have a disease that tells us; we don't have a disease."
           },
           {
-            "bookid": "614",
+            "bookid": "52",
             "book": "101 Common Cliches",
       
             "quote": "Whatever you put in front of your sobriety is the first thing you're going to lose."
           },
           {
-            "bookid": "615",
+            "bookid": "53",
             "book": "101 Common Cliches",
       
             "quote": "When all else fails, working with another alcoholic saves the day."
           },
           {
-            "bookid": "616",
+            "bookid": "54",
             "book": "101 Common Cliches",
       
             "quote": "When you get hit by a train, it's not the caboose that kills you."
           },
           {
-            "bookid": "617",
+            "bookid": "55",
             "book": "101 Common Cliches",
       
             "quote": "Where's your higher power?"
           }, {
-            "bookid": "753",
+            "bookid": "56",
              "book": "Additional Cliches",
              "quote":
                "We here at AA have good news for you and bad news. The good news is you never have to drink again. The bad news is that we're your new friends."
        
            },
            {
-            "bookid": "754",
+            "bookid": "57",
              "book": "Additional Cliches",
              "quote":
                "What we learn in AA meetings is bread for daily life, not cake for special occasions."
        
            },
            {
-            "bookid": "755",
+            "bookid": "58",
              "book": "Additional Cliches",
              "quote": "When the student is ready, the teacher will appear."
        
            },
            {
-            "bookid": "756",
+            "bookid": "59",
              "book": "Additional Cliches",
              "quote": "You are either moving away from a drink or towards one."
        
            },
            {
-            "bookid": "757",
+            "bookid": "60",
              "book": "Additional Cliches",
              "quote": "You are exactly where you are supposed to be."
        
            },
            {
-            "bookid": "758",
+            "bookid": "61",
              "book": "Additional Cliches",
              "quote": "You're only as sick as your secrets."
        
            },
            {
-            "bookid": "759",
+            "bookid": "62",
              "book": "Additional Cliches",
              "quote": "You can't take this program cafeteria style."
        
            },
            {
-            "bookid": "760",
+            "bookid": "63",
              "book": "Additional Cliches",
              "quote": "You must have the courage to change."
        
            },
            {
-             "holder": "1",
+             "holder": "64",
              "book": "Big Book Cards",
              "quote": "\"Our ideas did not work. But the God idea did.\" - page 52",
              "bookid": "761"
            },{
-            "bookid": "1",
+            "bookid": "65",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "One day at a time."
           },
           {
-            "bookid": "2",
+            "bookid": "66",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "You've got to give time, time."
           },
           {
-            "bookid": "3",
+            "bookid": "67",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "Insanity: Doing exactly the same thing over and over, expecting different results."
           },
           {
-            "bookid": "4",
+            "bookid": "68",
             "book": "My Mind Is Out To Get Me",
             "quote": "It's a good meeting if no one gets drunk in the room during the meeting."
           },
           {
-            "bookid": "5",
+            "bookid": "69",
             "book": "My Mind Is Out To Get Me",
             "quote": "H.A.L.T. - Hungry, Angry, Lonely, Tired."
           },
           {
-            "bookid": "6",
+            "bookid": "70",
             "book": "My Mind Is Out To Get Me",
             "quote": "The length of time away from a drink is not equal to the distance from a drink."
           },
           {
-            "bookid": "7",
+            "bookid": "71",
             "book": "My Mind Is Out To Get Me",
             "quote": "You have to be able to live with yourself before you can live with another person."
           },
           {
-            "bookid": "8",
+            "bookid": "72",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "It's not what happens to you but how you perceive it."
           },
           {
-            "bookid": "9",
+            "bookid": "73",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "Fourth Step: Fears, resentments, self-pities, guilts, hatreds, and whys"
           },
           {
-            "bookid": "10",
+            "bookid": "74",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "This too shall pass"
           },
           {
-            "bookid": "11",
+            "bookid": "75",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "Happiness is an inside job"
           },
           {
-            "bookid": "12",
+            "bookid": "76",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "Desparation, inspiration, perspiration"
           },
           {
-            "bookid": "13",
+            "bookid": "77",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "Keep it simple"
           },
           {
-            "bookid": "14",
+            "bookid": "78",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "Turn your will and your life over to God"
           }, {
-            "bookid": "536",
+            "bookid": "79",
             "book": "101 Common Cliches",
       
             "quote": "Don't let other people's words define you."
           },
           {
-            "bookid": "537",
+            "bookid": "80",
             "book": "101 Common Cliches",
       
             "quote": "Don't let people rent space in your head."
           },
           {
-            "bookid": "538",
+            "bookid": "81",
             "book": "101 Common Cliches",
       
             "quote": "Don't think, don't drink, and go to meetings."
           },
           {
-            "bookid": "539",
+            "bookid": "82",
             "book": "101 Common Cliches",
       
             "quote": "Easy does it."
           },
           {
-            "bookid": "540",
+            "bookid": "83",
             "book": "101 Common Cliches",
       
             "quote": "F.E.A.R. - False Evidence Appearing Real"
@@ -496,239 +496,239 @@
             "card": "7C",
             "quote": "Love and tolerance is our code.",
             "book": "Sober Cards",
-            "bookid": "647"
+            "bookid": "84"
           },
           {
             "card": "8C",
             "quote": "Easy does it.",
             "book": "Sober Cards",
-            "bookid": "648"
+            "bookid": "85"
           },
           {
             "card": "9C",
             "quote": "Don't be bitter, be better.",
             "book": "Sober Cards",
-            "bookid": "649"
+            "bookid": "86"
           },
           {
             "card": "10C",
             "quote": "Remember, it's progress not perfection.",
             "book": "Sober Cards",
-            "bookid": "650"
+            "bookid": "87"
           },
           {
             "card": "JC",
             "quote": "One drink is too many and a thousand is not enough.",
             "book": "Sober Cards",
-            "bookid": "651"
+            "bookid": "88"
           },
           {
             "card": "QC",
             "quote": "Stick with the winners.",
             "book": "Sober Cards",
-            "bookid": "652"
+            "bookid": "89"
           },
           {
             "card": "KC",
             "quote": "If I could drink like other people I would drink all the time.",
             "book": "Sober Cards",
-            "bookid": "653"
+            "bookid": "90"
           },
           {
             "card": "AD",
             "quote": "idle hands are the devil's playground.",
             "book": "Sober Cards",
-            "bookid": "654"
+            "bookid": "91"
           },
           {
             "card": "2D",
             "quote": "First things first.",
             "book": "Sober Cards",
-            "bookid": "655"
+            "bookid": "92"
           }, {
-            "bookid": "711",
+            "bookid": "93",
              "book": "Additional Cliches",
              "quote": "If it doesn't apply, let it fly."
        
            },
            {
-            "bookid": "712",
+            "bookid": "94",
              "book": "Additional Cliches",
              "quote":
                "If you ask an alcoholic what time it is, he'll try to build you a clock."
        
            },
            {
-            "bookid": "713",
+            "bookid": "95",
              "book": "Additional Cliches",
              "quote":
                "If you find a path with no obstacles, it probably doesn't lead anywhere."
        
            },
            {
-            "bookid": "714",
+            "bookid": "96",
              "book": "Additional Cliches",
              "quote": "If you keep doing what you did you'll keep getting what you got."
        
            },
            {
-            "bookid": "715",
+            "bookid": "97",
              "book": "Additional Cliches",
              "quote":
                "If you put as much effort into AA as you did in your drinking, you'll do well."
        
            },
            {
-            "bookid": "716",
+            "bookid": "98",
              "book": "Additional Cliches",
              "quote":
                "If you're in hell, there's hope, because much of heaven is only 12 steps away."
        
            },
            {
-            "bookid": "717",
+            "bookid": "99",
              "book": "Additional Cliches",
              "quote": "I'm an alcoholic, I can fuck up a sandwich."
        
            },
            {
-            "bookid": "718",
+            "bookid": "100",
              "book": "Additional Cliches",
              "quote": "Is that odd? Or is that God?"
        
            },
            {
-            "bookid": "719",
+            "bookid": "101",
              "book": "Additional Cliches",
              "quote": "It gets better."
        
            },
            {
-            "bookid": "720",
+            "bookid": "102",
              "book": "Additional Cliches",
              "quote": "It is when you act as if you have faith that you begin to have it."
        
            },
            {
-            "bookid": "721",
+            "bookid": "103",
              "book": "Additional Cliches",
              "quote": "It's not what I know that keeps me sober, it's what I do."
        
            },
            {
-            "bookid": "722",
+            "bookid": "104",
              "book": "Additional Cliches",
              "quote": "I've been sober a few 24 hours."
        
            },
            {
-            "bookid": "723",
+            "bookid": "105",
              "book": "Additional Cliches",
              "quote": "Meetings: it's a lot of entertainment for a buck."
        
            },
            {
-            "bookid": "724",
+            "bookid": "106",
              "book": "Additional Cliches",
              "quote": "More will be revealed."
        
            },
            {
-            "bookid": "725",
+            "bookid": "107",
              "book": "Additional Cliches",
              "quote": "My best friend became my worst enemy."
        
            },{
-            "bookid": "15",
+            "bookid": "108",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "Don't drink even if your rear falls off; put it in a bag and bring it to the meeting"
           },
           {
-            "bookid": "16",
+            "bookid": "109",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "First things first"
           },
           {
-            "bookid": "17",
+            "bookid": "110",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "God never closes a door without also opening a window"
           },
           {
-            "bookid": "18",
+            "bookid": "111",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "Let go and let God"
           },
           {
-            "bookid": "19",
+            "bookid": "112",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "How important is it?"
           },
           {
-            "bookid": "20",
+            "bookid": "113",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "Coincedence: God performs a little miracle and wishes to remain anonymous"
           },
           {
-            "bookid": "21",
+            "bookid": "114",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "Utilise, Don't analyse"
           },
           {
-            "bookid": "22",
+            "bookid": "115",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "An AA member is just a drunk with a conscience"
           },{
-            "bookid": "553",
+            "bookid": "116",
             "book": "101 Common Cliches",
       
             "quote": "I have problems in areas where I used to not have any areas."
           },
           {
-            "bookid": "554",
+            "bookid": "117",
             "book": "101 Common Cliches",
       
             "quote": "I was sick and tired of being sick and tired."
           },
           {
-            "bookid": "555",
+            "bookid": "118",
             "book": "101 Common Cliches",
       
             "quote": "I was tired of the ass-kicking machine."
           },
           {
-            "bookid": "556",
+            "bookid": "119",
             "book": "101 Common Cliches",
       
             "quote": "If I could drink like a normal person, I'd drink everyday."
           },
           {
-            "bookid": "557",
+            "bookid": "120",
             "book": "101 Common Cliches",
       
             "quote": "If nothing changes, nothing changes."
           },
           {
-            "bookid": "558",
+            "bookid": "121",
             "book": "101 Common Cliches",
       
             "quote": "If you are not completely satisfied with AA, your misery will be promptly refunded."
           },
           {
-            "bookid": "559",
+            "bookid": "122",
             "book": "101 Common Cliches",
       
             "quote": "If you don't do a fourth, you'll probably drink a fifth."
           },
           {
-            "bookid": "560",
+            "bookid": "123",
             "book": "101 Common Cliches",
       
             "quote": "If you don't drink, you won't get drunk."
@@ -736,48 +736,48 @@
             "holder": "35",
             "book": "Big Book Cards",
             "quote": "\"We relax and take it easy. We don't struggle.\" - Page 86",
-            "bookid": "795"
+            "bookid": "124"
           },
           {
             "holder": "36",
             "book": "Big Book Cards",
             "quote": "\"First things first. Live and let live. Easy does it.\" - Page 135",
-            "bookid": "796"
+            "bookid": "125"
           },
           {
             "holder": "37",
             "book": "Big Book Cards",
             "quote":
               "\"Actually we were fooling ourselves, for deep down in every man, woman, and child, is the fundamental idea of God.\" - Page 55",
-            "bookid": "797"
+            "bookid": "126"
           },
           {
             "holder": "38",
             "book": "Big Book Cards",
             "quote":
               "\"Most alcoholics owe money. We do not dodge our creditors.\" - Page 78",
-            "bookid": "798"
+            "bookid": "127"
           },
           {
             "holder": "39",
             "book": "Big Book Cards",
             "quote":
               "\"Some of us have tried to hold on to our old ideas and the result was nil until we let go absolutely.\" - Page 58",
-            "bookid": "799"
+            "bookid": "128"
           },
           {
             "holder": "40",
             "book": "Big Book Cards",
             "quote":
               "\"If sex is very troublesome, we throw ourselves the harder into helping others. We think of their needs and work for them. This takes us out of ourselves.\" - Page 70",
-            "bookid": "800"
+            "bookid": "129"
           },
           {
             "holder": "41",
             "book": "Big Book Cards",
             "quote":
               "\"Rarely have we seen a person fail who has thoroughly followed our path\" - Page 58",
-            "bookid": "801"
+            "bookid": "130"
           },      {
             "bookid": "685",
              "book": "Additional Cliches",
@@ -786,87 +786,87 @@
        
            },
            {
-            "bookid": "686",
+            "bookid": "131",
              "book": "Additional Cliches",
              "quote": "God will never give you more than you can handle."
        
            },
            {
-            "bookid": "687",
+            "bookid": "132",
              "book": "Additional Cliches",
              "quote": "Guiness Heart: Black and Bitter."
        
            },
            {
-            "bookid": "688",
+            "bookid": "133",
              "book": "Additional Cliches",
              "quote": "H.A.L.T - Be careful when you're Hungry, Angry, Lonely, or Tired."
        
            },
            {
-            "bookid": "689",
+            "bookid": "134",
              "book": "Additional Cliches",
              "quote": "Happy Horse Shit."
        
            },
            {
-            "bookid": "690",
+            "bookid": "135",
              "book": "Additional Cliches",
              "quote":
                "Having resentments is like taking poison and hoping the other person dies."
        
            },
            {
-            "bookid": "691",
+            "bookid": "136",
              "book": "Additional Cliches",
              "quote": "I ain't much, but I'm all I think about."
        
            },
            {
-            "bookid": "692",
+            "bookid": "137",
              "book": "Additional Cliches",
              "quote": "I am powerless, not helpless."
        
            },
            {
-            "bookid": "693",
+            "bookid": "138",
              "book": "Additional Cliches",
              "quote":
                "I am the black sheep of the family and when I came to AA, I found the rest of my herd."
        
            },
            {
-            "bookid": "694",
+            "bookid": "139",
              "book": "Additional Cliches",
              "quote":
                "I came to AA to get the monkey off my back. Now, the circus is still in town, but I am no longer the ringmaster, I'm just one of the clowns."
        
            },
            {
-            "bookid": "695",
+            "bookid": "140",
              "book": "Additional Cliches",
              "quote": "I didn't get sober to be miserable."
        
            },   {
-            "bookid": "624",
+            "bookid": "141",
             "book": "101 Common Cliches",
       
             "quote": "You don't go to a whorehouse to get a ham sandwich."
           },
           {
-            "bookid": "625",
+            "bookid": "142",
             "book": "101 Common Cliches",
       
             "quote": "You have to give it away to keep it."
           },
           {
-            "bookid": "626",
+            "bookid": "143",
             "book": "101 Common Cliches",
       
             "quote": "Your best thinking got you here."
           },
           {
-            "bookid": "627",
+            "bookid": "144",
             "book": "101 Common Cliches",
       
             "quote": "You're on a pink cloud."
@@ -875,19 +875,19 @@
             "card": "AH",
             "quote": "Live and let live.",
             "book": "Sober Cards",
-            "bookid": "628"
+            "bookid": "145"
           },
           {
             "card": "2H",
             "quote": "Keep recovery first to make it your last.",
             "book": "Sober Cards",
-            "bookid": "629"
+            "bookid": "146"
           },
           {
             "card": "3H",
             "quote": "Don't let people rent space in your head.",
             "book": "Sober Cards",
-            "bookid": "630"
+            "bookid": "147"
           },    {
             "bookid": "166",
             "book": "My Mind Is Out To Get Me",
@@ -895,90 +895,90 @@
             "quote": "When you're afraid, pick up the five-hundred-pound telephone and call someone"
           },
           {
-            "bookid": "167",
+            "bookid": "148",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "There is nothing wrong with your life that the removal of alcohol can't help but make better"
           },
           {
-            "bookid": "168",
+            "bookid": "149",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "When tempted, Don't drink, say a prayer, and go to a meeting"
           },
           {
-            "bookid": "169",
+            "bookid": "150",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "God, please help me"
           },
           {
-            "bookid": "170",
+            "bookid": "151",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "I came. I came to. I came to believe"
           },
           {
-            "bookid": "171",
+            "bookid": "152",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "Please God first, yourself second, and everyone else third"
           },
           {
-            "bookid": "172",
+            "bookid": "153",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "It's not my luck that needs changing, it is I"
           },
           {
-            "bookid": "173",
+            "bookid": "154",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "When you join AA you become a member of the \"Society of the Second Chance\""
           },
           {
-            "bookid": "174",
+            "bookid": "155",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "When you hold on to the past with one hand and grab at the future with the other, you have nothing with which you can hold on to today"
           },
           {
-            "bookid": "175",
+            "bookid": "156",
             "book": "My Mind Is Out To Get Me",
       
             "quote": "You cannot get ahead until you learn to be here"
           }, {
-            "bookid": "541",
+            "bookid": "157",
             "book": "101 Common Cliches",
       
             "quote": "Fake it 'till you make it."
           },
           {
-            "bookid": "542",
+            "bookid": "158",
             "book": "101 Common Cliches",
       
             "quote": "Feeling comfortable in your own skin."
           },
           {
-            "bookid": "543",
+            "bookid": "159",
             "book": "101 Common Cliches",
       
             "quote": "First things first."
           },
           {
-            "bookid": "544",
+            "bookid": "160",
             "book": "101 Common Cliches",
       
             "quote": "Get out of yourself."
           },
           {
-            "bookid": "545",
+            "bookid": "161",
             "book": "101 Common Cliches",
       
             "quote": "G.O.D. - Good Orderly Direction."
           },
           {
-            "bookid": "546",
+            "bookid": "162",
             "book": "101 Common Cliches",
       
             "quote": "G.O.D. - Group of Drunks."
@@ -986,107 +986,107 @@
             "card": "3C",
             "quote": "Don't quit before the miracle happens.",
             "book": "Sober Cards",
-            "bookid": "643"
+            "bookid": "163"
           },
           {
             "card": "4C",
             "quote": "We are only as sick as our secrets.",
             "book": "Sober Cards",
-            "bookid": "644"
+            "bookid": "164"
           },
           {
             "card": "5C",
             "quote": "Willingness is the key.",
             "book": "Sober Cards",
-            "bookid": "645"
+            "bookid": "165"
           },
           {
             "card": "6C",
             "quote": "Serenity isn't freedom from the storm. It's peace within the storm.",
             "book": "Sober Cards",
-            "bookid": "646"
+            "bookid": "166"
           },
           
           {
             "card": "3D",
             "quote": "More will be revealed.",
             "book": "Sober Cards",
-            "bookid": "656"
+            "bookid": "167"
           },
           {
             "card": "4D",
             "quote": "This too shall pass.",
             "book": "Sober Cards",
-            "bookid": "657"
+            "bookid": "168"
           },
           {
             "card": "5D",
             "quote": "Do the next right thing.",
             "book": "Sober Cards",
-            "bookid": "658"
+            "bookid": "169"
           },
           {
             "card": "6D",
             "quote": "Peace and serenity through surrender.",
             "book": "Sober Cards",
-            "bookid": "659"
+            "bookid": "170"
           },
           {
             "card": "7D",
             "quote": "Don't borrow trouble from tomorrow.",
             "book": "Sober Cards",
-            "bookid": "660"
+            "bookid": "171"
           },
           {
             "card": "8D",
             "quote": "Don't take everything so personally.",
             "book": "Sober Cards",
-            "bookid": "661"
+            "bookid": "172"
           },{
-            "bookid": "685",
+            "bookid": "173",
              "book": "Additional Cliches",
              "quote": "Addicts and Alcohilics don't have relationships, we take hostages."
        
            },
            {
-            "bookid": "686",
+            "bookid": "174",
              "book": "Additional Cliches",
              "quote": "Alcoholism is incurable, progressive, and fatal."
        
            },
            {
-            "bookid": "687",
+            "bookid": "175",
              "book": "Additional Cliches",
              "quote":
                "All you need to start your own AA meeting is a resentment and a coffee pot."
        
            },
            {
-            "bookid": "688",
+            "bookid": "176",
              "book": "Additional Cliches",
              "quote": "Anger is one letter away from danger."
        
            },
            {
-            "bookid": "689",
+            "bookid": "177",
              "book": "Additional Cliches",
              "quote": "Be nice to the newcomers, someday one may be your sponsor."
        
            },
            {
-            "bookid": "670",
+            "bookid": "178",
              "book": "Additional Cliches",
              "quote": "Before I came to AA, I was dying for a drink."
        
            },{
-            "holder": "10",
+            "holder": "179",
             "book": "Big Book Cards",
             "quote":
               "\"Resentment is the number one offender. It destroys more alcoholics than anything else.\" - Page 64",
             "bookid": "770"
           },
           {
-            "holder": "11",
+            "holder": "180",
             "book": "Big Book Cards",
             "quote":
               "\"Lack of power that was our dilemma. We had to find a power by which we could live, and it had to be a power greater than ourselves.\" - Page 45",
@@ -1097,14 +1097,14 @@
             "book": "Big Book Cards",
             "quote":
               "\"We had a new employer. Being all powerful, He provided what we needed, if we kept close to Him and performed His work well.\" - Page 63",
-            "bookid": "772"
+            "bookid": "181"
           },
           {
             "holder": "13",
             "book": "Big Book Cards",
             "quote":
               "\"The age of miracles is still with us. Our own recovery proves that!\" - Page 153",
-            "bookid": "773"
+            "bookid": "182"
           },
      {
         "bookid": "23",
@@ -1113,72 +1113,72 @@
         "quote": "Platitudes can help with your attitudes"
       },
       {
-        "bookid": "24",
+        "bookid": "183",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Ninety meetings in ninety days"
       },
       {
-        "bookid": "25",
+        "bookid": "184",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "There's nothing wrong with pursuing happiness, just Don't get angry if it eludes you"
       },
       {
-        "bookid": "26",
+        "bookid": "185",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Do the rowing and let God do the steering"
       },
       {
-        "bookid": "27",
+        "bookid": "186",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Alcohol tried to murder my soul"
       },
       {
-        "bookid": "28",
+        "bookid": "187",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Treat your mind like a bad neighbourhood -- Don't go there alone"
       },
       {
-        "bookid": "29",
+        "bookid": "188",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Ten out of ten people die, so Don't take life so seriously"
       },{
-        "bookid": "561",
+        "bookid": "189",
         "book": "101 Common Cliches",
   
         "quote": "If you don't get this program, stick around until it gets you."
       },
       {
-        "bookid": "562",
+        "bookid": "190",
         "book": "101 Common Cliches",
   
         "quote": "If you don't have a sponsor, your addiction will gladly sponsor you."
       },
       {
-        "bookid": "563",
+        "bookid": "191",
         "book": "101 Common Cliches",
   
         "quote": "If you don't remember your last drunk, you haven't had it yet."
       },
       {
-        "bookid": "564",
+        "bookid": "192",
         "book": "101 Common Cliches",
   
         "quote": "If you hang out in a barbershop, you might just gey a haircut."
       },
       {
-        "bookid": "565",
+        "bookid": "193",
         "book": "101 Common Cliches",
   
         "quote": "If you think you don't have a lower bottom, remember there's always a trap door."
       },
       {
-        "bookid": "566",
+        "bookid": "194",
         "book": "101 Common Cliches",
   
         "quote": "If you're neck deep in shit, it's okay to piss your pants."
@@ -1186,70 +1186,70 @@
         "card": "7H",
         "quote": "KISS: Keep It Simple Stupid.",
         "book": "Sober Cards",
-        "bookid": "634"
+        "bookid": "195"
       },
       {
         "card": "8H",
         "quote": "To thine own self be true.",
         "book": "Sober Cards",
-        "bookid": "635"
+        "bookid": "196"
       },
       {
         "card": "9H",
         "quote": "Before you say I can't, say I'll try.",
         "book": "Sober Cards",
-        "bookid": "636"
+        "bookid": "197"
       },
       {
         "card": "10H",
         "quote": "Trying to pray is praying.",
         "book": "Sober Cards",
-        "bookid": "637"
+        "bookid": "198"
       },
       {
         "card": "JH",
         "quote": "Some things are true whether you believe them or not.",
         "book": "Sober Cards",
-        "bookid": "638"
+        "bookid": "199"
       },
       {
         "card": "QH",
         "quote": "One hour at a time, one day at a time, one step at a time.",
         "book": "Sober Cards",
-        "bookid": "639"
+        "bookid": "200"
       },{
-        "bookid": "675",
+        "bookid": "201",
          "book": "Additional Cliches",
          "quote": "Don't you know who I think I am."
    
        },
        {
-        "bookid": "676",
+        "bookid": "202",
          "book": "Additional Cliches",
          "quote": "E.G.O. - Edging God Out."
    
        },
        {
-        "bookid": "677",
+        "bookid": "203",
          "book": "Additional Cliches",
          "quote":
            "Expectations are resentments just waiting to happen or the road to resentments is paved with expectations."
    
        },
        {
-        "bookid": "678",
+        "bookid": "204",
          "book": "Additional Cliches",
          "quote": "Faith without works is dead."
    
        },
        {
-        "bookid": "679",
+        "bookid": "205",
          "book": "Additional Cliches",
          "quote": "Fear without works is dead."
    
        },
        {
-        "bookid": "680",
+        "bookid": "206",
          "book": "Additional Cliches",
          "quote":
            "Geographical cures don't work, because wherever you go you're still there."
@@ -1259,28 +1259,28 @@
         "book": "Big Book Cards",
         "quote":
           "\"The tremendous fact for every one of us is that we have discovered a common solution.\" - Page 17",
-        "bookid": "766"
+        "bookid": "207"
       },
       {
         "holder": "7",
         "book": "Big Book Cards",
         "quote":
           "\"The delusion that we are like other people, or presently may be, has to be smashed.\" - Page 30",
-        "bookid": "767"
+        "bookid": "208"
       },
       {
         "holder": "8",
         "book": "Big Book Cards",
         "quote":
           "\"And we have ceased fighting anything or anyone - even alcohol.\" - Page 84",
-        "bookid": "768"
+        "bookid": "209"
       },
       {
         "holder": "9",
         "book": "Big Book Cards",
         "quote":
           "\"If we skip this vital step, we may not overcome drinking.\" - Page 72",
-        "bookid": "769"
+        "bookid": "210"
       },
       
       {
@@ -1288,93 +1288,93 @@
         "book": "Big Book Cards",
         "quote":
           "\"Our liquor was but a symptom. So we had to get down to causes and conditions.\" - Page 64",
-        "bookid": "774"
+        "bookid": "211"
       },
       {
         "holder": "15",
         "book": "Big Book Cards",
         "quote":
           "\"As we go through the day we pause, when agitated or doubtful, and ask for the right thought or action.\" - Page 87",
-        "bookid": "775"
+        "bookid": "212"
       },{
-        "bookid": "30",
+        "bookid": "213",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Only three things happen to alcoholics who Don't stop drinking: They get screwed up, locked up, or covered up"
       },
       {
-        "bookid": "31",
+        "bookid": "214",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "You have to love yourself before you can love yourself"
       },
       {
-        "bookid": "32",
+        "bookid": "215",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "When I have a dollar more than what I need, I'm rich. Before I quit drinking, I was always a dollar short"
       },
       {
-        "bookid": "33",
+        "bookid": "216",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "You Don't die when you get ready, you die when God gets ready"
       },
       {
-        "bookid": "34",
+        "bookid": "217",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Stand for something or you'll fall for anything"
       },
       {
-        "bookid": "35",
+        "bookid": "218",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Your actions are so loud I can't hear what you're saying"
       },
       {
-        "bookid": "36",
+        "bookid": "219",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Yesterday is so far in the past I can't see it; tomorrow is too distant in the future to be seen. So I'll take a good look at what I can see - today"
       },
       {
-        "bookid": "37",
+        "bookid": "220",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Keep coming back"
       },
       {
-        "bookid": "38",
+        "bookid": "221",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Live like this is the last day of your life"
       },
       {
-        "bookid": "39",
+        "bookid": "222",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "S.L.I.P. - Sobriety Loses Its Priority"
       },
       {
-        "bookid": "40",
+        "bookid": "223",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "The best fringe benefit of being in AA is that you never have to be alone again"
       }, {
-        "bookid": "549",
+        "bookid": "224",
         "book": "101 Common Cliches",
   
         "quote": "Have an attitude of gratitude."
       },
       {
-        "bookid": "550",
+        "bookid": "225",
         "book": "101 Common Cliches",
   
         "quote": "H.O.W - Honest, Open, and Willing."
       },
       {
-        "bookid": "551",
+        "bookid": "226",
         "book": "101 Common Cliches",
   
         "quote": "Ican't; He can; I think I'll let him."
@@ -1388,25 +1388,25 @@
       
       
       {
-        "bookid": "567",
+        "bookid": "227",
         "book": "101 Common Cliches",
   
         "quote": "In sobriety, there are good times and growth times."
       },
       {
-        "bookid": "568",
+        "bookid": "228",
         "book": "101 Common Cliches",
   
         "quote": "Insanity is doing the same thing over and over again expecting different results."
       },
       {
-        "bookid": "569",
+        "bookid": "229",
         "book": "101 Common Cliches",
   
         "quote": "I doesn't matter what you think, or what you feel; it matters what you do."
       },
       {
-        "bookid": "570",
+        "bookid": "230",
         "book": "101 Common Cliches",
   
         "quote": "It takes what it takes."
@@ -1414,77 +1414,77 @@
         "card": "AS",
         "quote": "Just don't drink.",
         "book": "Sober Cards",
-        "bookid": "667"
+        "bookid": "231"
       },
       {
         "card": "2S",
         "quote": "When one door closes, another one opens.",
         "book": "Sober Cards",
-        "bookid": "668"
+        "bookid": "232"
       },
       
       {
-       "bookid": "680",
+       "bookid": "233",
         "book": "Additional Cliches",
         "quote":
           "AA didn't open the Gates of Heaven and let me in, it opened up the Gates of Hell and let me out."
       },
       {
-       "bookid": "681",
+       "bookid": "234",
         "book": "Additional Cliches",
         "quote": "AA is the easier softer way."
   
       },
       {
-       "bookid": "682",
+       "bookid": "235",
         "book": "Additional Cliches",
         "quote": "A drug is a drug is a drug."
   
       },
       {
-       "bookid": "683",
+       "bookid": "236",
         "book": "Additional Cliches",
         "quote": "A moment of clarity."
   
       }, {
-        "bookid": "710",
+        "bookid": "238",
          "book": "Additional Cliches",
          "quote": "If I wasn't in here, I'd be out there."
    
        },
       
        {
-        "bookid": "726",
+        "bookid": "239",
          "book": "Additional Cliches",
          "quote": "My drinking went from Park Avenue to park bench."
    
        },
        {
-        "bookid": "727",
+        "bookid": "240",
          "book": "Additional Cliches",
          "quote": "My serenity is indirectly proportional to my expectations."
    
        },
        {
-        "bookid": "728",
+        "bookid": "241",
          "book": "Additional Cliches",
          "quote": "My sobriety has a shelf life of about 24 hours."
    
        },
        {
-        "bookid": "729",
+        "bookid": "242",
          "book": "Additional Cliches",
          "quote": "Nothing happens in God's world by mistake."
    
        },
        {
-        "bookid": "730",
+        "bookid": "243",
          "book": "Additional Cliches",
          "quote": "Nothing is so bad that a drink won't make it worse."
    
        },
        {
-        "bookid": "731",
+        "bookid": "244",
          "book": "Additional Cliches",
          "quote": "N.U.T.S. - Not Using The Steps."
    
@@ -1493,163 +1493,163 @@
         "book": "Big Book Cards",
         "quote":
           "\"We have entered the world of the Spirit. Our next function is to grow in understanding and effectiveness.\" - Page 84",
-        "bookid": "786"
+        "bookid": "245"
       },
       {
         "holder": "27",
         "book": "Big Book Cards",
         "quote":
           "\"See to it that your relationship with Him is right, and great events will come to pass for you and countless others.\" - Page 164",
-        "bookid": "787"
+        "bookid": "246"
       },
       {
         "holder": "28",
         "book": "Big Book Cards",
         "quote":
           "\"What we really have is a daily reprieve contingent on the maintenance of our spiritual condition.\" - Page 85",
-        "bookid": "788"
+        "bookid": "247"
       },
       {
         "holder": "29",
         "book": "Big Book Cards",
         "quote":
           "\"We must be entirely honest with somebody if we expect to live long or happily in this world.\" - Page 73",
-        "bookid": "789"
+        "bookid": "248"
       },
       {
         "holder": "30",
         "book": "Big Book Cards",
         "quote":
           "\"Our real purpose is to fit ourselves to be maximum service to God and the people about us.\" - Page 77",
-        "bookid": "790"
+        "bookid": "249"
       },{
-        "bookid": "41",
+        "bookid": "250",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Wear the world as a loose garment"
       },
       {
-        "bookid": "42",
+        "bookid": "251",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Give yourself a little success every day"
       },
       {
-        "bookid": "43",
+        "bookid": "252",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Only one in ten alcoholics die sober. Beat the odds"
       },
       {
-        "bookid": "44",
+        "bookid": "253",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "I am responsible"
       },
       {
-        "bookid": "45",
+        "bookid": "254",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "But for the grace of God.."
       },
       {
-        "bookid": "46",
+        "bookid": "255",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Be profound, funny, or quiet"
       },
       {
-        "bookid": "47",
+        "bookid": "256",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Trust God, clean house, and help others"
       },
       {
-        "bookid": "48",
+        "bookid": "257",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "God doesn't make mistakes"
       },
       {
-        "bookid": "49",
+        "bookid": "258",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Any excuse for a drink is as good as any excuse for a drink"
       },
       {
-        "bookid": "50",
+        "bookid": "259",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "When tragic things begin to seem funny, health has begun"
       },
       {
-        "bookid": "51",
+        "bookid": "260",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Easy does it"
       },
       {
-        "bookid": "52",
+        "bookid": "261",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "After you talk in a meeting, listen to hear if you said anything"
       },
       {
-        "bookid": "53",
+        "bookid": "262",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "We're all doing the best we can"
       },
       {
-        "bookid": "54",
+        "bookid": "263",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Easy does it, but do it"
       },
       {
-        "bookid": "55",
+        "bookid": "264",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "I may have a drink tomorrow, but not today"
       }, {
-        "bookid": "547",
+        "bookid": "265",
         "book": "101 Common Cliches",
   
         "quote": "God doesn't give is what we want; God gives us what we need."
       },
       {
-        "bookid": "548",
+        "bookid": "266",
         "book": "101 Common Cliches",
   
         "quote": "Half measures availed us nothing."
       },
      
       {
-        "bookid": "571",
+        "bookid": "267",
         "book": "101 Common Cliches",
   
         "quote": "It works if you work it."
       },
       {
-        "bookid": "572",
+        "bookid": "268",
         "book": "101 Common Cliches",
   
         "quote": "It's easier to put on slippers than carpet the world."
       },
       {
-        "bookid": "573",
+        "bookid": "269",
         "book": "101 Common Cliches",
   
         "quote": "It's no fun having a belly full of alcohol, if you have a head full of AA."
       },
       {
-        "bookid": "574",
+        "bookid": "270",
         "book": "101 Common Cliches",
   
         "quote": "Keep coming back."
       },
       {
-        "bookid": "575",
+        "bookid": "271",
         "book": "101 Common Cliches",
   
         "quote": "Keep it simple."
@@ -1657,78 +1657,78 @@
         "card": "4H",
         "quote": "Nothing changes if nothing changes.",
         "book": "Sober Cards",
-        "bookid": "631"
+        "bookid": "272"
       },
       {
         "card": "5H",
         "quote": "We either make ourselves miserable or make ourselves stronger, the amount of work is the same.",
         "book": "Sober Cards",
-        "bookid": "632"
+        "bookid": "273"
       },
       {
         "card": "6H",
         "quote": "Faith without works is dead.",
         "book": "Sober Cards",
-        "bookid": "633"
+        "bookid": "274"
       },
      
       {
         "card": "KH",
         "quote": "It gets real, it gets different, it gets real different.",
         "book": "Sober Cards",
-        "bookid": "640"
+        "bookid": "275"
       },
       {
         "card": "AC",
         "quote": "One day at a time.",
         "book": "Sober Cards",
-        "bookid": "641"
+        "bookid": "276"
       },
       {
         "card": "2C",
         "quote": "Keep coming back. It works if you work it.",
         "book": "Sober Cards",
-        "bookid": "642"
+        "bookid": "277"
       },{
-        "bookid": "672",
+        "bookid": "278",
          "book": "Additional Cliches",
          "quote": "Bring the body and the mind will follow."
    
        },
        {
-        "bookid": "673",
+        "bookid": "279",
          "book": "Additional Cliches",
          "quote": "Coincendences are God's way of staying Anonymous."
    
        },
        {
-        "bookid": "674",
+        "bookid": "280",
          "book": "Additional Cliches",
          "quote": "Don't be surprised if you relapse, be surprised if you don't."
    
        },
        
        {
-        "bookid": "681",
+        "bookid": "281",
          "book": "Additional Cliches",
          "quote": "Gift of desperation."
    
        },
        {
-        "bookid": "682",
+        "bookid": "282",
          "book": "Additional Cliches",
          "quote":
            "God does not move mountains, but you have to bring the shovel to help."
    
        },
        {
-        "bookid": "683",
+        "bookid": "283",
          "book": "Additional Cliches",
          "quote": "God doesn't have any grand kids."
    
        },
        {
-        "bookid": "684",
+        "bookid": "284",
          "book": "Additional Cliches",
          "quote": "God is never late."
    
@@ -1737,27 +1737,27 @@
         "book": "Big Book Cards",
         "quote":
           "\"But we aren't a glum lot. If newcomers could see no joy or fun in our existence, they wouldn't want it. We absolutely insist on enjoying life.\" - Page 132",
-        "bookid": "762"
+        "bookid": "285"
       },
       {
         "holder": "3",
         "book": "Big Book Cards",
         "quote":
           "\"We learned that we had to fully concede to our innermost selves that we were alcoholics. This is the first step in recovery.\" - Page 30",
-        "bookid": "763"
+        "bookid": "286"
       },
       {
         "holder": "4",
         "book": "Big Book Cards",
         "quote": "\"Love and tolerance of others is our code\" - Page 84",
-        "bookid": "764"
+        "bookid": "287"
       },
       {
         "holder": "5",
         "book": "Big Book Cards",
         "quote":
           "\"If you are seriously alcoholic as we were, we believe there is no middle-of-the-road solution\" - Page 25",
-        "bookid": "765"
+        "bookid": "288"
       },
      
       {
@@ -1765,87 +1765,87 @@
         "book": "Big Book Cards",
         "quote":
           "\"As soon as a man can say that he does believe, or is willing to believe, we emphatically assure him that he is on his way.\" - Page 47",
-        "bookid": "776"
+        "bookid": "289"
       },{
-        "bookid": "56",
+        "bookid": "290",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Fake it till you make it"
       },
       {
-        "bookid": "57",
+        "bookid": "291",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Put your desire chip under your tongue; when it melts, you can have a drink"
       },
       {
-        "bookid": "58",
+        "bookid": "292",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "For an alcoholic, one drink is one too many - one thousand is not enough"
       },
       {
-        "bookid": "59",
+        "bookid": "293",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Never underestimate the power of prayer or the passage of time"
       },
       {
-        "bookid": "60",
+        "bookid": "294",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Meeting makers make it"
       },
       {
-        "bookid": "61",
+        "bookid": "295",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "No one can make you take a drink, and no one can make you stop"
       },
       
       {
-        "bookid": "72",
+        "bookid": "296",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "It works if you work it"
       },
       {
-        "bookid": "73",
+        "bookid": "297",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Today is the yesterday you'll worry about tomorrow"
       }, {
-        "bookid": "576",
+        "bookid": "298",
         "book": "101 Common Cliches",
   
         "quote": "Let go and let God."
       },
       {
-        "bookid": "577",
+        "bookid": "299",
         "book": "101 Common Cliches",
   
         "quote": "Live and let Live."
       },
       {
-        "bookid": "578",
+        "bookid": "300",
         "book": "101 Common Cliches",
   
         "quote": "Look for the similarities, not at the differences."
       },
       {
-        "bookid": "579",
+        "bookid": "301",
         "book": "101 Common Cliches",
   
         "quote": "Meeting makers make it."
       },
       {
-        "bookid": "580",
+        "bookid": "302",
         "book": "101 Common Cliches",
   
         "quote": "My disease wants to kill me."
       },
       {
-        "bookid": "581",
+        "bookid": "303",
         "book": "101 Common Cliches",
   
         "quote": "Ninety in ninety."
@@ -1853,40 +1853,40 @@
         "card": "9D",
         "quote": "Play the tape out.",
         "book": "Sober Cards",
-        "bookid": "662"
+        "bookid": "304"
       },
       {
         "card": "10D",
         "quote": "Instead of saying I have to; say, 'I get to.'",
         "book": "Sober Cards",
-        "bookid": "663"
+        "bookid": "305"
       },
       {
         "card": "JD",
         "quote": "Rule#62: Don't take yourself too damn seriously.",
         "book": "Sober Cards",
-        "bookid": "664"
+        "bookid": "306"
       },
       {
         "card": "QD",
         "quote": "Sometimes quickly, sometimes slowly.",
         "book": "Sober Cards",
-        "bookid": "665"
+        "bookid": "307"
       },
       {
         "card": "KD",
         "quote": "What is the loving and giving action I can do, right here and now in this situation.",
         "book": "Sober Cards",
-        "bookid": "666"
+        "bookid": "308"
       },{
-        "bookid": "684",
+        "bookid": "309",
          "book": "Additional Cliches",
          "quote": "Act as if."
    
        },
        
        {
-        "bookid": "671",
+        "bookid": "310",
          "book": "Additional Cliches",
          "quote":
            "Being humble isn't that we think less of ourselves, it's that we think of ourselves less."
@@ -1895,34 +1895,34 @@
        
  
        {
-        "bookid": "696",
+        "bookid": "311",
          "book": "Additional Cliches",
          "quote":
            "I didn't just experiment with drugs and alcohol; I was into advanced research and development."
    
        },
        {
-        "bookid": "697",
+        "bookid": "312",
          "book": "Additional Cliches",
          "quote":
            "I do not always know what God's will is for me, but I usually know what it's not."
    
        },
        {
-        "bookid": "698",
+        "bookid": "313",
          "book": "Additional Cliches",
          "quote":
            "I have to stop telling my God how big my problems are and start telling my problems how big my God is."
    
        },
        {
-        "bookid": "699",
+        "bookid": "314",
          "book": "Additional Cliches",
          "quote": "I know two things about God: There is one and I ain't him."
    
        },
        {
-        "bookid": "700",
+        "bookid": "315",
          "book": "Additional Cliches",
          "quote":
            "I may not be where I want to be, but thank God I'm not where I was."
@@ -1931,211 +1931,211 @@
         "holder": "17",
         "book": "Big Book Cards",
         "quote": "\"There is a solution.\" - Page 25",
-        "bookid": "777"
+        "bookid": "316"
       },
       {
         "holder": "18",
         "book": "Big Book Cards",
         "quote":
           "\"Half measures availed us nothing. We stood at the turning point. We asked His protection and care with complete abandon.\" - Page 59",
-        "bookid": "778"
+        "bookid": "317"
       },
       {
         "holder": "19",
         "book": "Big Book Cards",
         "quote":
           "\"Above everything, we alcoholics must be rid of this selfishness. We must, or it kills us! God makes that possible.\" - Page 62",
-        "bookid": "779"
+        "bookid": "318"
       },{
-        "bookid": "74",
+        "bookid": "319",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "AA is a simple program for complicated people"
       },
       {
-        "bookid": "75",
+        "bookid": "320",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "AA is not where you wind up, It's where you start over"
       },
       {
-        "bookid": "76",
+        "bookid": "321",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Our sickness is between our ears"
       },
       {
-        "bookid": "77",
+        "bookid": "322",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "It takes time"
       },
       {
-        "bookid": "78",
+        "bookid": "323",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "You aren't going to get it by Thursday"
       },
       {
-        "bookid": "79",
+        "bookid": "324",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "An empty can makes the most noise"
       },
       {
-        "bookid": "80",
+        "bookid": "325",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Every AA meeting is a payment on your sobriety"
       },
       {
-        "bookid": "81",
+        "bookid": "326",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Alcoholics have three choices: die, go nuts, or get sober"
       },
       {
-        "bookid": "82",
+        "bookid": "327",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "God can't hand you anything new until you let go of what you're holding"
       },
       {
-        "bookid": "83",
+        "bookid": "328",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Carry your strength, hope, and experience to those people you find attractive and, especially, to those you Don't"
       },
       {
-        "bookid": "84",
+        "bookid": "329",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "When I think I'm out of control, I'm most out of control"
       },{
-        "bookid": "582",
+        "bookid": "330",
         "book": "101 Common Cliches",
   
         "quote": "No 13th stepping."
       },
       {
-        "bookid": "583",
+        "bookid": "331",
         "book": "101 Common Cliches",
   
         "quote": "No one comes into AA on a winning streak."
       },
       {
-        "bookid": "584",
+        "bookid": "332",
         "book": "101 Common Cliches",
   
         "quote": "One day at a time."
       },
       {
-        "bookid": "585",
+        "bookid": "333",
         "book": "101 Common Cliches",
   
         "quote": "One is too many and a thousand is not enough."
       },
       {
-        "bookid": "586",
+        "bookid": "334",
         "book": "101 Common Cliches",
   
         "quote": "Play the tape all the way through."
       },
       {
-        "bookid": "587",
+        "bookid": "335",
         "book": "101 Common Cliches",
   
         "quote": "Poor me, poor me, pour me another drink."
       },
       {
-        "bookid": "588",
+        "bookid": "336",
         "book": "101 Common Cliches",
   
         "quote": "Relapse is a process, not an event."
       },
       {
-        "bookid": "589",
+        "bookid": "337",
         "book": "101 Common Cliches",
   
         "quote": "Stark raving sober."
       },
       {
-        "bookid": "590",
+        "bookid": "338",
         "book": "101 Common Cliches",
   
         "quote": "Stay away from wet faces and wet places."
       },{
-        "bookid": "701",
+        "bookid": "339",
          "book": "Additional Cliches",
          "quote": "I need to treat you, today, like I want God to treat me, tomorrow."
    
        },
        {
-        "bookid": "702",
+        "bookid": "340",
          "book": "Additional Cliches",
          "quote": "I want, what I want, when I want it."
    
        },
        {
-        "bookid": "703",
+        "bookid": "341",
          "book": "Additional Cliches",
          "quote": "I was getting worse faster than I could lower my standards."
    
        },
        {
-        "bookid": "704",
+        "bookid": "342",
          "book": "Additional Cliches",
          "quote":
            "I will always have another drunk in me, but I am not sure there is another recovery."
    
        },
        {
-        "bookid": "705",
+        "bookid": "343",
          "book": "Additional Cliches",
          "quote":
            "I'd rather live sober in AA wondering if I'm an alcoholic, than die drunk trying to prove I'm not."
    
        },{
-        "holder": "20",
+        "holder": "344",
         "book": "Big Book Cards",
         "quote":
           "\"It is easy to let up on the spiritual program of action and rest on our laurels. We are headed for trouble if we do, for alcohol is a subtle foe.\" - Page 85",
-        "bookid": "780"
+        "bookid": "344"
       },
       {
-        "holder": "21",
+        "holder": "345",
         "book": "Big Book Cards",
         "quote":
           "\"We have found much of heaven and we have been rocketed into a fourth dimension of existence of which we had dreamed.\" - Page 25",
-        "bookid": "781"
+        "bookid": "345"
       },
       {
-        "holder": "22",
+        "holder": "346",
         "book": "Big Book Cards",
         "quote":
           "\"The idea that somehow, someday he will control his drinking is the great obsession of every abnormal drinker.\" - Page 30",
-        "bookid": "782"
+        "bookid": "346"
       },
       {
-        "holder": "23",
+        "holder": "347",
         "book": "Big Book Cards",
         "quote":
           "\"Therefore, the main problem of the alcoholic centers in the mind, rather than the body.\" - Page 23",
-        "bookid": "783"
+        "bookid": "347"
       },
       {
-        "holder": "24",
+        "holder": "348",
         "book": "Big Book Cards",
         "quote":
           "\"We found the Great Reality deep down within us. In the last analysis it is only there that He may be found.\" - Page 55",
-        "bookid": "784"
+        "bookid": "348"
       },
       {
         "holder": "25",
         "book": "Big Book Cards",
         "quote":
           "\"Here we ask God for inspiration, an intuitive thought or a decision.\" - Page 86",
-        "bookid": "785"
+        "bookid": "349"
       },
      
       {
@@ -2143,606 +2143,606 @@
         "book": "Big Book Cards",
         "quote":
           "\"...we find that our thinking will, as time passes, be more on the plane of inspiration. We come to rely upon it.\" - Page 87",
-        "bookid": "791"
+        "bookid": "350"
       },
       {
         "holder": "32",
         "book": "Big Book Cards",
         "quote": "\"We trust infinite God rather than our finite selves.\" - Page 68",
-        "bookid": "792"
+        "bookid": "351"
       },
       {
         "holder": "33",
         "book": "Big Book Cards",
         "quote":
           "\"To us, the Realm of Spirit is broad, roomy, all inclusive; never exclusive or forbidding to those who earnestly seek.\" - Page 46",
-        "bookid": "793"
+        "bookid": "352"
       },
       {
         "holder": "34",
         "book": "Big Book Cards",
         "quote":
           "\"Do not be discouraged. No one among us has been able to maintain anything like perfect adherence to these principles.\" - Page 60",
-        "bookid": "794"
+        "bookid": "353"
       },{
-        "bookid": "85",
+        "bookid": "354",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "There are many ways to cross the river - what matters is that you cross sober"
       },
       {
-        "bookid": "86",
+        "bookid": "355",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "I learning to be sober doesn't feel awkward, you're not making progress"
       },
       {
-        "bookid": "87",
+        "bookid": "356",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "If you Don't change, you Don't grow. And if you Don't grow, you Don't go"
       },
       {
-        "bookid": "88",
+        "bookid": "357",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Alcoholics are self-adoring egotists who can't stand their own image"
       },
       {
-        "bookid": "89",
+        "bookid": "358",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "To stay sober, you must make the abnormal normal, and the normal abnormal"
       },
       {
-        "bookid": "90",
+        "bookid": "359",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "If you keep bringing your body, your mind will follow"
       },
       {
-        "bookid": "91",
+        "bookid": "360",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Alcoholism is the high cost of low living"
       },
       {
-        "bookid": "92",
+        "bookid": "361",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "When confronted with a dilemma, ask yourself, What would God do?"
       },
       {
-        "bookid": "93",
+        "bookid": "362",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "If you think you have humility, you Don't"
       },
       {
-        "bookid": "94",
+        "bookid": "363",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "If others did the things to us that we as alcoholics do to ourselves, we'd kill them"
       },
       {
-        "bookid": "95",
+        "bookid": "364",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "AA is not a place to go to save your soul but if you have an open mind, you may save your skin"
       },{
-        "bookid": "591",
+        "bookid": "365",
         "book": "101 Common Cliches",
   
         "quote": "Stick with the winners."
       },
       {
-        "bookid": "592",
+        "bookid": "366",
         "book": "101 Common Cliches",
   
         "quote": "Stinkin' Thinkin'."
       },
       {
-        "bookid": "593",
+        "bookid": "367",
         "book": "101 Common Cliches",
   
         "quote": "Surrender to win."
       },
       {
-        "bookid": "594",
+        "bookid": "368",
         "book": "101 Common Cliches",
   
         "quote": "Take suggestions."
       },
       {
-        "bookid": "595",
+        "bookid": "369",
         "book": "101 Common Cliches",
   
         "quote": "Take the cotton wool out of your ears and put it in your mouth."
       },
       {
-        "bookid": "596",
+        "bookid": "370",
         "book": "101 Common Cliches",
   
         "quote": "The first step is the only one you have to work perfectly."
       },
       {
-        "bookid": "597",
+        "bookid": "371",
         "book": "101 Common Cliches",
   
         "quote": "There is only one thing you have to change - and that's everything."
       },
       {
-        "bookid": "598",
+        "bookid": "372",
         "book": "101 Common Cliches",
   
         "quote": "They call it Alcohol-'ism', not Alcohol-'wasm'."
       },
       {
-        "bookid": "599",
+        "bookid": "373",
         "book": "101 Common Cliches",
   
         "quote": "This disease is bigger than me, but it's not bigger than us."
       },
       {
-        "bookid": "600",
+        "bookid": "374",
         "book": "101 Common Cliches",
   
         "quote": "This is a disease, not a disgrace."
       },
       {
-        "bookid": "601",
+        "bookid": "375",
         "book": "101 Common Cliches",
   
         "quote": "This is a program for people who want it, not for people who need it."
       },
       {
-        "bookid": "602",
+        "bookid": "376",
         "book": "101 Common Cliches",
   
         "quote": "This is a selfish program."
       },
       {
-        "bookid": "603",
+        "bookid": "377",
         "book": "101 Common Cliches",
   
         "quote": "This is a simple program for complicated people."
       },
       {
-        "bookid": "604",
+        "bookid": "378",
         "book": "101 Common Cliches",
   
         "quote": "This is a 'we' program."
       },
       {
-        "bookid": "605",
+        "bookid": "379",
         "book": "101 Common Cliches",
   
         "quote": "This program is simple, not easy."
       },
       {
-        "bookid": "606",
+        "bookid": "380",
         "book": "101 Common Cliches",
   
         "quote": "This too shall pass."
       },
       
       {
-        "bookid": "618",
+        "bookid": "381",
         "book": "101 Common Cliches",
   
         "quote": "While you work on recovery, your addiction is doing push ups."
       },
       {
-        "bookid": "619",
+        "bookid": "382",
         "book": "101 Common Cliches",
   
         "quote": "Work the steps."
       },
       {
-        "bookid": "620",
+        "bookid": "383",
         "book": "101 Common Cliches",
   
         "quote": "You can carry the message; you can't carry the alcoholic."
       },
       {
-        "bookid": "621",
+        "bookid": "384",
         "book": "101 Common Cliches",
   
         "quote": "You can take a bath in champagne as long as you don't drink it."
       },
       {
-        "bookid": "622",
+        "bookid": "385",
         "book": "101 Common Cliches",
   
         "quote": "You can't save your face and your ass at the same time."
       },
       {
-        "bookid": "623",
+        "bookid": "386",
         "book": "101 Common Cliches",
   
         "quote": "You can't think your way into better living, but you can live your way into better thinking."
       },   {
-        "bookid": "518",
+        "bookid": "387",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "God is spelled G-O-D, not D-O-G, so Don't get confused and tell him to fetch"
       },
       {
-        "bookid": "519",
+        "bookid": "388",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "I came to AA because things began to add up, and not add up"
       },
       {
-        "bookid": "520",
+        "bookid": "389",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Meetings are really boring when I Don't go"
       },
       {
-        "bookid": "521",
+        "bookid": "390",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "No one ever went to jail for drinking too much coffee"
       },
       {
-        "bookid": "522",
+        "bookid": "391",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "You get home on the ocean of your own tears"
       },
       {
-        "bookid": "523",
+        "bookid": "392",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "I didn't know I wanted to quit drinking until I tried to quit drinking"
       },
       {
-        "bookid": "524",
+        "bookid": "393",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "I drank for just two reasons: to feel good when I felt bad and to feel better when I felt good"
       },
       {
-        "bookid": "525",
+        "bookid": "394",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Anybody can stop drinking - just hit a cop"
       },
       {
-        "bookid": "526",
+        "bookid": "395",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "I didn't come to AA, because I was afraid it would work"
       },{
-        "bookid": "706",
+        "bookid": "396",
          "book": "Additional Cliches",
          "quote": "If all else fails - follow directions."
    
        },
        {
-        "bookid": "707",
+        "bookid": "397",
          "book": "Additional Cliches",
          "quote": "If God brings you to it, He will bring you through it."
    
        },
        {
-        "bookid": "708",
+        "bookid": "398",
          "book": "Additional Cliches",
          "quote": "If God is your co-pilot, you're sitting in the wrong seat."
    
        },
        {
-        "bookid": "709",
+        "bookid": "399",
          "book": "Additional Cliches",
          "quote": "If I don't continually change, my sobriety date will."
    
        },
       
        {
-        "bookid": "732",
+        "bookid": "400",
          "book": "Additional Cliches",
          "quote": "Pray for willingness."
    
        },
        {
-        "bookid": "733",
+        "bookid": "401",
          "book": "Additional Cliches",
          "quote": "Principles before personalities."
    
        },
        {
-        "bookid": "734",
+        "bookid": "402",
          "book": "Additional Cliches",
          "quote":
            "Religion is for people who do not want to go to hell; Spirituality is for people who have already been there."
    
        },
        {
-        "bookid": "735",
+        "bookid": "403",
          "book": "Additional Cliches",
          "quote": "Remember, it's okay to look back, just don't stare."
    
        },
        {
-        "bookid": "736",
+        "bookid": "404",
          "book": "Additional Cliches",
          "quote": "Seven days without a meeting makes one weak."
    
        },
        {
-        "bookid": "737",
+        "bookid": "405",
          "book": "Additional Cliches",
          "quote":
            "Sobriety and working the steps gives us what alcohol promised, but failed to deliver."
    
        },
        {
-        "bookid": "738",
+        "bookid": "406",
          "book": "Additional Cliches",
          "quote":
            "Some of us are so successful, once we sober up, we turn out to be almost as good as we used to think we were when we were drinking."
    
        },
        {
-        "bookid": "739",
+        "bookid": "407",
          "book": "Additional Cliches",
          "quote": "Sorrow looks back; Worry looks ahead; Faith looks up."
    
        },
        {
-        "bookid": "740",
+        "bookid": "408",
          "book": "Additional Cliches",
          "quote":
            "S.P.O.N.S.O.R. - Sober Person Offering Newcomers Suggestions On Recovery."
    
        },
        {
-        "bookid": "741",
+        "bookid": "409",
          "book": "Additional Cliches",
          "quote": "Take what you can use and leave the rest."
    
        },
        {
-        "bookid": "742",
+        "bookid": "410",
          "book": "Additional Cliches",
          "quote": "The road to a 4th Step is paved with resentments."
    
        },
        {
-        "bookid": "743",
+        "bookid": "411",
          "book": "Additional Cliches",
          "quote": "There is no chemical solution to a spiritual problem."
    
        },
        {
-        "bookid": "744",
+        "bookid": "412",
          "book": "Additional Cliches",
          "quote": "There is no such thing as a bad meeting."
    
        },
        {
-        "bookid": "745",
+        "bookid": "413",
          "book": "Additional Cliches",
          "quote": "There is still a monkey on my back, he's just sleeping."
    
        },    {
-        "bookid": "503",
+        "bookid": "414",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Courage is fear that has said its prayers"
       },
       {
-        "bookid": "504",
+        "bookid": "415",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "My mind is not a good place to be"
       },
       {
-        "bookid": "505",
+        "bookid": "416",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Do not criticise, condemn, or complain"
       },
       {
-        "bookid": "506",
+        "bookid": "417",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Don't criticise others; they are just doing what we would be doing under similar circumstances"
       },
       {
-        "bookid": "507",
+        "bookid": "418",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Why are you not happy with where you are? Is it not exactly where you placed yourself?"
       },
       {
-        "bookid": "508",
+        "bookid": "419",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "I'm not where I want to be, but thank God I'm not where I was"
       },
       {
-        "bookid": "509",
+        "bookid": "420",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Doing things the way I thought they should be done is what got me here"
       },
       {
-        "bookid": "510",
+        "bookid": "421",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "In order to stay sober, I've got to be willing to be part of my own life"
       },
       {
-        "bookid": "511",
+        "bookid": "422",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "There are no victims, just volunteers"
       },
       {
-        "bookid": "512",
+        "bookid": "423",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "I didn't want to stop drinking, just to stop hurting"
       },
       {
-        "bookid": "513",
+        "bookid": "424",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Sometimes It's tough to know God's will for me; It's not posted on billboards"
       },
       {
-        "bookid": "514",
+        "bookid": "425",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "When I was drinking, individual responsibility was not my strong suit"
       },
       {
-        "bookid": "515",
+        "bookid": "426",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "When you pray, just talk to God; when you meditate, just listen"
       },
       {
-        "bookid": "516",
+        "bookid": "427",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "When I first came to the program, members said, \"Let us love you until you can love yourself.\""
       },
       {
-        "bookid": "517",
+        "bookid": "428",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "When I first came, they said, \"It will get better.\" I discovered the \"it\" was me"
       },{
-        "bookid": "746",
+        "bookid": "429",
          "book": "Additional Cliches",
          "quote": "Those who anger us the most are our greatest teachers."
    
        },
        {
-        "bookid": "747",
+        "bookid": "430",
          "book": "Additional Cliches",
          "quote": "TIME = Things I Must Earn."
    
        },
        {
-        "bookid": "748",
+        "bookid": "431",
          "book": "Additional Cliches",
          "quote": "We are egomaniacs with low self-esteem."
    
        },
        {
-        "bookid": "749",
+        "bookid": "432",
          "book": "Additional Cliches",
          "quote":
            "We are not human beings having a spiritual experience; we are spiritual beings having a human experience."
    
        },
        {
-        "bookid": "750",
+        "bookid": "433",
          "book": "Additional Cliches",
          "quote": "We don't get sober in pairs."
    
        },
        {
-        "bookid": "751",
+        "bookid": "434",
          "book": "Additional Cliches",
          "quote": "Aka Under Every Dress there's a slip."
    
        },
        {
-        "bookid": "752",
+        "bookid": "435",
          "book": "Additional Cliches",
          "quote": "We grow through attraction not promotion."
    
        },    {
-        "bookid": "488",
+        "bookid": "436",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "What goes around comes around, if you stick around"
       },
       {
-        "bookid": "489",
+        "bookid": "437",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Act as if"
       },
       {
-        "bookid": "490",
+        "bookid": "438",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Change is a process, not an event"
       },
       {
-        "bookid": "491",
+        "bookid": "439",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Don't drink even if your rear is on fire"
       },
       {
-        "bookid": "492",
+        "bookid": "440",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "You can't get mugged in a dark alley if you Don't walk in dark alleys"
       },
       {
-        "bookid": "493",
+        "bookid": "441",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Wherever you go, there you are"
       },
       {
-        "bookid": "494",
+        "bookid": "442",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "If you truly understand someone, you will have no need to forgive that person"
       },
       {
-        "bookid": "495",
+        "bookid": "443",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "I'm not impatient - I just want everything to change right away"
       },
       {
-        "bookid": "496",
+        "bookid": "444",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "It took every drink I took to get here"
       },
       {
-        "bookid": "497",
+        "bookid": "445",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "It's amazing how this program works when I get out of the way"
       },
       {
-        "bookid": "498",
+        "bookid": "446",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Happiness is a by-product of doing the right thing"
       },
       {
-        "bookid": "499",
+        "bookid": "447",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Perhaps the only purpose of my sobriety is to stop hurting myself and others"
       },
       {
-        "bookid": "500",
+        "bookid": "448",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Ego: The sum total of false ideas about myself"
       },
       {
-        "bookid": "501",
+        "bookid": "449",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "Check your motives"
       },
       {
-        "bookid": "502",
+        "bookid": "450",
         "book": "My Mind Is Out To Get Me",
   
         "quote": "My favourite prayer has only one word: Help"

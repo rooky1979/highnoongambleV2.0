@@ -1,6 +1,6 @@
 <mvc:View controllerName="HNGv2.highnoongamble.controller.start" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m" xmlns:layout="sap.ui.layout">
-    <Shell>
-        <Page id="page" title="{i18n>title}">
+    <Shell> 
+        <Page class="bkgImg" backgroundDesign="Transparent" id="page" title="{i18n>title}">
             <content>
                 <mvc:XMLView viewName="HNGv2.highnoongamble.view.Tools"/>
                 <mvc:XMLView viewName="HNGv2.highnoongamble.view.Readings"/>
