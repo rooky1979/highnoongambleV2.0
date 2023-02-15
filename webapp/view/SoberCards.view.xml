@@ -1,24 +1,19 @@
 <mvc:View controllerName="HNGv2.highnoongamble.controller.SoberCards" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:layout="sap.ui.layout">
     <Shell>
-        <Page id="page" title="{i18n>soberCardsTitle}"
-		showNavButton="true" navButtonPress=".onNavBack">
-        <List
-		id="sobercards"
-		class="sapUiResponsiveMargin"
-		width="auto"
-		items="{sobercards>/sobercards}">
-		<headerToolbar>
-			<Toolbar>
-				<SearchField placeholder="{i18n>sobercardsPlaceholder}" width="50%" search=".onSearch"/>
-				<Button type="Emphasized" text="God Shot" press=".godShot" />
-			</Toolbar>
-		</headerToolbar>
-		<items>
-			<ObjectListItem
-				title="{sobercards>id}: {sobercards>quote}">				
-			</ObjectListItem>
-		</items>
-	</List>
+        <Page id="page" title="{i18n>soberCardsTitle}" showNavButton="true" navButtonPress=".onNavBack">
+            <List id="sobercards" class="sapUiResponsiveMargin" width="auto" items="{sobercards>/sobercards}">
+                <headerToolbar>
+                    <Toolbar>
+                        <SearchField placeholder="{i18n>sobercardsPlaceholder}" width="50%" search=".onSearch" />
+                        <Button type="Emphasized" text="God Shot" press=".godShot" />
+                    </Toolbar>
+                </headerToolbar>
+                <items>
+                    <CustomListItem>
+                        <ExpandableText class="sapUiResponsiveMargin" text="{sobercards>id}: {sobercards>quote}" overflowMode="{overflowMode}" />
+                    </CustomListItem>
+                </items>
+            </List>
         </Page>
     </Shell>
 </mvc:View>

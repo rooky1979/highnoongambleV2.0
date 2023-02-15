@@ -1,23 +1,19 @@
 <mvc:View controllerName="HNGv2.highnoongamble.controller.BBCards" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:layout="sap.ui.layout">
     <Shell>
         <Page id="page" title="{i18n>bigbookCardsTitle}" showNavButton="true" navButtonPress=".onNavBack">
-        <List
-		id="bbcards"
-		class="sapUiResponsiveMargin"
-		width="auto"
-		items="{bbcards>/bbcards}">
-		<headerToolbar>
-			<Toolbar>
-				<SearchField placeholder="{i18n>bbcardsPlaceholder}" width="50%" search=".onSearch"/>
-				<Button type="Emphasized" text="God Shot" press=".godShot"/>
-			</Toolbar>
-		</headerToolbar>
-		<items>
-			<ObjectListItem
-				title="{bbcards>id}: {bbcards>quote}">				
-			</ObjectListItem>
-		</items>
-	</List>
+            <List id="bbcards" class="sapUiResponsiveMargin" width="auto" items="{bbcards>/bbcards}">
+                <headerToolbar>
+                    <Toolbar>
+                        <SearchField placeholder="{i18n>bbcardsPlaceholder}" width="50%" search=".onSearch" />
+                        <Button type="Emphasized" text="God Shot" press=".godShot" />
+                    </Toolbar>
+                </headerToolbar>
+                <items>
+                    <CustomListItem>
+                        <ExpandableText class="sapUiResponsiveMargin" text="{bbcards>id}: {bbcards>quote}" overflowMode="{overflowMode}" />
+                    </CustomListItem>
+                </items>
+            </List>
         </Page>
     </Shell>
 </mvc:View>

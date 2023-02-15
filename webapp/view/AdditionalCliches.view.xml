@@ -1,24 +1,19 @@
 <mvc:View controllerName="HNGv2.highnoongamble.controller.AdditionalCliches" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:layout="sap.ui.layout">
     <Shell>
         <Page id="page" title="{i18n>additionalClichesTitle}" showNavButton="true" navButtonPress=".onNavBack">
-        <List
-		id="additionalcliches"
-		class="sapUiResponsiveMargin"
-		width="auto"
-		items="{additionalcliches>/additionalcliches}"
-		growing="true">
-		<headerToolbar>
-			<Toolbar>
-				<SearchField placeholder="{i18n>additionalClichesPlaceholder}" width="50%" search=".onSearch"/>
-				<Button type="Emphasized" text="God Shot" press=".godShot" />
-			</Toolbar>
-		</headerToolbar>
-		<items>
-			<ObjectListItem
-				title="{additionalcliches>id}: {additionalcliches>quote}">				
-			</ObjectListItem>
-		</items>
-	</List>
+            <List id="additionalcliches" class="sapUiResponsiveMargin" width="auto" items="{additionalcliches>/additionalcliches}" growing="true">
+                <headerToolbar>
+                    <Toolbar>
+                        <SearchField placeholder="{i18n>additionalClichesPlaceholder}" width="50%" search=".onSearch" />
+                        <Button type="Emphasized" text="God Shot" press=".godShot" />
+                    </Toolbar>
+                </headerToolbar>
+                <items>
+                    <CustomListItem>
+                        <ExpandableText class="sapUiResponsiveMargin" text="{additionalcliches>id}: {additionalcliches>quote}" overflowMode="{overflowMode}" />
+                    </CustomListItem>
+                </items>
+            </List>
         </Page>
     </Shell>
 </mvc:View>

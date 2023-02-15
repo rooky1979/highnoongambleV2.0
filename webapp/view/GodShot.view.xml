@@ -1,23 +1,19 @@
 <mvc:View controllerName="HNGv2.highnoongamble.controller.GodShot" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:layout="sap.ui.layout">
     <Shell>
         <Page id="page" title="{i18n>godShotTitle}" showNavButton="true" navButtonPress=".onNavBack">
-        <List
-		id="godshot"
-		class="sapUiResponsiveMargin"
-		width="auto"
-		items="{godshot>/godshot}">
-		<headerToolbar>
-			<Toolbar>
-                <Title titleStyle="H2" text="{i18n>godShotText}" class="sapUiTinyMarginBegin" />
-				<Button type="Emphasized" text="God Shot" press=".godShot" />
-			</Toolbar>
-		</headerToolbar>
-		<items>
-			<ObjectListItem
-				title="{godshot>book}: {godshot>quote}">				
-			</ObjectListItem>
-		</items>
-	</List>
+            <List id="godshot" class="sapUiResponsiveMargin" width="auto" items="{godshot>/godshot}">
+                <headerToolbar>
+                    <Toolbar>
+                        <Title titleStyle="H2" text="{i18n>godShotText}" class="sapUiTinyMarginBegin" />
+                        <Button type="Emphasized" text="God Shot" press=".godShot" />
+                    </Toolbar>
+                </headerToolbar>
+                <items>
+                    <CustomListItem>
+                        <ExpandableText class="sapUiResponsiveMargin" text="{godshot>book}: {godshot>quote}" overflowMode="{overflowMode}" />
+                    </CustomListItem>
+                </items>
+            </List>
         </Page>
     </Shell>
 </mvc:View>

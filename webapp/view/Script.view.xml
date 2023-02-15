@@ -1,6 +1,6 @@
 <mvc:View controllerName="HNGv2.highnoongamble.controller.Script" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:layout="sap.ui.layout" xmlns:f="sap.f" xmlns:w="sap.ui.integration.widgets">
     <Shell>
-        <Page id="page" class="scriptbkg" title="{i18n>scriptTitle}" >
+        <Page id="page" class="scriptbkg" title="{i18n>scriptTitle}" showNavButton="true" navButtonPress=".onNavBack">
             <content>
                 <Panel class="sapUiResponsiveMargin panelColor" width="auto" growing="true">
                     <content>

@@ -9,7 +9,9 @@
                     </Toolbar>
                 </headerToolbar>
                 <items>
-                    <ObjectListItem title="{mymind>id}: {mymind>quote}" />
+                    <CustomListItem>
+                        <ExpandableText class="sapUiResponsiveMargin" text="{mymind>id}: {mymind>quote}" overflowMode="{overflowMode}" />
+                    </CustomListItem>
                 </items>
             </List>
         </Page>
